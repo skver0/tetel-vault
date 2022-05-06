@@ -1,7 +1,7 @@
 #### Emelt infó angol
 - [ ] 1. Communication
 - [x] [[2. Information, sign, data, noise, redundancy]]
-- [ ] 3. Transfiguration and decoding
+- [x] [[3. Transfiguration and decoding]]
 - [ ] 4. Structure of the computer
 - [ ] 5. Workplace safety and ergonomics
 - [ ] 6. The operating system and its main tasks
