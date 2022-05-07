@@ -1,5 +1,5 @@
 #### Emelt infó angol
-- [ ] 1. Communication
+- [x] [[1. Communication]]
 - [x] [[2. Information, sign, data, noise, redundancy]]
 - [x] [[3. Transfiguration and decoding]]
 - [x] [[4. Structure of the computer]]
@@ -17,4 +17,4 @@ Történelem | 20 | Jun 22. | 0
 Nyelvtan | 20 | Jun 22. | 0
 Irodalom | 20 | Jun 22. | 0
 Informatika (szakmai, közép) | 20 | Jun 22. | 0
-Informatika (közismereti, emelt, angol) | 10 | Jun 04. | 5
+Informatika (közismereti, emelt, angol) | 10 | Jun 04. | 6
