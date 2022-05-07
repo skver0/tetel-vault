@@ -3,7 +3,7 @@
 - [x] [[2. Information, sign, data, noise, redundancy]]
 - [x] [[3. Transfiguration and decoding]]
 - [ ] 4. Structure of the computer
-- [ ] 5. Workplace safety and ergonomics
+- [x] [[5. Workplace safety and ergonomics]]
 - [ ] 6. The operating system and its main tasks
 - [ ] 7. Communication on the internet
 - [ ] 8. Libraries
@@ -17,4 +17,4 @@ Történelem | 20 | Jun 22. | 0
 Nyelvtan | 20 | Jun 22. | 0
 Irodalom | 20 | Jun 22. | 0
 Informatika (szakmai, közép) | 20 | Jun 22. | 0
-Informatika (közismereti, emelt, angol) | 10 | Jun 04. | 3
+Informatika (közismereti, emelt, angol) | 10 | Jun 04. | 4

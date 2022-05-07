@@ -1,0 +1,73 @@
+# Workplace safety and ergonomics
+---
+### Healthy work environment design concepts
+
+- legislations protect the health of those working in front of a screen in the EU
+	- prevention
+		- vision impairment 
+		- mental load 
+		- musculoskeletal involvement
+	- provisions
+		- 10-minute break every hour
+		- maximum 6 hours in front of the screen
+		- stable office chair
+		- noiseless environment
+		- equipment should not develop uncomfortable heat
+---
+### Work and health protection
+
+- possible health complaints
+	- hands
+	- locomotor organs 
+	- eyes
+	- mental problems
+- it is the employer's responsibility to prevent potential risk
+- in general
+	- the placement of the computer
+		- bad posture
+		- not enough space
+		- bad lighting
+	- solutions
+		- movable monitor in all directions
+		- leaving adequate space (in case of L shaped desks)
+		- no reflective surfaces
+- keyboard
+	- there should be 8 to 10 cm space in front of the keyboard
+- mouse
+	- enough space for navigation
+- space
+	- restriction of personal space → stress
+		- the table should be large enough for a flexible layout
+		- laptop holder → must be adjustable
+		- stable office chair → adjustable
+		- on request a footrest shall be provided
+- heating units
+	- should not pollute the air
+	- should not cool / heat the place too much
+- lights
+	- appropriate lighting and contrast, taking into account the nature of the work and the user
+	- artificial light
+		- glare and reflections must be prevented
+			- good placement
+			- good windows
+			- good lighting devices
+- monitor
+	- CRT
+		- radiates, flashes
+	- LCD
+		- doesn't radiate / flash
+	- too much focus can make you blink less -> dry eyes
+	- important
+		- pay attention to resolution, font size
+	    - sit facing the screen
+		- look slightly down at the monitor
+		- the monitor and the keyboard should not be at an angle
+		- have adequate contrast
+---
+### Ergonomics of the computer and peripherals
+
+- ergonomics: a discipline dealing with work processes and the optimal relationship between man and technical equipment
+- there is now an increasing emphasis on humanizing the environment, because people are influenced by the environment
+	- a poor working environment can reduce productivity by up to 25-30%
+- the ergonomics of a programme
+	- intutivity, clarity, manageability, communication, reliable operation
