@@ -8,7 +8,7 @@
 - [x] [[Communication on the internet|7. Communication on the internet]]
 - [ ] 8. Libraries
 - [x] [[Information Searching|9. Information searching]]
-- [ ] 10. Use of resources
+- [ ] [[Use of resources|10. Use of resources]]
 
 
 Tantárgy | Tételek | Vizsga | Tétel Done

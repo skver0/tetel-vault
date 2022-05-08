@@ -1,0 +1,215 @@
+# Use of resources
+---
+### Comparing printed and non-printed documents
+- document
+	- an independent intellectual product, an independent unit of information, the purpose of which is to communicate information, to transfer knowledge
+- can be grouped in several ways
+	- production
+		- printed / handwritten
+			- appearance is static
+			- order of information is bound
+			- components are homogeneous, can have images with text
+			- cannot be converted
+			- transport is traditional and expensive
+			- the method of distribution is with commercial traffic
+		- electronic
+			- appearance is dynamic
+			- order of information is variable
+			- components are homogeneous, can have images, videos with text
+			- can be converted
+			- transport is easy and cheap
+			- the method of distribution is with the internet
+---
+### The main types of printed documents and communicative works
+- books can be divided into three groups
+	- informational works
+	- literary works
+	- reference works (informative reference books)
+- **informational works** can be divided into two groups
+	- profession books
+		- scientific works, which are written correctly and with scientific rigor in accordance with the rules of the given field
+	- educational books
+		- good quality, objective works, their purpose is to arouse interest
+- **monograph**
+	- a document / book that elaborates on a particular topic
+	- longer professional work
+	- it elaborates on a well-defined topic in several ways
+- **study volume**
+	- summary document on a specific topic
+- **manual**
+	- communicates new, usually out-of-date knowledge
+	- a work containing basic knowledge of a given field
+	- the author can be a person or a group
+	- due to the richness of their material, they are suitable for both bibliographic and factual orientation
+---
+### Help books as sources of direct knowledge acquisition
+- essential in obtaining information
+- they already process known, published information
+- types
+	- encyclopedias
+		- they systematically present the knowledge they discuss 
+		- each concept is processed with scientific rigor 
+		- provides literature on the subject 
+		- the concepts of a discipline / topic are processed in it
+		- has an alphabetical index
+	- lexicons
+		- terms are usually presented in alphabetical order
+		- gives a short, concise, professional explanation 
+		- discusses all the knowledge and results of a given period, while profession lexicons discusses all the knowledge and results of a science
+	- repository of public knowledge
+		- helps every citizen in everyday life (e.g. schedule, map, phone books, etc.)
+	- dictionary
+		- lists words alphabetically
+		- interpretive dictionary
+			- explains words in the same language
+		- linguistic dictionary 
+			- corresponds to a word in another language occasionally synonyms and usage patterns
+	- repository
+		- works for fast and accurate data retrieval
+		- it is limited to factual material, it does not provide an explanation
+	- glossary
+		- its terms are related to a specific area
+		- for accurate interpretation of concepts in a field of science
+		- mostly alphabetical
+	- chronology
+		- events in the life of a major historical / art historical period or geographic area or person
+		- contains information according to the influence of time, with references but without detailed exploration of the context
+	- directory
+		- list of people and their data e.g.: phone book, directory, school directory, yearbook
+	- atlas
+		- contains maps
+---
+### The concept and features of the non-printed document, comparison
+- appearance
+	- around the 19th to 20th century
+	- newer and newer inventions help to preserve information in various ways
+	- they can be created and displayed most of the time with technical tools
+	- sound material
+		- disc - disc player
+		- tape - recorder
+		- CD - CD player
+	- visual material
+		- photo - film
+			- development
+				- film projector, slides, holograms
+	- visual and sound material
+		- audio film - movie projector + sound system
+		- video film - TV
+	- multimedia
+		- magnetic, CD, DVD - computer, CD / DVD player
+		- any today's multimedia devices
+---
+### The usage of manuals
+- has to give an accurate answer to a question
+- the choice of a medium depends on the level and how accurate, detailed an answer we want
+- types of medium
+	- printed
+	- electronic
+	- communication
+- using mediums
+	- the method selected within each medium must be examined
+		- table of contents, preface, introduction, etc.
+	- after the selected method is verified we start searching for the answer for our question
+	- if you do not have a specific apparatus, they cannot be used for immediate information retrieval → they must be completely read for an answer
+---
+### Types of informational tools
+- library navigation tools to help the reader / user to find information / documents of interest
+- 3 factors
+	- the user
+	- the information system
+	- the document
+- the search can be direct or indirect
+- the system tries to answer in a language created from specific symbols or language elements
+- it is based on the content and form elements of the documents
+- the information is always, but not limited to a specific library holding
+- retrieval (passive) information, answers specific questions
+- broadcast (active) information, offers its services in front of user needs
+	- this is done with the help of bibliographies and reference sheets
+- the main information tools of a library
+	- free shelf system, manuals
+	- bibliographies catalogs 
+	- computer databases
+---
+### The concept and types of bibliography
+ - systematic description and list of documents and information
+ - its task is to take documents into account and to inform them of their existence and content
+ - it must contain the bibliographic identification of the documents
+ - bibliographic references are bound both formally and substantively
+
+##### Breakdown of bibliographies by content
+- general
+	- a bibliography covering all areas, which in principle does not take the constraints of content and form into account 
+	- usually its scope is limited to some degree (otherwise it would be impossible to compile), e.g. geographically, linguistically, periodically
+- profession
+	- it collects the literature of a discipline or subfield for professionals, those with increased interest
+
+### Breakdown of bibliographies by depth of exploration
+- complete
+	- it collects the full literature on the subject
+- assorted
+	- sorted by some aspects of literature
+
+### Breakdown of bibliographies by finding method
+- independent
+	- appears independently, no other text is added
+- hidden
+	- within the text of a document or in its notes
+	- in the case of scientific works, it is essential to list the sources used
+---
+### The concept of retrospective and current bibliography
+- retrospective
+	- summary in nature
+	- strives for completeness
+- concurrent (continuous)
+	- published regularly
+	- it records works published between two literature
+---
+### Information catalog
+- referential journal
+	- gathers the most important and latest results of a given discipline
+	- describes the literature
+	- indicators make it easier to navigate between recommendations
+- repertoire
+	- processes material from one or more journals
+	- retrospectively for several years
+	- publishes an alphabetical and thematic list of published articles
+- assorted catalog
+	- publishers and book clubs often inform the public about a specific time period when they published their documents
+- book and video recommendation
+	- various program booklets, etc.
+	- they are aimed at a wider audience, not practitioners in the field
+- criticisms, reviews, recommendations
+	- they are not bibliographies, but they help you find your way around the subject
+	- these short articles summarize the material of a particular document
+	- the features are presented and evaluated taking the user's perspective into account
+---
+### Aspects of source selection
+- resource finding
+	- it is useful to review secondary sources (catalogs, bibliographies)
+	- moving backwards from the present on the subject
+- critique of resources
+	- the authenticity and value of the found resources must be checked
+	- we have to look at the external and internal content cues and make decisions based on them
+- value and authenticity of information
+	- depends on the recipient and the freshness (online press preferred) 
+	- credibility depends on its source (reliable)
+- select sources
+	- it is based on source criticism
+	- the most important aspect is relevance (information noise, filtering out irrelevant results)
+---
+### Rules and ethical aspects of source designation
+- resources may only be used in accordance with certain formal and ethical requirements (copyright law, etc.)
+- formal requirements
+	- publication of data on the sources used (bibliographic item, who, what, where, when, how much was published)
+- ethical standards
+	- the data should be noted that it is not our intellectual property
+		- an exception when it comes to a well-known data or thought
+	- we can just take a line of thought, or we can quote literally or even make it data-like
+		- in all three cases, we must adhere to ethical requirements regarding the use of resources
+---
+### Principles for referring to Internet resources
+- resources on the internet should also be cited
+- references are very similar to bibliographic references
+	- basic (available) bibliographic data on documents published on the internet must also be provided
+	- in addition to the bibliographic reference, the path (URL) and the exact date of use are required
+	- the date of use (last download) is important because the internet's materials can change, so we need to indicate when we refer to the document as it stands
