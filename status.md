@@ -1,13 +1,13 @@
 #### Emelt infó angol
-- [x] [[communication|1. Communication]]
-- [x] [[information|2. Information, sign, data, noise, redundancy]]
-- [x] [[transfiguration|3. Transfiguration and decoding]]
-- [x] [[structure|4. Structure of the computer]]
-- [x] [[workplacesafety|5. Workplace safety and ergonomics]]
+- [x] [[Communication|1. Communication]]
+- [x] [[Information|2. Information, sign, data, noise, redundancy]]
+- [x] [[Transfiguration and decoding|3. Transfiguration and decoding]]
+- [x] [[Structure of the computer|4. Structure of the computer]]
+- [x] [[Workplace safety and ergonomics|5. Workplace safety and ergonomics]]
 - [ ] 6. The operating system and its main tasks
-- [x] [[internetcommunication|7. Communication on the internet]]
+- [x] [[Communication on the internet|7. Communication on the internet]]
 - [ ] 8. Libraries
-- [x] [[informationsearching|9. Information searching]]
+- [x] [[Information Searching|9. Information searching]]
 - [ ] 10. Use of resources
 
 
