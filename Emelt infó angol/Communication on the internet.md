@@ -107,7 +107,7 @@
 	- does not work in case of network failure
 	- spam
 	- if the address is typed wrong, the mail is sent to the wrong recipient
-- structure (username@server.domain)
+- structure `username@server.domain`
 	- username 
 		- unique on the server, identifier
 	- @ (at) 

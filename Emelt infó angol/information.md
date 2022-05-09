@@ -232,6 +232,7 @@
 - journaling
 ---
 ### Definition of computer viruses and pests, their properties
+#viruses
 - operation: when it runs, it attaches itself to programs and scripts, which it spreads as it runs, it works conditionally: e.g. it activates only after running x times 
 - source: flash drives, emails, foreign / cracked programs, unreliable websites
 

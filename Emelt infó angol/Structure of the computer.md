@@ -268,6 +268,7 @@
 	- Internet
 ---
 ### Network models, topologies
+#networkmodel
 - Network models (hierarchy)
 	- Client - Server
 		- Servers provide services to clients
