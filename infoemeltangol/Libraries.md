@@ -68,16 +68,19 @@
 ---
 -  **National library definition**
 	- National libraries are libraries, that are specialized on litretures, and metarials, that are related to the given country. in the hungarian national library they don't necesarrily have contents in only hungarian language, but any language given, that it's content is relatod to the country, in some way.
+---
 - **The role of the national Széchenyi Library in the hungarian library system.**
 	- it collect's all types of hungarian materials, books etc.
 	- it has to register all official document that is written in hungarian
 	- anyone who creates a book or official material in hungarian, has to provide 6 copyies to the national Library
+---
 - **Short history of the National Széchenyi Library**
 	- was founded in 1802 by hungarian aristocrat Széchenyi Ferenc
 	- The vast hungarian collection which he collected around the world, he donated to the library as a base
 	- for 200 years the library was merged with the Hungarian National museum which collected a all types of hungarian related relics, archeological pieces, and litreture
 	- 1949 the library demerged into a seperate entity, with it's current name
 	- 1985 the library moved to the Buda castle palace
+---
 - **Library services**
 	- registration (people registering into the cataloge of the library)
 	- rental of books 
@@ -89,8 +92,10 @@
 	- rental time usually is a maximum of 2-4 weeks
 	- books with high demand can have lower rental time allowed, ie: 1 week 
 	- to use services like reading a book inside the library, the librarian can connect proper, defined behaviour to the enabling of the service. ie: (if you are loud in the library the librarian will not give you any books, or even kick you out.)
+---
 - **The definition of cataloge**
 	- basically a collection of titles, and page numbers etc, that helps guide the reader without him/her needing to look through all of the book.
+---
 - **Search strategy inside cataloges**
 	- simple search
 		- searching using words, that relate to either the author, title, publisher etc.
@@ -98,17 +103,22 @@
 		- searching by combining more than one search element, creating a query
 	- browsing/ seaching using lists
 		- searching using listings like materials ordered by abc etc.
+---
 - **Digital libary**
 	- a library that consist of materials digitized, by converting them into photo, audio, or video, and uploaded into a digital, or only database.
+---
 - **Computer cataloges**, as informing devices
 	- can be accessed, from wherever, whenever (online ones at least)
 	- more flexible, usually better user friendliness
 	- it's easier to connect different library cataloges
 	- easier searching
 	- can be easily accessed online, if published 
+---
 - **Hungarian computer cataloges**
 	- SZIRÉN
 	- MOKKA
 	- KISTÉKA
+---
 - **bibliography**
 	- the history, identification, or description of writings or publications
+---
