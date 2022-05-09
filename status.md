@@ -6,7 +6,7 @@
 - [x] [[Workplace safety and ergonomics|5. Workplace safety and ergonomics]]
 - [x] [[The operating system and its main tasks|6. The operating system and its main tasks]]
 - [x] [[Communication on the internet|7. Communication on the internet]]
-- [ ] 8. Libraries
+- [x] 8. Libraries
 - [x] [[Information Searching|9. Information searching]]
 - [x] [[Use of resources|10. Use of resources]]
 
