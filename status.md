@@ -1,7 +1,7 @@
 Tantárgy | Tételek | Vizsga | Tétel Done
 ------------ | ------------ | ------------ | ------------
-Történelem | 20 | Jun 22. | 0
-Nyelvtan | 20 | Jun 22. | 0
-Irodalom | 20 | Jun 22. | 0
-Informatika (szakmai, közép) | 20 | Jun 22. | 0
-[Informatika (közismereti, emelt, angol)](infoemeltangol/einfang) | 10 | Jun 04. | 10
+[Történelem](tortenelem/info) | 20 | Jun 22. | 0
+[Nyelvtan](nyelvtan/info) | 20 | Jun 22. | 0
+[Irodalom](irodalom/info) | 20 | Jun 22. | 0
+[Informatika (szakmai, közép)](szakmaiinfo/info) | 20 | Jun 22. | 0
+[Informatika (közismereti, emelt, angol)](infoemeltangol/info.md) | 10 | Jun 04. | 10
