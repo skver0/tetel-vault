@@ -102,7 +102,7 @@ In information theory, redundancy is the use of more signals than necessary to c
 --- 
 ### Electronic communication and its tools 
 Electronic communication is the method by which various types of information are transmitted at the speed of light in the form of electrical energy. The original information (sound, light, mechanical energy...) must therefore always first be converted into electrical energy, which is then transmitted by wires, cables or electromagnetic waves in space. The receiver converts the electrical energy back into its original form.
-- Morse-távíró, telex, telefon, fax, rádió, TV
+- Morse-telegraph, telex, telefon, fax, radio, TV
 - internet (WAN)
 	- IRC (Internet Relay Chat), i.e. chat
 	- Internet telephony - VoIP
