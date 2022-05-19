@@ -1,5 +1,5 @@
 #### Szakmai info
-- [ ] [[|1. A számítógép felépítése]]
+- [x] [[szakmaiinfo/A szamitogep felepitese|1. A számítógép felépítése]]
 - [ ] [[|2. Hordozható eszközök]]
 - [x] [[Operacios rendszerek|3. Operációs rendszerek]]
 - [ ] [[|4. Háttértárak típusai, formázása]]
