@@ -1,7 +1,7 @@
 #### Szakmai info
 - [ ] [[|1. A számítógép felépítése]]
 - [ ] [[|2. Hordozható eszközök]]
-- [ ] [[|3. Operációs rendszerek]]
+- [x] [[Operacios rendszerek|3. Operációs rendszerek]]
 - [ ] [[|4. Háttértárak típusai, formázása]]
 - [ ] [[|5. Szoftverek telepítése]]
 - [ ] [[|6. Nyomtató üzembe helyezése, karbantartása]]
