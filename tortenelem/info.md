@@ -9,7 +9,7 @@
 - [ ] [[|8. Géza fejedelemsége és Szent István államszervező tevékenysége]]
 - [ ] [[|9. Hunyadi Mátyás uralkodása]]
 - [ ] [[|10. A reformkor főbb kérdései és képviselői]]
-- [ ] [[|11. Julius Caesar egyeduralmi kísérlete]]
+- [x] [[Julius Caesar egyeduralmi kiserlete|11. Julius Caesar egyeduralmi kísérlete]]
 - [ ] [[|12. A dualista állam. A kiegyezés tartalma és értékelése]]
 - [ ] [[|13. Az 1956-os forradalom és szabadságharc kitörésének okai és főbb eseményei]]
 - [ ] [[|14. A tatárjárás]]
