@@ -103,7 +103,6 @@
 	- Often, we are not able to represent an exact value, so we will treat it as an approximate value.
 	- The byte where the number is handled is divided into two parts and wtih 1 bit if it's negative or positive number: 
 		- mantissa, and characteristics : 
-![[-1.png]]
 --- 
 ### Forms of binary character representation, structure and characteristics of code tables (ASCII, UNICODE)
 - coding: when according to sets of rules, converting characters from a set to another set like: from ASCII to UNICODE
@@ -148,4 +147,3 @@
 	- Consists of cyan, purple, yellow, and black
 	- it consitst of 4 byte, which is 32 bit 
 
-![[Pasted image 20220520194211.png]]
