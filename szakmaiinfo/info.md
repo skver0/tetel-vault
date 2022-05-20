@@ -4,7 +4,7 @@
 - [ ] [[|3. Nyomtatók]]
 - [x] [[Operacios rendszerek|4. Operációs rendszerek]]
 - [ ] [[|5. Állománytípusok]]
-- [ ] [[|6. Rosszindulatú szoftverek]]
+- [x] [[szakmaiinfo/Rosszindulatu szoftverek|6. Rosszindulatú szoftverek]]
 - [ ] [[|7. Háttértárak formázása]]
 - [ ] [[|8. Felhasználói fiókok kezelése]]
 - [ ] [[|9. Nyomtató üzembe helyezése, karbantartása]]

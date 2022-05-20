@@ -1,0 +1,49 @@
+# Rosszindulatú szoftverek
+---
+- több típus létezik, megkülönböztetni őket feltételek alapján lehet 
+	- működés
+	- terjedés
+	- lapangás
+- rosszindulatú program
+	- olyan szoftver ami a számítógép funkcionalitását gátolja vagy nehezíti meg
+	- esetleg fontosabb adatokat lopnak el, lelassítják a számítógépet vagy akár emaileket küld szét az ismerőseidnek
+---
+### Rosszindulatú programok fajtái
+- vírus
+	- saját magát másolja és "ferzőti" a számítógépet
+- féreg
+	- másnéven Worm
+	- halózaton keresztül saját magából példányokat hoz létre másik számítógépeken
+- kémprogram
+	- másnéven Spyware
+	- adatokat gyüjt a felhasználóról, mind ezt teljesen elrejtve a felhasználótól
+- reklámprogram
+	- másnéven Adware
+	- hirdetéseket játszik, jelenít meg a felhasználónak
+- trójai
+	- másik programnak rejti magát majd késöbb árt a számítógépnek vagy ellopja az adatokat
+---
+### Terjedésük különböző módja
+- ingyenes szoftver letöltésekor, rejtetten roszindulatú programot tartalmaz
+- valódi szoftver letöltésekor, rejtetten rosszindulatú programot is csatoltak
+- rosszindulatú programmal fertőzött webhely
+- oldalakon vagy programban előugró ablak, ami elindít egy rosszindulatú program letöltését
+- emailek csatolmányai
+---
+### Védekezés rosszindulatú programok ellen
+- naprakészen tartani a számítógépet és a programokat
+	- az operációs rendszerek fejlesztői gyakran adnak ki frissítéseket és érdemes ezeket fel telepíteni
+	- a frissítéseket általában biztonsági rések javítására szokták kiadni
+	- általában van automatikus frissítések az operációs rendszereken
+- ne rendszergazda fiókot használjon
+	- operációs rendszerekben szokott lenni lehetőség arra, hogy több felhasználói fiókot lehessen létrehozni
+		- ezekhez lehet biztonsági beállításokat beállítani
+	- rendszergazdai fiókoknak mindenre van jogosultsága, míg korlátozott/normál profilon nem
+- gondoljuk meg mit töltünk le, figyelmesen ellenőrizzük
+- gondoljuk át a kapott emailt mielött megnyitunk egy mellékletet
+	- nem mindig biztonságos az amit a barátaink küldenek
+		- óvatosan átkell vizsgálni az üzenetet hogy emnnyire hasnolít a barátunk írásaihoz vagy esetleg mennyire hasonlít spam típusú emailre
+- ne bizzon meg az előugró ablakokban, főleg, ha valamilyen szoftver letöltésére szólítják fel
+	- általában ezek megtévesztésre lettek létrehozva
+- korlátozza a fájlmegosztási tevékenységét
+- használjon vírusírtó szoftvert
