@@ -3,7 +3,7 @@
 A nevéből adódóan olyan eszközökről beszélünk, amellyek elég könnyűek és kis méretűek, ahhoz hogy magunknál tartsuk és használjuk utazás, vagy éppen sétálás közben. Első ilyen eszköznek az Osborne 1-et nevezhetjük, amely 11 kilós volt és még nem volt belső akkumulátora.
 
 ---
-### fajták: 
+### Fajták
 - notebook/laptop
 	- táskában hordozható, vékony, nem hasonlít egy szokványos PC-hez
 	- kicsi (10-17 inches) LCD monitorral, billenytűvel, érintőpaddal rendelkezik
