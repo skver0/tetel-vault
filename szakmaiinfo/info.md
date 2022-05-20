@@ -1,5 +1,5 @@
 #### Szakmai info
-- [x] [[|1. Számrendszerek]]
+- [x] [[szakmaiinfo/Szamrendszerek|1. Számrendszerek]]
 - [x] [[szakmaiinfo/A szamitogep felepitese|2. A számítógép felépítése]]
 - [ ] [[|3. Nyomtatók]]
 - [x] [[Operacios rendszerek|4. Operációs rendszerek]]
