@@ -86,6 +86,7 @@ In 1949, Claude Shannon and Warren Weaver published their communication model, w
 	- torrent
 
 ![channel](https://i.imgur.com/EwxjUWH.png)
+
 ---
 ### Noise-canceling
 - in case of analog signal: noise-canceling, insulation (e.g. soundproofing, electromagnetic shielding).

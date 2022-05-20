@@ -1,0 +1,76 @@
+# Hordozható eszközök
+--- 
+A nevéből adódóan olyan eszközökről beszélünk, amellyek elég könnyűek és kis méretűek, ahhoz hogy magunknál tartsuk és használjuk utazás, vagy éppen sétálás közben. Első ilyen eszköznek az Osborne 1-et nevezhetjük, amely 11 kilós volt és még nem volt belső akkumulátora.
+
+---
+### fajták: 
+- notebook/laptop
+	- táskában hordozható, vékony, nem hasonlít egy szokványos PC-hez
+	- kicsi (10-17 inches) LCD monitorral, billenytűvel, érintőpaddal rendelkezik
+	- minden preiféria csatlakoztatható, ami egy rendes PC-hez
+	- relatív kis tárhely (120GB-240GB)
+	- modellek:
+		- Lenovo Thinkpad
+		- Apple MacBook
+- táblagép/tablet
+	- érintőképernyő, saját operációs rendszer
+	- vékony, lapos
+	- nagy képernyő mobilhoz viszonyítva
+	- hiányzik belőle a PC-k és a notebookok beviteli perifériái
+	- követelmény:
+		- Wi-Fi
+		- bluetooth
+		- kamera
+		- gyorsulásmérő
+	- modellek:
+		- Samsung Galaxy Tab S
+		- Apple iPad
+- hybrid eszközök
+	- tabletek, amik csatolható billentyűzettel rendelkeznek
+	- általában x86-osak, de lehetnek ARM-osak is
+	- lehet rajtuk szokványos portok (USB, DisplayPort)
+	- modellek:
+		- Lenovo Yoga
+		- Microsoft Surface Pro
+- ultrabook
+	- vékonyabb és könnyebb, mint a sima notebook
+	- alacsony fogyasztású processzorok
+	- SSD
+	- nincs rajtuk optikai meghajtó és ethernet port
+	- modellek:
+		- Apple MacBook Air
+		- Asus ZenBook
+- okostelefon
+	- PC-szerű funkcionalitás és telefonáló képesség egy kis eszközben
+	- saját operációs rendszer, ARM architektúra
+	- internetes böngészés, kamerák, médiatartalmak
+	- vezetéknélküli protokollok, gyorsulásmérők, giroszkóp, GPS
+	- régebben fizikai billentyűzet, mára szoftveres
+	- applikációk, felhők, virtuális asszistens
+---
+### Előnyei és Hátrányai
+- előnyei
+	- könnyű hozzáférés az információhoz
+	- alacsony működési költség
+	- egyénire szabás
+	- multitasking
+	- idő-hatékonyság
+- hátrányai
+	-  irásbeliség elvesztése
+	- hagyományok leépülése
+	- verbális kommunikáció háttérbe szorulása
+	- arámszünet esetén tehetetlenség
+	- költséges beszerzés
+	- mozgányhiányos életmód
+---
+### PC és hordozható eszközök összehasonlítása
+- hordozhatók előnyei
+	- hordozhatóság
+	- kis helyigény
+	- alacsonyabb energiafogyasztás
+- PC előnyei
+	- arányaiban olcsóbb
+	- modularitás
+	- nagyobb biztonság (nem lehet elhagyni)
+	- nagyobb pixelszám mellet kevésbé terhelődik a szemünk
+ 
