@@ -12,7 +12,7 @@
 - [x] [[Julius Caesar egyeduralmi kiserlete|11. Julius Caesar egyeduralmi kísérlete]]
 - [ ] [[|12. A dualista állam. A kiegyezés tartalma és értékelése]]
 - [ ] [[|13. Az 1956-os forradalom és szabadságharc kitörésének okai és főbb eseményei]]
-- [ ] [[|14. A tatárjárás]]
+- [ ] [[tortenelem/A tatarjaras|14. A tatárjárás]]
 - [ ] [[|15. Az első világháború és a világháborút lezáró versailles-i békerendszer]]
 - [ ] [[|16. Magyarország háborúba lépése és részvétele a második világháborúban]]
 - [ ] [[|17. A hidegháború]]
