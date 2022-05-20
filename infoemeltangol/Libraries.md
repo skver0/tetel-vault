@@ -2,9 +2,13 @@
 ---
 ### Library usage
 - **Definition**
-	- a building, room, or organization that has a collection of books, documents, music, and sometimes things such as tools or artwork, for people to borrow, usually without payment.
+	- a building, room, or organization that has a collection of books, documents, music, and sometimes tools or artworks, for people to borrow, usually without payment.
 ---
-- **History** (hungarian libraries briefly)
+- **A brief overview of the universal and hngarian library history and development**
+	- The remains of the oldest known library have been found among the ruins of the northern Syrian city of Ebla. The writing was on clay tablets. Even this early library had about 16 000 pieces in the collection
+	- 60,000 clay tablets with cuneiform inscriptions have already been preserved in the library of Assur-Ban-Apli, the Assyrian ruler of Nineveh
+	- The Library of Alexandria in Egypt, home to half a million papyrus scrolls, was the most famous library of antiquity. Its collection was destroyed in a fire in 43 BC.
+	- The city of Rome was already a city in 40 BC 300 years later, the number had risen to 30. Private libraries of wealthier Romans were also important.
 	- Pannonhalma library (opened in 1001)
 		- hundreds of manuscripts, codexes were were collected, and stored.
 		- The Library's collection was lessened, by the Invasion of the turks around 1683.
@@ -93,32 +97,4 @@
 	- books with high demand can have lower rental time allowed, ie: 1 week 
 	- to use services like reading a book inside the library, the librarian can connect proper, defined behaviour to the enabling of the service. ie: (if you are loud in the library the librarian will not give you any books, or even kick you out.)
 ---
-- **The definition of cataloge**
-	- basically a collection of titles, and page numbers etc, that helps guide the reader without him/her needing to look through all of the book.
----
-- **Search strategy inside cataloges**
-	- simple search
-		- searching using words, that relate to either the author, title, publisher etc.
-	- complex search
-		- searching by combining more than one search element, creating a query
-	- browsing/ seaching using lists
-		- searching using listings like materials ordered by abc etc.
----
-- **Digital libary**
-	- a library that consist of materials digitized, by converting them into photo, audio, or video, and uploaded into a digital, or only database.
----
-- **Computer cataloges**, as informing devices
-	- can be accessed, from wherever, whenever (online ones at least)
-	- more flexible, usually better user friendliness
-	- it's easier to connect different library cataloges
-	- easier searching
-	- can be easily accessed online, if published 
----
-- **Hungarian computer cataloges**
-	- SZIRÉN
-	- MOKKA
-	- KISTÉKA
----
-- **bibliography**
-	- the history, identification, or description of writings or publications
----
+
