@@ -98,11 +98,11 @@ In information theory, redundancy is the use of more signals than necessary to c
 ### Characterisation of today's communication technologies and tools and how they fit into the communication model
 - visual (ie: smoke signals, storm warning, sign language(for the deaf), traffic lights, road signs)
 - verbal (ie: education, lecture)
-- written (ie: carrier pigeon, courier, leaflet, newspaper, post offica)
+- written (ie: carrier pigeon, courier, leaflet, newspaper, post office)
 - electronic (Morse-telegraph, telex, telephone, fax, computer networks, radio, TV, chat)
 --- 
 ### Electronic communication and its tools 
-Electronic communication is the method by which various types of information are transmitted at the speed of light in the form of electrical energy/signal. The original information (sound, light, mechanical energy...) must therefore always first be converted into electrical energy, which is then transmitted by wires, cables or electromagnetic waves in space. The receiver converts the electrical energy back into its original form.
+Electronic communication is the method by which various types of information are transmitted at the speed of light in the form of electrical energy/signal. The original information (sound, light, mechanical energy...) must therefore always first be converted into electrical energy, which is then transmitted by wires, cables or electromagnetic waves in space. The receiver converts the signal back into its original form.
 - Morse-telegraph, telex, telefon, fax, radio, TV
 - internet (WAN)
 	- IRC (Internet Relay Chat), i.e. chat
@@ -131,13 +131,13 @@ Today the we are so virtually invested, that we couldn't even imagine a world wi
 
 --- 
 ### The electronic forms of information searching
-Electronic information searching can be defined as searching something on our computer's or phones storage, on retriving any kind of information through radio, tv, news, but mostly searching using the internet with the help of a browser (ie: google, Duckduckgo, Bing, yahoo, etc.).
-There are several ways to search, like using keywords, topics but if you search the we only using these, or even their combination you'll have way too many search results, mostly because of too much spamming. So to combat this, browsers help you out by ranking websites which to your search, on many factors like number of users, reputation, clicks, or even by paying the company, who owns the search engine to rank the website higher, for the sponsored time.
+Electronic information searching can be defined as searching something on our computer's or phones storage, or retriving any kind of information through radio, tv, news, but mostly searching using the internet with the help of a browser (ie: google, Duckduckgo, Bing, yahoo, etc.).
+There are several ways to search, like using keywords, topics but if you search only using these, or even their combination you'll have way too many search results, mostly because of too much spam. So to combat this, browsers help you out by ranking websites to your search, on many factors like number of users, reputation, clicks, or even by paying the company, who owns the search engine to rank the website higher, for the sponsored time.
 
 --- 
 ### The existence and emergence of information systems in our daily lives (school, work, official business, leisure)
 Modern technologies make our lives much easier. You only have to look at online shops (eBay, Amazon), electronic
-electronic tax returns, online job applications, and a whole range of other official procedures. We can also download resources to help us with our studies, practice exercises, and we can also organise our leisure time more easily, for example by organising online activities such as studying for exams, etc. booking your accommodation, talk to friends about actvities, etc.
+electronic tax returns, online job applications, and a whole range of other official procedures. We can also download resources to help us with our studies, practice exercises, and we can also organise our leisure time more easily, for example by organising online activities such as studying for exams, booking your accommodation, talk to friends about actvities.
 The internet is also essential for work in many places (online conferences, online meetings, home office etc.)
 
 --- 
