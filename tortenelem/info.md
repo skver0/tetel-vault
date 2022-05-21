@@ -6,7 +6,7 @@
 - [ ] [[|5. A középkori város és a céhes ipar]]
 - [ ] [[|6. A XVIII. századi magyar társadalom demográfiai és etnikai változásai]]
 - [ ] [[|7. A Kádár-korszak mindennapjai]]
-- [ ] [[|8. Géza fejedelemsége és Szent István államszervező tevékenysége]]
+- [x] [[tortenelem/Geza fejedelemsege es Szent Istvan allamszervezo tevekenysege|8. Géza fejedelemsége és Szent István államszervező tevékenysége]]
 - [x] [[tortenelem/Hunyadi Matyas uralkodasa|9. Hunyadi Mátyás uralkodása]]
 - [ ] [[|10. A reformkor főbb kérdései és képviselői]]
 - [x] [[Julius Caesar egyeduralmi kiserlete|11. Julius Caesar egyeduralmi kísérlete]]
