@@ -1,7 +1,7 @@
 #### Szakmai info
 - [x] [[szakmaiinfo/Szamrendszerek|1. Számrendszerek]]
 - [x] [[szakmaiinfo/A szamitogep felepitese|2. A számítógép felépítése]]
-- [ ] [[|3. Nyomtatók]]
+- [x] [[szakmaiinfo/Nyomtatok|3. Nyomtatók]]
 - [x] [[Operacios rendszerek|4. Operációs rendszerek]]
 - [x] [[szakmaiinfo/Allomanytipusok|5. Állománytípusok]]
 - [x] [[szakmaiinfo/Rosszindulatu szoftverek|6. Rosszindulatú szoftverek]]
@@ -13,7 +13,7 @@
 - [ ] [[|12. Vezérlési szerkezetek]]
 - [ ] [[|13. Tesztelés és hibakeresés]]
 - [x] [[szakmaiinfo/Adatbaziskezeles alapfogalmai|14. Adatbáziskezelés alapfogalmai]]
-- [ ] [[|15. Átviteli közegek]]
+- [x] [[szakmaiinfo/Atviteli kozegek|15. Átviteli közegek]]
 - [ ] [[|16. Hálózati címek]]
 - [x] [[szakmaiinfo/Halozatok csoportositasa|17. Hálózatok csoportosítása]]
 - [x] [[szakmaiinfo/Halozati modellek|18. Hálózati modellek]]
