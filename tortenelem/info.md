@@ -7,7 +7,7 @@
 - [ ] [[|6. A XVIII. századi magyar társadalom demográfiai és etnikai változásai]]
 - [ ] [[|7. A Kádár-korszak mindennapjai]]
 - [ ] [[|8. Géza fejedelemsége és Szent István államszervező tevékenysége]]
-- [ ] [[|9. Hunyadi Mátyás uralkodása]]
+- [x] [[tortenelem/Hunyadi Matyas uralkodasa|9. Hunyadi Mátyás uralkodása]]
 - [ ] [[|10. A reformkor főbb kérdései és képviselői]]
 - [x] [[Julius Caesar egyeduralmi kiserlete|11. Julius Caesar egyeduralmi kísérlete]]
 - [ ] [[|12. A dualista állam. A kiegyezés tartalma és értékelése]]
