@@ -1,0 +1,56 @@
+# Hunyadi Mátyás uralkodása
+---
+### A hatalom megszilárdítása
+- 1458 januárjában Rákos mezei országgyülésen, nyomásra Hunyadi Mátyást választották királlyá (1458-1490)
+	- Podjebrád György chec kormányzó fogja volt Prágában, csak akkor engedte el ha a lányát veszi feleségül, Katalint
+	- nyiltan a bárok ellen fordult, fegyveres úton leszámolt velük
+		- korlátozták a hatalmát
+	- huszita csapatokat engedelmességre bírta, akik a Felvidéket fosztogatták, majd zsoldjába fogadta őket
+- III. Frigyes trónigénye (1440 óta a Szent Korona a Habsburg-kézen volt)
+- Hunyadi-liga és a köznemesség török ellenes fellépést vártak tőle
+	- 1463-ban hadjáratot vezetett Boszniábal, Jajcát visszafoglalta
+	- végvárrendszer fenntartása és erősítésére sok összeget áldozott
+- 1463-ban a Szent Koronát visszaszerezte
+	- ha férfi utód nélkül halna meg, a trón a Habsburgoké (bécsújhelyi szerződés)
+	- törvényesen megtudták koronázni Mátyást
+- rendek véleményét egyre kevésbé kére ki, bárok háttérbe szorultak
+	- 1471-ben volt az utolsó komolyabb nemesi mozgalom Mátyás ellen
+		- Vitéz János esztergomi érsek és Janus Pannonius pécsi püspök vezetésével
+---
+### Belpolitikai reformok
+- központosított hatalom kiépítése
+	- új személyéhez hű bárokat emelt fel
+	- valamely tisztségekbe alacsony származású hivatalnokokat nevezett ki
+	- rendi országgyűlést egyre ritkábban hívta össze
+	- bárok pozícióit gyengítette
+		- főkincstartók helyébe köznemesi vagy polgári kincstartókat bízott meg
+- bevételek
+	- adók
+		- kapuadó -> füstpénz
+			- több családot magában foglaló jobbágyporták helyett, háztartásonként (kéményenként) minden jobbágycsalád adózzon
+			- ezzel minden mentesség megszűnt
+		- szászok adója
+		- rendkívüli hadiadó
+			- török veszélyre hivatkozva
+		- kemény adóztatásnak köszönhetően nőtt a zsellérek száma
+- kiadások
+	- zsoldos haderő finanszírozása
+		- fekete sereg
+		- rendkívüli hadiadókból fedezték
+	- déli végvárrendszer fenntartása
+	- reneszánsz udvartartás
+		- Budán és Visegrádon
+		- reneszánsz stílusú épületeket építettett
+---
+### Külpolitika
+- török elleni védekezés
+	- Szabácsot elfoglalta 1476-ban, ezzel Észak-Szerbia ütközőterülett lett
+		- kialakul a kettős végvárrendszer
+		- ez már képes feltartóztatni a török támadásokat
+- német-római császár cím megszerzése
+	- nem sikerül
+	- törököknek ellenálni képes közép-európai hatalmat akart létrehozni
+	- első felesége halála után, apósa ellen fordult, és hadjáratott indított Csehországba, melynek morvaországi és sziléziai területeit elfoglalta
+		- cseh királlyá választották 1469-ben
+	- III. Frigyes Mátyás ellenfelét támogatta, Jagelló Ulászló-t, hadjáratot indított Ausztria ellen, 1485-ben elfoglalja Bécset és oda tette át a székhelyét
+---
