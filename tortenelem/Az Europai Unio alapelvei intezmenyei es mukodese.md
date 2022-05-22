@@ -1,0 +1,108 @@
+# Az Európai Unió alapelvei, intézményei és működése
+---
+### Az EU alapelvei
+- napjaink legmélyebb nemzetközi gazdasági integrációját hozta létre
+	- alapkérdés
+		- mennyit érdemes feladni a tagállami szuverenitásból a gazdasági előnyökért
+	- az együttműködés elmélyül
+	- a tagországok száma fokozatosan növekedett
+		- várhatóan növekedni is fog
+		- 2020-ba volt az első példa kilépésre U.K.
+- EU meghatározó alapelve
+	- négy szabadság
+		- áruk szabad áramlása
+			- nincsenek vámok
+		- tőke szabad áramlása
+			- szabadon lehet befektetni
+		- munkaerő szabad áramlása
+			- nincsenek adminisztratív korlátozások
+		- szolgáltatások szabad áramlása
+- integráció gazdasági sikeréhez egységesíteni kell a gazdasági feltételeket
+	- közös piac (vámunió)
+		- vámok eltörlése
+		- közös valuta (euró)
+	- harmonizált jogszabályok
+	- egységes fejlettségi szint elérése
+		- felzárkóztatás
+	- együttműködés számos további területre kiterjed
+		- belső határok eltörlése, külső határok erősebb ellenőrzése
+			- schengeni egyezmény
+		- közös felsőoktatási tér, egységes struktúra szerint zajló képzések
+			- egyetemek által kiállított diplomákat kölcsönösen elfogadják
+		- kül és biztonságpolitikai egyeztetés
+---
+### Az EU intézményei
+- Európai tanács (ET)
+	- az EU legfontosabb, általános döntéshozó és stratégiaalkotó szerve
+		- a tagállamok kormányfői alkotják
+		- részt vesz rajta az ET és az EB elnöke
+- Európai Unió Tanácsa (EUT)
+	- az unió szakpolitikai döntéshozó és stratégiaalkotó szerve
+		- a tagállamok miniszterei alkotják
+		- az elnökséget fél évente más ország adja
+	- ECOFIN
+		- pénzügyminiszterek tanácsa
+- Európai Bizottság (EB)
+	- az EU "kormánya"
+	- székhelye Brüsszel
+	- folyamatosan működik nem úgy mint a tanács
+		- EU-s jogszabályok kidolgozása, stratégiák megalkotása
+		- EU-s szabályok, döntések végrehajtása, ellenőrzése
+	- bizottság elnöke formálisan az EU legfontosabb vezetője
+		- 5 évre választja a tanács jelölése alapján az EP
+	- a bizottság tagjai a biztosok
+		- minden tagállamnak jár egy biztosi hely
+- Európai Parlament (EP)
+	- fő feladatai
+		- jogszabályok alkotása és véleményezése
+		- európai jogszabályok ellenőrzése (akár eljárást is indíthat)
+		- bizottság megválasztása
+		- költségvetés elfogadása
+		- nyilvánosságot teremtő fórum
+	- EU egyetlen közvetlenül válaszott intézménye
+		- választások ötévente
+	- plenáris ülései Strasbourgban és Brüsszelben
+- Európai Központi Bank (EKB)
+	- az EU jegybankja
+		- föképpen az euró árfolyamáért és árstabilitásáért felel
+	- székhelye Frankfurt
+- Európai Unió Bírósága (EUB)
+	- az EU-s jogszabályokkal kapcsolatos ügyekben, jogvitákban dönt
+	- EU-s jogba ütköző intézkedéseket semmisíthet meg
+	- székhelye Luxemburg
+---
+### Az EU működése
+- döntéshozatal
+	- korábban konszenzusos döntési rendszer volt
+	- bővítések miatt ma már a legtöbb kérdésben többségi döntéseket hoznak
+		- minősített többség: a tagállamok 55%-ának támogatása
+			- a támogató országok lakossága érje el az uniós népesség 65%-át
+		- blokkoló kisebbség: min. 4 tagállam, a lakosság 35%-a
+- költségvetés
+	- fontosabb bevételek
+		- tagállami befizetések
+		- általános forgalmi adó
+		- vámok
+	- kiadások
+		- mezőgazdasági támogatás
+			- a hagyományos európai kisbirtokos mezőgazdaság és falusi életforma megtartása
+				- ártámogatás
+				- közös mezőgazdaság-politika
+			- az európai gazdák védelme
+			- magas vámok a tengerentúli verseny kiküszöbölésére
+		- ártámogatások, kvóták
+			- a túltermelés elkerülésére
+			- strukturális, kohéziós támogatás
+				- az EU átlagánál gyengébben fejlett régiók támogatása, felzárkóztatása
+					- infrastruktúra fejlesztés
+				- pályázati úton
+			- külső támogatások
+				- szociális programok a fejlődő országokban
+			- az adminisztráció költségei
+		- költségvetési viták
+			- a nettő befizetők csökkentenék a támogatásokat, pl. Németo.
+			- a támogatás haszonélvezői ragaszkodnak hozzá
+			- a bruttó mérleg sokkal összetettebb
+				- a támogatási pénzek nagy arányban a befizetőkhöz vándorolnak vissza
+				- a fejletlenebb országok piaca vámok híján védtelen az erősebb gazdaságokkal szemben
+					- ezt kompenzálni kell

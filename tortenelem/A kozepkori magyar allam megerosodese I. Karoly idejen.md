@@ -1,0 +1,89 @@
+# A középkori magyar állam megerősödése I. Károly idején
+---
+- 1301(8)(10)-42
+### A királyi hatalom helyreállítása
+- III. András király halálával, 1301-ben kihal az Árpád-ház
+	- a tartományúri hatalom korlátok nélkülivé vált
+	- az ország teljesen széttagolódott
+- több nőági tron követelő érkezett
+	- rövid ideig cseh Premysl Vencel
+	- késöbb bajor Wittelsbach Ottó
+	- Dél-Itáliában uralkodó Anjou-házból érkezett I. Károly (12 évesen)
+		- 1301-ben délvidéki tartományurak jelöltjeként Esztergomban meg koronázzák
+		- majd késöbb riválisait kiszorítva 1308-ban Budán királlyá koronázták
+		- 1310-ben megint, Székesfehérváron, esztergomi érsek által a Szent Koronával
+- pápaság és a magyar egyház a kezdettől fogva támogatta
+- mellete állt a már rendként működő köznemesség
+	- őket is hátrányosan érintette a tartományúri hatalom
+- több tartományúrral megyegyezett
+	- országos tisztségeket kínált nekik
+- vele szemben álló tartományurakat esetenként egymás ellen kijátszotta, majd később megerősödve egyenként, katonai erővel
+	- Abák hatalmát a rozgonyi csatában törte meg 1312-ben, kassai polgárok segíŧségével
+	- Csák Máté 1321-ben utód nélkül hal meg, ezért a birtokait a király vissza kapta
+- 20 évbe telt a tartományúri hatalom felszámolása
+	- innentől lehetett a királynak reformjait megvalósítani
+---
+### A királyi hatalom politikai alapjai
+- a tartományúri birtokok vissza szerzésével menőtt a királyi birtokállomány
+	- új főúri réteget hozott létre
+		- birtokadományok miatt
+	- honorbirtokok rendszere
+		- báró csak addig birtokolhatta a birtokot ameddig betöltötte a méltóságot
+			- ezzel biztosítva a hűséget
+- saját királyi bandérium
+	- bárói, vármengyei bandériumok
+	- kun könnyű lovasság
+	- erős haderő
+---
+### Gazdaság politika
+- a földbirtokból származó jövedelmek nem tudták fedezni a költségeket
+- megnőtt a regálé
+	- királyi felségjogon szedett pénz jövedelem
+- nemesfém kitermelés
+	- királyi bányapolgárok
+		- kevesen voltak jártasak bányászatban
+		- német és cseh bányapolgárokat hívott be
+	- ha egy birtokos nemesfémet talált, be kellett jelenteni, és cserébe kapott egy másik birtokot
+	- kibányászott arany 10%-át a bányapolgárok befizették a királyi kincstárba
+		- ez volt a bányabér (urbura)
+	- többi 90%-át királyi pénzverő kamaráknak adták
+		- nemesfémmonopólium
+		- ver pénzben kapták vissza a beadott pénz körübelüli felét
+	- a földesurakat nem érdekelte a bányák nyitása
+		- birtokcsere miatt ellenérdekeltek voltak
+		- ezért I. Károly
+			- megszüntette a kötelező birtokcserét
+				- földesúr tulajdonában maradt a birtok
+				- csak a bányát kellett átadnia a bányapolgároknak
+			- a bányabér 1/3-át a földesuraknak juttatta
+- reformjainak köszönhetően Magyarország tartósan Európa legnagyobb nemesfém-kitermelőjévé vált
+- harmincadvámból komoly bevételekre tett szert 
+	- az ország határán átvitt áru vámja
+- firenzei mintára aranyfornitott vezetettbe
+	- korábban alkalmazott pénzrontás illetve pénzváltás miatt kiszámíthatatlanná tette a pénz értékét
+	- erről késöbb lemondott illetve az évenkénti pénzváltásból származó kamara hasznáról
+- első állandó, országos, pénzben fizetett egyenes adója
+	- kapuadó
+		- jobbágyok kapunként évi 18 dénárt (~1/5 aranyforint) fizettek
+		- árutermelés és pénzgazdálkodás fejlettségéről tanuskodott
+- támogatta a városfejlődést
+	- kereskedelem és bányászat fellendítése érdekében
+	- városokra szövetségeseiként tekintett
+		- szabad királyi város
+			- klasszikus nyugati mintákat követte, fallal körülvéve, széles körű kiváltságokkal
+		- bányaváros
+			- főként felvidéken
+		- mezőváros
+			- sajátos magyar, mezőgazdasági tevékenységet folytató településtípus, földesúri függésben maradt, egy összegben adózhatott
+---
+### Külpolitika
+- havasalföldi hadjárat kudarca, verség Basarab fejedelemtől
+- jó kapcsolatot épített ki a közép-európai uralkodókkal
+	- lengyel királylányt vett feleségül
+	- megszervezte a visegrádi királytalálkozót 1335-ben
+		- lengyel, cseh király részvétel
+		- kibékitette a kettő királyt
+		- eltervezték az árumegállító joggal rendelkező Bécset kikerülő kereskedelmi útvonal létrehozását, de ez végül nem valósult meg
+- kapcsolatot tartott a nápolyi Anjoukkal
+- 1342-ben halálakor virágzó országot hagyott a fiára
+	- biztosította hogy a lengyel trónt is örökölje
