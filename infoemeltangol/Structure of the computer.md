@@ -1,28 +1,25 @@
 # Structure of the computer
 ---
-### Neumann's principles and their effects
-- In 1946 Neumann created the ideal operation 
-	- Input
-	- Memory
-	- Arithmetical unit
-	- Control unit
-	- Output
----
-### The principles
-- See #neumann-principle 
+### Neumann-principle (1946)
+- has to be completely electronical, and has to have a central control system 
+- has to process instructions one by one
+- has to use binary number system 
+- should store data and programs on internal memory and storage
+- has to be Turing machine based
+	- First Neumann computer: EDVAC
 ---
 ### Neumann like computer structure
-- CPU
+- a CPU has to have 
 	- Control Unit (CU)
 	- Arithmetical and Logical Unit (ALU)
 	- Register Block
-	- Flash Memory
+	- Flash Memory - for cashing
 	- Mathematical Coprocessor
 - Memory
-- Hard Drives
+- Hard storage
 - Peripherals (I/O)
 ---
-### The structure of the computers in use today and the Neumann principles
+### The structure of most computers today
 - Today's machines are following the Neumann principles
 	- Structure
 		- Motherboard
@@ -33,88 +30,186 @@
 			- Networking card(LAN/WLAN)
 		- Hard Drives
 		- Peripherals
-		- PSU
-- Functions of some parts
-	- Peripherals
-		- Connectivity (I/O -> controlled by the I/O control unit)
+		- Power supply
+- Main parts of todays computers in detail
+	- **Peripherals**
+		- Connectivity (I/O -> controlled by the I/O controller)
 			- Extends the capabilities of the host machine 
 			- Are optional in nature
 			- General external connections(e.g. USB)
-	- CPU
-		- CU - work coordination, task allocation, etc.
+			- ie: printer, keyboard, mouse, headphones, monitor and a lot more
+	- **CPU**
+		- control unit - controls the data coming in and out of the CPU
 		- ALU - data processing, calculations, etc.
-		- Register - very fast access memory (32/64 bit)
-			- Data bus is the size of the register block -> can be loaded at once 
-		- Bus controller, Bus system 
-			- Controller: Controls are the register and the bus system
-			- Bus system: Responsible for connecting the CPU to the operational memory and other things (e.g. peripheral, drives, etc.)
-			- Bus: Group of 2 position (0 and 5 V) wires that perform the same function
-				- Data bus: Transportation of data
-				- Address bus: Hard Drives, stores addresses of the peripherals
-				- Control bus: Communication, Interrupts, controlling the clock rate
+		- Register 
+			- is the fastest kind of memory (32/64 bit)
+			- is temporary memory for the CPU
+			- extremely low latency 
+		- Bus system 
+			- is responsible for connecting the CPU to the operational memory and other components like peripheral, drives, etc.
+			-  contains:
+				-  a Bus: 
+					- which is a connection between components or devices connected to a computer
+				- a Bus controller
+					- which is controlling information between the CPU and all kinds of componets and devices.
+			- bus types:
+				- internal bus - connects internal components to the CPU
+				- external bus - connects external devices to the CPU
+				- paralell bus -  data is transported in several bits at a time
+				- serial bus - data is transported one bit at a time
+				- address bus - contains the location of different datas within the memory
+				- data bus - transfers the data 
 		- Cache 
-			- Integrated memory
-			- Prefetch
+			- small in capacity, but has extremely low latency, and is very fast
+			- prefetches and feeds data to the CPU for processing.
 		- Features: 
 			- Clock speed (operation rate, Hz) 
-			- Architecture (32 and 64 bit)
-			- Number of cores (Multi-threaded execution capability)
-	- Hard drives and data storage
-		- HDD
-			- Large, slower storage
-				- Size (B)
-				- Speed (RPM)
-		- SSD 
-			- Large, faster storage than HDD
-				- Size (B)
-				- Semiconductor-based operation
-		- Pendrive, memory cards 
-			- Semiconductor
-	- Memory
+			- Architecture 
+				- 32/64 bit
+				- arm/x86
+			- Number of cores 
+			- die size (in nano meters)
+	- **storage devices**
+		- **HDD**
+			- Larger capacity (due to being developed much earlier), 
+			- slower speed (due to being mechanical)
+			- more prone to vibrations, impacts
+			- cheaper
+			- stores bits
+		- **SSD** 
+			- faster storage than HDD (it doesen't have any moving part)
+			- smaller storage size (due to being developed later)
+			- uses semiconductors instead of a disc
+			- not as prone to vibrations
+			- more expensive
+			- stores bits
+	- **Memory**
 		- Central storage of the computer
 		- RAM (Random Access Memory)
 			- Write/Read
-			- Loses data if the computer is turned off
-			- Frequency (Hz)
-			- Size (B)
+			- Loses data if electricity flow is cut
+			- speed is defined in "Megatransfers per second"
+			- stores bits
 		- ROM (Read-Only Memory)
 			- Read only
-			- BIOS
+			- used in largely in BIOS-es
 			- PROM (programmable read-only memory) 
-				- Initially write-once only 
-				- now writable
+				- is a computer memory chip that can be programmed only once after it is created. 
+				- Once the PROM is programmed, the information written is cannot be earased
 			- Contents are retained even without power supply
 		- SWAP (Virtual Memory)
 			- Stored on the hard drives, used when memory is full
-	- PSU
-		- Transforms from 230V to 5V (data transfer) and 12V (rotating parts, peripherals)
-		- Power (W)
+			- is much slower
+	- Power supply (PSU)
+		- gives all the components the power they request
 	- Cooling 
-		- Maintaining operating temperatures
-			- Water, air, liquid nitrogen
-	- Housing 
-		- Mechanical protection
+		- water cooling
+			- water block - connected to the cpu or gpu die
+			- water pump circulates cooled water to the cpu and away the heated water
+			- needs a radator with fans that push out the hot air and cools the water
+		- air cooling 
+			- cpu block with radators connected to the cpu, and most of the time a fan is pushing fresh air through the radiators
+	- Housing
+		-  ie: computer case, open bench, etc.
 ---
 ### Main peripherals and their characteristics
 - Monitor
 	- Standard video output
 		- Size (inch)
-		- Aspect ratio (x:y)
-		- Resolution (pixels)
+		- Aspect ratio (ratio of the rows of pixels to the colums of pixels ie: 1080 : 1920 has a 16:9 aspect ratio)
+		- Resolution (number of pixels - number of cols * rows)
 		- Type 
-			- CRT
-			- TFT
-			- LCD
+			- CRT (Cathod Ray tube)
+				-  A CRT monitor contains millions of tiny red, green, and blue phosphor dots that glow when struck by an electron beam that travels across the screen to create a visible image.
+				- CRT display can have variable resolutions due it not having actual pixels
+				- refreshrate of the display depends how fast the electron gun is and could be made higher by lowering the resolution
+				- has to be warmed up before use (ie: the characteristic slow startup with high pitched noises)
+				- were very big and heavy due the tech needing a big ray gun and a thick glass block to work
+				- had deecent blacks
+				- had great viewing angles
+			- TFT (thin film transistor)
+				-  utilizes an electrical charge that causes the liquid crystals to change their molecular structure creating different colors
+				- usually has 7 layers sandwiched together
+					- two polarizing filter
+					- three color filters (red, green, and blue)
+					- two aligning filter 
+					+ + backlight which is usually a strong white or blue colored light
+				-  has poor contrast ratio
+				- easy and cheap to mass produce
+				- techology is small and flat
+				- had poor black levels and contrast
+				- not very good viewing angles
+			- LCD (Liquid cristal display)
+				- works similalry as TFT displays, ie: layered with polarizing and aligning filters, but instead of color filters it uses liquid cristals to produce color, which are changed by controlling the voltages, and illuminated by backlight.
+				- has deecent black levels
+				- actualy pixels are used
+				- refreshrate depends how fast the cristals can react to the change, which is given by the quality of the crystals
 			- Plasma
-			- LED
+				- uses small cells containing plasma, and ionized gases that respond to electric fields. The electric charge is then intersected with the gas and the plasma, thus changing the color in a very response, by the gas letting the plasma be stimulated in way it produces the desired colored lights.
+				- had deeper blacks then other displays in it's prime time
+				- uses a lot of power (a 50 inch plasma display could draw around 400 watts, which changes quite a bit depending on the brightness required for the scenes)
+				- has very fast response time, and refreshrate
+				- has better viewing angles than LCD 
+				- are quite brighter than LCD
+				- the plasma inside the display was very hot could even reach 1200 degrees, ie: the high power draw, and hot device
+			- LED (light emitting diodes) display
+				- uses arays of LEDs as pixels
+					- each led pixel has three diodes, each for red green and blue
+					- also needs a backlight 
+					- has good brightness, and contrast
+					- very efficient, uses less power than traditional displays
+		-  Connectivity 
+			-  they are connected by different outputs like:
+				-  HDMI
+				-  VGA
+				-  USB
+		- Terms
+			- Resolution: Number of pixels (column x row)
+			- Refresh rate: Number of refreshes per second (Hz)
+			- Pixel: single, indivisible point on the screen
 - Printer
 	- Output
-		- What you see is what you get (WYSIWYG)
-		- Type
+		- What you see is what you get 
+		- main types
 			- Matrix
 			- Ink jet
 			- Thermal
 			- Laser
+	- Printing technologies
+		- Dot matrix
+			- Rare
+			- Ink ribbon is struck by needles
+		- Inkjet 
+			- Cheap
+			- Expensive to maintain
+			- Propels droplets of ink onto paper and plastic substrates
+				- Electrostatic
+				- Steam bubble
+				- Piezoelectric
+		- Laser
+			- Expensive
+			- Cheap to maintain
+			- [Functionality](https://en.wikipedia.org/wiki/Laser_printing)
+				- a laser beam is repetedly passes back and forth over a negatively-charged cylinder called a "drum" to define a differentially-charged image
+		- Heat
+			- Used for receipts
+			- Special paper
+				- Blackened by heat
+			- Non-permanent
+		- 3D 
+			- Heats up a plastic cable just enough to make it flow 
+	- Usage
+		- Dot matrix
+			- Very rare
+			- Post offices still using it
+		- Inkjet, laser
+			- Used everywhere, offices and homes
+		- Thermal
+			- Used in supermarkets for receipts
+		- 3D 
+			- DIY
+			- Research
+			- Production
 - Mouse
 	- Input (Pointer)
 		- Wired or Wireless
@@ -131,69 +226,12 @@
 		- Shift keys
 		- Ergonomics
 ---
-### Monitors
-- CRT (Cathode Ray-Tube)
-	- Electron gun fires at the screen and emits light
-- LCD (Liquid Crystal Display)
-	- Electromagnetic field changes the light transmittance of the crystals
-- TFT (Thin Film Transistor)
-	- Each dot is a self-illuminating transistor
-	- Slow response time
-- Terms
-	- Resolution: Number of pixels (column x row)
-	- Refresh rate: Number of refreshes per second (Hz)
-	- Ratio: The size of the diagonal of a rectangle (inch)
-	- Pixel: single, indivisible point on the screen
-- Comparison in terms of use
-	- CRT
-		- Not in common use, radiates
-	- LCD, TFT 
-		- still used today, found in offices and homes
----
-### Printers
-- Printing technologies
-	- Dot matrix
-		- Rare
-		- Ink ribbon is struck by needles
-	- Inkjet 
-		- Cheap
-		- Expensive to maintain
-		- Propels droplets of ink onto paper and plastic substrates
-			- Electrostatic
-			- Steam bubble
-			- Piezoelectric
-	- Laser
-		- Expensive
-		- Cheap to maintain
-		- [Functionality](https://en.wikipedia.org/wiki/Laser_printing)
-	- Heat
-		-  Used for receipts
-		- Special paper
-			- Blackened by heat
-		- Non-permanent
-	- 3D 
-		- Heats up a plastic cable just enough to make it flow 
-- Terms
-	- Resolution (DPI)
-	- Printing speed (sheets per minute)
-- Usage
-	- Dot matrix
-		- Very rare
-		- Post offices still using it
-	- Inkjet, laser
-		- Used everywhere, offices and homes
-	- Thermal
-		- Used in supermarkets for receipts
-	- 3D 
-		- DIY
-		- Research
----
 ### Hard Drives
 - Technologies
 	- Magnetic
 		- HDD (Hard Disk Drive)
 		- Circular magnetic disks
-		- RW head moves radially on the disks
+		- read and write head moves radially on the disks
 		- Disk Structure:
 			- Tracker
 				- Concentric circles of different radius
@@ -217,19 +255,19 @@
 		- High storage density
 		- When reading, using a laser beam, the reflected light delivers the data
 		- When writing, small recesses are created on the disk
-	- Semiconductor
+	- Semiconductor 
 		- SSD (Solid State Drive)
 		- Bits are stored with transistors
 		- Works like RAM, but data is not lost when the computer is off
 - Installation, operational problems and preventing them
 	- Installation
-		- Connecting to the PC (SATA or USB)
+		- Connecting it to the pc though connectors like usb or SATA
 	- Problems
-		- Moving, rotating parts can wear down
+		- Moving  parts can wear down, vibrations can cause damage
 	- Repair
 		- Sector lock
 ---
-### Maintenance, cleaning
+### Maintenance, cleaning, 
 - Cleaning
 	- Air cooling sucks in dust
 		- Cleaning with compressed air
@@ -240,23 +278,24 @@
 	- Care
 		- Using compatible tools
 	- Hardware
-		- Replacing the faulty component
-- Transportation
-	- With care and attention
+		- Replacing or repairing the faulty component
+	- Transportation
+		- With care and attention, and with boxed with coushining 
 ---
 ### Conditions of safe use
-- Suitable PSU
+- Suitable Power supply
 - Compatibility
 - Proper cooling
 - Adequate airspace
 - Overcurrent protection
+- Checking all component's compatibility before assembly
 ---
 ### Significance of networks
 - Communication between servers, workstations and PCs
 - Advantages:
 	- Shared resources
 	- Shared data storage
-		- No need separate hard drives
+		- No need to separate hard drives
 	- Fast data transfer
 	- Higher performance
 ---
@@ -268,15 +307,14 @@
 	- Internet
 ---
 ### Network models, topologies
-#networkmodel
-- Network models (hierarchy)
+- ### Network models (hierarchy)
 	- Client - Server
 		- Servers provide services to clients
 	- Host - terminal
 		- The host performs all tasks, the terminal just issues them
 	- Peer-to-Peer
 		- All machines are servers and workstations in one
-- Network topologies
+- ### Network topologies
 	- Bus
 		- Each PC is connected to a single central cable
 	- Ring
@@ -293,7 +331,6 @@
 	- Tree
 		- Each machine can only be reached on one route
 		- In case of a break the whole network can be interrupted
----
 ### Tools needed for creating a network
 - Server
 	- High performance, high capacity machines running continuously, providing services
