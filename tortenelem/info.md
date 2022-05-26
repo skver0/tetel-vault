@@ -1,6 +1,6 @@
 #### Történelem
-- [x] [[tortenelem/A kozepkori magyar allam megerosodese I. Karoly idejen|1. A középkori magyar állam megerősödése I. Károly idején]]
-- [ ] [[|2. A fölrajzi felfedezések és a kapitalista gazdaság jellemzői]]
+- [x] [[A kozepkori magyar allam megerosodese I Karoly idejen|1. A középkori magyar állam megerősödése I. Károly idején]]
+- [x] [[tortenelem/A foldrajzi felfedezesek es a kapitalista gazdasag jellemzoi|2. A fölrajzi felfedezések és a kapitalista gazdaság jellemzői]]
 - [ ] [[|3. Az ipari forradalmak hullámai, találmányai és a gyáripar kezdetei]]
 - [ ] [[|4. Az ellenforradalmi rendszer konszolidációjának lépései]]
 - [ ] [[|5. A középkori város és a céhes ipar]]

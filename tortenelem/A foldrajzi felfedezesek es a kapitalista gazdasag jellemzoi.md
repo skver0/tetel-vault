@@ -1,0 +1,69 @@
+# A földrajzi felfedezések és a kapitalista gazdaság
+---
+### A földrajzi felfedezések előzményei és okai
+- világnézeti
+	- természettudományok fejlődése
+	- reneszánsz gondolkodás -> nyitottság az új ismeretekre
+- politikai 
+	- mórok legyőzésével megerősődött a spanyol és portugál király
+	- Velence gyarmatosítási tapasztalatok
+- gazdasági
+	- Oszmán Birodalom adóztatta a levantei kereskedelmet
+	- aranyéhség kialakulása
+- technikai
+	- új hajótípus
+		- jobban kormányozható
+		- gyorsabb karavella
+			- alkalmas óceán való hajózásra
+	- pontosabb térképek
+	- íránytű
+	- szextáns
+- tudományos
+	- föld gömb alakú
+---
+### Legfontosabb földrajzi felfedezések
+- Portugál hajósok afrikát megkerülve, keleti irányban el akarják érni Indiát
+	- Bartolomeo Diaz 1487, Jóreményés-foka
+	- Vasco da Gama 1498, India
+- spanyol felfedezések az ország egyesítése után indultak meg 1492
+	- Kolumbusz Kristóf a spanyol uralkodó megbízásából a Föld megkerülésével, nyugat irányában próbálta elérni Indiát
+		- 1492-ben Bahama-szigeteken kötött ki
+		- késöbbi útjain feltérképezte a közép-amerikai partvidéket
+	- új kontinens felfedezését Amerigo Vespucci tisztázta
+	- spanyolok meghóditott területeket gyarmatként csatolták a birodalomhoz
+	- Magellán hajók körülhajózták a Földet
+		- bizonyították a gömb alakot
+	- spanyolok és a portugálok pápai közreműködéssel elhatárolták a befolyási övezeteket
+		- 1494 tordesillasi szerződés
+		- 1529 zaragozai szerződés
+- 16.sz 2. felétől angol, holland, francia felfedezések és gyarmatosítások
+---
+### A kapitalista gazdaság jellemzői
+- 16. századtól a nyugat-európai gazdaság gyors ütembe fejlődik
+	- gyarmatoktól beáramló nyersanyag és nemesfém
+	- növekvő népesség
+		- nagyobb piac
+		- olcsóbb munkaerő
+	- kereskedelem során fölhalmozódó befektethető jövedelem
+	- gyarmatok új piacai
+- a kereskedők gyarmatosítás hasznából egyre nagyobb jövedelemhez jutottak
+	- befektették újabb jövedelmet termelő tevékenységekbe
+		-> létre jön a tőke
+- tőkebefektetés révén a céhnél termelékenyebb manufaktúrák jöttek létre
+	- kétkezi munkával zajlott, viszont részfolyamokra bontották a munkát, így nem egy jól képzett iparos állította elő az egész terméket, hanem kevésbé képzett munkások készítették a termék egyes részeit
+	- manufaktúra hatékonyabb és termelékenyebb volt, mint a céh
+		- esetleges nem olyan kiváló minőség
+	- bérmunkásokat alkalmazott, nem védte a munkásokat semmiféle céhszabályzat, munkájukat munkabér ellenében végezték
+- a piacok növekedésével kereslet támadt eladható mezőgatdasági árukra
+	- textilipar -> gyapjú
+	- így földbirtokosok is bekapcsolódtak az árutermelésbe
+		- jobbágyakat elkergették, manufaktúrákban alkalmazták
+			- Angliában bekerítés néven
+		- jobbágyok helyett, akiket a feudális jogrend védett, bérmunkásokat alkalmaztak, akiknek ugyan fizetni kellet, de hatékonyabban dolgoztak, a termék viszont teljes egészében a tuladonosé lett
+		- új mezőgazdasági vállalkozó nemesi réteg Angliában -> gentry
+- átalakul a feudalizmus rendszere
+	- megszűnt a jobbágy-földesúri viszony
+	- hatalmas tőke halmozódott föl nyugaton
+- átalakulás elengedhetetlen hátterét jelentette az emberi gondolkodás fordulata
+	- reneszánsz és a protestantizmus elterjedése
+- máig meghatározó gazdasági rendszer, kapitalizmus
