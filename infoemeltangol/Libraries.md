@@ -4,44 +4,43 @@
 - **Definition**
 	- a building, room, or organization that has a collection of books, documents, music, and sometimes tools or artworks, for people to borrow, usually without payment.
 ---
-- **A brief overview of the universal and hngarian library history and development**
+- **A brief overview of the universal and Hungarian library history and development**
 	- The remains of the oldest known library have been found among the ruins of the northern Syrian city of Ebla. The writing was on clay tablets. Even this early library had about 16 000 pieces in the collection
-	- 60,000 clay tablets with cuneiform inscriptions have already been preserved in the library of Assur-Ban-Apli, the Assyrian ruler of Nineveh
+	- 60,000 clay tablets with inscriptions have already been preserved in the library of Assur-Ban-Apli, the Assyrian ruler of Nineveh
 	- The Library of Alexandria in Egypt, home to half a million papyrus scrolls, was the most famous library of antiquity. Its collection was destroyed in a fire in 43 BC.
-	- The city of Rome was already a city in 40 BC 300 years later, the number had risen to 30. Private libraries of wealthier Romans were also important.
-	- Pannonhalma library (opened in 1001)
+	- The city of Rome was already a city with a couple of libraries in 40 BC, but 300 years later, the number had risen to 30 libraries. Private libraries of wealthier Romans were also important.
+	- Pannonhalma library (opened in 1001 in the Hungarian kingdom)
 		- hundreds of manuscripts, codexes were were collected, and stored.
 		- The Library's collection was lessened, by the Invasion of the turks around 1683.
 		- the library is still up to this day.
 	- Corvinus Mathias's library (1458-1490) 
-		- had a siginificant collection of ancient, religious, scientific, and artistic books, manuscripts, and codexes.
+		- had a significant collection of ancient, religious, scientific, and artistic books, manuscripts, and codexes. It was started and maintained by King Mathias and was his own private library. 
 	- National Széchenyi Library
-		- Was created by aristrocrat Széchenyi Ferenc, and he donated his vast collection of books, and written materials as a base for the libary.
+		- Was created by aristocrat Széchenyi Ferenc, and he donated his vast collection of books, and written materials as a base for the library.
 ---
-- **The hungarian library system**
-	- types of libraries (digital, and phisical)
+- **The Hungarian library system**
+	- types of libraries (digital, and physical)
 		- national library
 		- reference library
-		- Higher education exclusive library
+		- Higher education library
 		- local / public libraries (county, city, village) 
 		- school library (upto highschools)
 ---
-- There are **different types of associations** for different studies, subjects, and proffessions like:
-	- IKSZ (IT and libary association)
+- There are **different types of associations** for different studies, subjects, and professions, like:
+	- IKSZ (IT and library association)
 	- KTE (Library teachers association)
 	- MOKSZ (Hungarian medicinary libraries association)
-	- etc.
 ---
-- **Task of public libaries**
+- **Task of public libraries**
 	- Aid in studying (both in personal studying and research related studies)
 	- The free, and unrestricted access to all kinds of knowledge
 	- Making the world wide web available in libraries (as in having public computers, with internet access available for anyone)
 	- The protecting, and distribution of culture and traditions 
 ---
-- **Public libaries vs school libraries** (differences)
-	- school libraries are for the task of aiding teachers to raise and teach students properly, and for students to have a space, where they can learn, and get resources for knowledge they might need in school
-	- public libraries are for all types of people and ages, and has a much vaster collection of knowledge in them. Public libaries are used not only by students but by researchers, people wanting to enjoy book formed entertainments, and overall a place for the masses.
-	- public libraries generally are much larger, both in space and sheer valume of books, and materials
+- **Public libraries vs school libraries** (differences)
+	- school libraries are for the task of aiding teachers raise and teach students properly, and for students to have a space, where they can learn in peace, and get resources for knowledge they might need in school.
+	- public libraries are for all types of people and ages, and has a much vaster collection of knowledge in them. Public libraries are used not only by students but by researchers, people wanting to enjoy book based entertainments, and overall a public place for people.
+	- Public libraries generally are much larger, both in space and sheer volume of books, and materials
 ---
 - **Principles for separating library types:** the concept of a collection and user groups
 	- by ownership
@@ -49,8 +48,8 @@
 		- privately owned library
 	- by users
 		- public (anyone can use it)
-		- restrictedly public (different group of people are allowed ie: a school libary)
-		-  private (the filtering of users, restriction of services ie for reasons like : official, collection protection reasons, classification)
+		- restrictedly public (different group of people are allowed, i.e. : a school library)
+		- private (the filtering of users, restriction of services i.e. for reasons like : official, collection protection reasons, classification)
 	- by size 
 		- small (under 10 000 books, materials)
 		- medium (under 100 000 books, materials))
@@ -66,27 +65,27 @@
 		- teen's 
 		- children's
 	- collection group
-		-  specialty focused, whose collection of litreture is regurarly controlled by the library, all of the literature in it is labelled by topic, timeline, and circumstances.
+		- specialty focused, whose collection of literature is regularly controlled by the library, all of the literature in it is labelled by topic, timeline, and circumstances.
 	- user group
-		- person or collection of people, who are using the library there for common library services. The motivation of the user can be much more vast, from entertainment to researching.
+		- person or collection of people, who are using the library for common library services. The motivation of the user can be vast from entertainment to researching, and anything in between.
 ---
 -  **National library definition**
-	- National libraries are libraries, that are specialized on litretures, and metarials, that are related to the given country. in the hungarian national library they don't necesarrily have contents in only hungarian language, but any language given, that it's content is relatod to the country, in some way.
+	- National libraries are libraries, that are specialized on literatures, and materials, that are related to the given country. In the Hungarian national library they don't necessarily have contents in only Hungarian language, but any language given, that it's content is related to the country, in some way.
 ---
-- **The role of the national Széchenyi Library in the hungarian library system.**
-	- it collect's all types of hungarian materials, books etc.
-	- it has to register all official document that is written in hungarian
-	- anyone who creates a book or official material in hungarian, has to provide 6 copyies to the national Library
+- **The role of the national Széchenyi Library in the Hungarian library system.**
+	- it collects all types of Hungarian materials, books etc.
+	- it has to register all official document that is written in Hungarian
+	- anyone who creates a book or official material in Hungarian, has to provide 6 copies to the national Library
 ---
 - **Short history of the National Széchenyi Library**
-	- was founded in 1802 by hungarian aristocrat Széchenyi Ferenc
-	- The vast hungarian collection which he collected around the world, he donated to the library as a base
-	- for 200 years the library was merged with the Hungarian National museum which collected a all types of hungarian related relics, archeological pieces, and litreture
-	- 1949 the library demerged into a seperate entity, with it's current name
+	- was founded in 1802 by Hungarian aristocrat Széchenyi Ferenc
+	- The vast Hungarian collection which he collected around the world, he donated to the library as a base
+	- for 200 years the library was merged with the Hungarian National museum which collected a all types of Hungarian related relics, archeological pieces, and literature.
+	- 1949 the library unmerged into a separate entity, with its current name
 	- 1985 the library moved to the Buda castle palace
 ---
 - **Library services**
-	- registration (people registering into the cataloge of the library)
+	- registration (people registering into the catalogue of the library)
 	- rental of books 
 	- books usage inside the library
 	- providing information and help
