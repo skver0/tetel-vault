@@ -16,8 +16,9 @@
 	- Flash Memory - for cashing
 	- Mathematical Coprocessor
 - Memory
-- Hard storage
+- storage
 - Peripherals (I/O)
+- PSU
 ---
 ### The structure of most computers today
 - Today's machines are following the Neumann principles
@@ -71,13 +72,13 @@
 			- die size (in nano meters)
 	- **storage devices**
 		- **HDD**
-			- Larger capacity (due to being developed much earlier), 
+			- Larger capacity (due to being developed much earlier)
 			- slower speed (due to being mechanical)
 			- more prone to vibrations, impacts
 			- cheaper
 			- stores bits
 		- **SSD** 
-			- faster storage than HDD (it doesen't have any moving part)
+			- faster storage than HDD (it doesn't have any moving part)
 			- smaller storage size (due to being developed later)
 			- uses semiconductors instead of a disc
 			- not as prone to vibrations
@@ -101,16 +102,17 @@
 			- Stored on the hard drives, used when memory is full
 			- is much slower
 	- Power supply (PSU)
-		- gives all the components the power they request
+		- gives all the components the power according to standard
+		- converts AC DC power
 	- Cooling 
 		- water cooling
 			- water block - connected to the cpu or gpu die
 			- water pump circulates cooled water to the cpu and away the heated water
 			- needs a radator with fans that push out the hot air and cools the water
 		- air cooling 
-			- cpu block with radators connected to the cpu, and most of the time a fan is pushing fresh air through the radiators
+			- cpu block with heatsink connected to the cpu, and most of the time a fan is pushing fresh air through the radiators
 	- Housing
-		-  ie: computer case, open bench, etc.
+		-  i.e.: computer case, open bench, etc.
 ---
 ### Main peripherals and their characteristics
 - Monitor
@@ -134,14 +136,14 @@
 					- three color filters (red, green, and blue)
 					- two aligning filter 
 					+ + backlight which is usually a strong white or blue colored light
-				-  has poor contrast ratio
+				- has poor contrast ratio
 				- easy and cheap to mass produce
 				- techology is small and flat
 				- had poor black levels and contrast
 				- not very good viewing angles
 			- LCD (Liquid cristal display)
 				- works similalry as TFT displays, ie: layered with polarizing and aligning filters, but instead of color filters it uses liquid cristals to produce color, which are changed by controlling the voltages, and illuminated by backlight.
-				- has deecent black levels
+				- has better black levels than tft
 				- actualy pixels are used
 				- refreshrate depends how fast the cristals can react to the change, which is given by the quality of the crystals
 			- Plasma
@@ -152,17 +154,13 @@
 				- has better viewing angles than LCD 
 				- are quite brighter than LCD
 				- the plasma inside the display was very hot could even reach 1200 degrees, ie: the high power draw, and hot device
-			- LED (light emitting diodes) display
-				- uses arays of LEDs as pixels
-					- each led pixel has three diodes, each for red green and blue
-					- also needs a backlight 
-					- has good brightness, and contrast
-					- very efficient, uses less power than traditional displays
 		-  Connectivity 
 			-  they are connected by different outputs like:
-				-  HDMI
-				-  VGA
-				-  USB
+				- HDMI
+				- DVI
+				- VGA
+				- USB
+				- Display 
 		- Terms
 			- Resolution: Number of pixels (column x row)
 			- Refresh rate: Number of refreshes per second (Hz)
@@ -280,7 +278,7 @@
 	- Hardware
 		- Replacing or repairing the faulty component
 	- Transportation
-		- With care and attention, and with boxed with coushining 
+		- With care and attention, and boxed with cushioning 
 ---
 ### Conditions of safe use
 - Suitable Power supply
@@ -289,15 +287,6 @@
 - Adequate airspace
 - Overcurrent protection
 - Checking all component's compatibility before assembly
----
-### Significance of networks
-- Communication between servers, workstations and PCs
-- Advantages:
-	- Shared resources
-	- Shared data storage
-		- No need to separate hard drives
-	- Fast data transfer
-	- Higher performance
 ---
 ### Grouping networks by extent
 - PAN (Personal Area Network)
