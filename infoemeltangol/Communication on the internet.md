@@ -5,7 +5,7 @@
 - hypertext principle
 	- one document is related to another (links)
 	- pages are written in HTML
-	- traditional text, which includes formatting instructions
+		- traditional text, which includes formatting instructions
 	- protocol: HTTP - Hypertext Transfer Protocol
 - multimedia compatible
 - client-server based
@@ -51,7 +51,7 @@
 		- persistent until delete
 		- session: persists until leaving the website
 - TCP/IP (Transmission Control Protocol/Internet Protocol)
-	- the basic protocol structure that builds the interned
+	- the basic protocol structure that builds the internet
 	- named after its two main protocols
 - IP address
 	- network identifier

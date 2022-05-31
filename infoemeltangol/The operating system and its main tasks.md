@@ -62,39 +62,39 @@
 			- the OS understands
 				- no need to compile
 	- capabilities
-	- executing user codes
-	- running scripts
-	- using conditional expressions, branching loops
-	- use of internal commands
-		- file and folder operations
-			- copy, del, ren, md
-		- navigation
-			- cd, dir
-		- date, time
-		- command line statements
-	- external commands
-		- contained in an executable file started by the command line
-		- disk management
-			- format, scandisk, diskcopy, chkdsk
-		- memory information
-			- mem
-		- help
-		- text editing
-			- nano
-		- network device management
-			- ipconfig
-	- creating pseudo commands
-	- internal variables
-	- manipulating the environment before new processes
-	- redirecting I/O
-	- transferring data between processes via pipe
-	- starting processes in the background
-	- command line editing 
-	- command history
-	- stopping and restarting running processes
-	- sending and receiving signals
-		- kill, trap
-	- waiting for another process or sleep
+		- executing user codes
+		- running scripts
+		- using conditional expressions, branching loops
+		- internal commands
+			- file and folder operations
+				- copy, del, ren, md
+			- navigation
+				- cd, dir
+			- date, time
+			- command line statements
+		- external commands
+			- contained in an executable file started by the command line
+			- disk management
+				- format, scandisk, diskcopy, chkdsk
+			- memory information
+				- mem
+				- help
+				- text editing
+					- nano
+				- network device management
+					- ipconfig
+		- creating pseudo commands
+		- internal variables
+		- manipulating the environment before new processes
+		- redirecting I/O
+		- transferring data between processes via pipe
+		- starting processes in the background
+		- command line editing 
+		- command history
+		- stopping and restarting running processes
+		- sending and receiving signals
+			- kill, trap
+		- waiting for another process or sleep
 ---
 ### Areas of working
 - memory management
@@ -116,9 +116,9 @@
 - process control
 	- process
 		- started program
-		- provides access to resources
-			- often impossible to manage because future demand is unknown
-				- deadlock
+	-  provides access to resources
+		- often impossible to manage because future demand is unknown
+			- deadlock
 - interrupt management
 	- interrupt
 		- a signal that informs you that something has happened
@@ -166,15 +166,15 @@
 ---
 ### Booting the OS
 - BIOS searches boot sectors for boot file
-- possible dual boot
-	- in case of multiple systems
+	- possible dual boot
+		- in case of multiple systems
 - loading kernel
 - initializing devices
 	- searching for new hardware
 	- searching for drivers and starting them
 - starting services
 	- GUI
-- starting user interactions
+- starting user interactions 
 - logging in
 - starting programs
 ---
