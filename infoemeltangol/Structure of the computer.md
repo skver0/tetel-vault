@@ -6,18 +6,18 @@
 - has to use binary number system 
 - should store data and programs on internal memory and storage
 - has to be Turing machine based
-	- First Neumann computer: EDVAC
+	- first Neumann computer: EDVAC
 ---
 ### Neumann like computer structure
 - a CPU has to have 
 	- Control Unit (CU)
 	- Arithmetical and Logical Unit (ALU)
-	- Register Block
-	- Flash Memory - for cashing
-	- Mathematical Coprocessor
-- Memory
+	- register Block
+	- flash Memory - for caching
+	- mathematical Coprocessor
+- memory
 - storage
-- Peripherals (I/O)
+- peripherals (I/O)
 - PSU
 ---
 ### The structure of most computers today
@@ -32,13 +32,13 @@
 		- Hard Drives
 		- Peripherals
 		- Power supply
-- Main parts of todays computers in detail
+- Main parts of today's computers in detail
 	- **Peripherals**
-		- Connectivity (I/O -> controlled by the I/O controller)
-			- Extends the capabilities of the host machine 
-			- Are optional in nature
+		- connectivity (I/O -> controlled by the I/O controller)
+			- extends the capabilities of the host machine 
+			- are optional in nature
 			- General external connections(e.g. USB)
-			- ie: printer, keyboard, mouse, headphones, monitor and a lot more
+			- i.e.: printer, keyboard, mouse, headphones, monitor and a lot more
 	- **CPU**
 		- control unit - controls the data coming in and out of the CPU
 		- ALU - data processing, calculations, etc.
@@ -52,13 +52,13 @@
 				-  a Bus: 
 					- which is a connection between components or devices connected to a computer
 				- a Bus controller
-					- which is controlling information between the CPU and all kinds of componets and devices.
+					- which is controlling information between the CPU and all kinds of components and devices.
 			- bus types:
 				- internal bus - connects internal components to the CPU
 				- external bus - connects external devices to the CPU
-				- paralell bus -  data is transported in several bits at a time
+				- parallel bus -  data is transported in several bits at a time
 				- serial bus - data is transported one bit at a time
-				- address bus - contains the location of different datas within the memory
+				- address bus - contains the location of different data within the memory
 				- data bus - transfers the data 
 		- Cache 
 			- small in capacity, but has extremely low latency, and is very fast
@@ -72,7 +72,7 @@
 			- die size (in nano meters)
 	- **storage devices**
 		- **HDD**
-			- Larger capacity (due to being developed much earlier)
+			- larger capacity (due to being developed much earlier)
 			- slower speed (due to being mechanical)
 			- more prone to vibrations, impacts
 			- cheaper
@@ -87,266 +87,266 @@
 	- **Memory**
 		- Central storage of the computer
 		- RAM (Random Access Memory)
-			- Write/Read
-			- Loses data if electricity flow is cut
+			- write/read
+			- loses data if electricity flow is cut
 			- speed is defined in "Megatransfers per second"
 			- stores bits
 		- ROM (Read-Only Memory)
-			- Read only
+			- read only
 			- used in largely in BIOS-es
 			- PROM (programmable read-only memory) 
 				- is a computer memory chip that can be programmed only once after it is created. 
-				- Once the PROM is programmed, the information written is cannot be earased
-			- Contents are retained even without power supply
+				- once the PROM is programmed, the information written is cannot be erased
+			- contents are retained even without power supply
 		- SWAP (Virtual Memory)
-			- Stored on the hard drives, used when memory is full
+			- stored on the hard drives, used when memory is full
 			- is much slower
 	- Power supply (PSU)
 		- gives all the components the power according to standard
 		- converts AC DC power
 	- Cooling 
 		- water cooling
-			- water block - connected to the cpu or gpu die
-			- water pump circulates cooled water to the cpu and away the heated water
-			- needs a radator with fans that push out the hot air and cools the water
+			- water block - connected to the CPU or GPU die
+			- water pump circulates cooled water to the CPU and away the heated water
+			- needs a radiator with fans that push out the hot air and cools the water
 		- air cooling 
-			- cpu block with heatsink connected to the cpu, and most of the time a fan is pushing fresh air through the radiators
+			- CPU block with heat sink connected to the CPU, and most of the time a fan is pushing fresh air through the radiators
 	- Housing
-		-  i.e.: computer case, open bench, etc.
+		-  computer case, open bench, etc.
 ---
 ### Main peripherals and their characteristics
 - Monitor
-	- Standard video output
-		- Size (inch)
-		- Aspect ratio (ratio of the rows of pixels to the colums of pixels ie: 1080 : 1920 has a 16:9 aspect ratio)
-		- Resolution (number of pixels - number of cols * rows)
-		- Type 
-			- CRT (Cathod Ray tube)
-				-  A CRT monitor contains millions of tiny red, green, and blue phosphor dots that glow when struck by an electron beam that travels across the screen to create a visible image.
-				- CRT display can have variable resolutions due it not having actual pixels
-				- refreshrate of the display depends how fast the electron gun is and could be made higher by lowering the resolution
-				- has to be warmed up before use (ie: the characteristic slow startup with high pitched noises)
-				- were very big and heavy due the tech needing a big ray gun and a thick glass block to work
-				- had deecent blacks
+	- standard video output
+		- size (inch)
+		- aspect ratio (ratio of the rows of pixels to the columns of pixels e.g. : 1080 : 1920 has a 16:9 aspect ratio)
+		- resolution (number of pixels - number of cols * rows)
+		- type 
+			- CRT (Cathode Ray Tube)
+				- A CRT monitor contains millions of tiny red, green, and blue phosphor dots that glow when struck by an electron beam that travels across the screen to create a visible image.
+				- CRT display can have variable resolutions due it's not having actual pixels
+				- refresh rate of the display depends on how fast the electron gun is and could be made higher by lowering the resolution
+				- has to be warmed up before use (i.e.: the characteristic slow startup with high-pitched noises)
+				- were very big and heavy due to the tech needing a big ray gun and a thick glass block to work
+				- had decent blacks
 				- had great viewing angles
-			- TFT (thin film transistor)
-				-  utilizes an electrical charge that causes the liquid crystals to change their molecular structure creating different colors
+			- TFT (Thin Film Transistor)
+				- utilizes an electrical charge that causes the liquid crystals to change their molecular structure creating different colors
 				- usually has 7 layers sandwiched together
 					- two polarizing filter
 					- three color filters (red, green, and blue)
 					- two aligning filter 
-					+ + backlight which is usually a strong white or blue colored light
+					- backlight which is usually a strong white or blue colored light
 				- has poor contrast ratio
 				- easy and cheap to mass produce
-				- techology is small and flat
+				- technology is small and flat
 				- had poor black levels and contrast
 				- not very good viewing angles
-			- LCD (Liquid cristal display)
-				- works similalry as TFT displays, ie: layered with polarizing and aligning filters, but instead of color filters it uses liquid cristals to produce color, which are changed by controlling the voltages, and illuminated by backlight.
-				- has better black levels than tft
-				- actualy pixels are used
-				- refreshrate depends how fast the cristals can react to the change, which is given by the quality of the crystals
+			- LCD (Liquid Crystal Display)
+				- Works similarly as TFT displays, i.e.: layered with polarizing and aligning filters, but instead of color filters it uses liquid crystals to produce color, which are changed by controlling the voltages, and illuminated by backlight.
+				- has better black levels than TFT
+				- actually pixels are used
+				- refresh rate depends on how fast the crystals can react to the change, which is given by the quality of the crystals
 			- Plasma
-				- uses small cells containing plasma, and ionized gases that respond to electric fields. The electric charge is then intersected with the gas and the plasma, thus changing the color in a very response, by the gas letting the plasma be stimulated in way it produces the desired colored lights.
-				- had deeper blacks then other displays in it's prime time
+				- Uses small cells containing plasma, and ionized gases that respond to electric fields. The electric charge is then intersected with the gas and the plasma, thus changing the color in a very response, by the gas letting the plasma be stimulated in a way it produces the desired colored lights.
+				- had deeper blacks than other displays in its prime time
 				- uses a lot of power (a 50 inch plasma display could draw around 400 watts, which changes quite a bit depending on the brightness required for the scenes)
-				- has very fast response time, and refreshrate
+				- has very fast response time, and refresh rate
 				- has better viewing angles than LCD 
 				- are quite brighter than LCD
-				- the plasma inside the display was very hot could even reach 1200 degrees, ie: the high power draw, and hot device
-		-  Connectivity 
+				- the plasma inside the display was very hot could even reach 1200 degrees, i.e.: the high power draw, and hot device
+		-  connectivity 
 			-  they are connected by different outputs like:
 				- HDMI
 				- DVI
 				- VGA
 				- USB
 				- Display 
-		- Terms
-			- Resolution: Number of pixels (column x row)
-			- Refresh rate: Number of refreshes per second (Hz)
-			- Pixel: single, indivisible point on the screen
+		- terms
+			- resolution: number of pixels (column x row)
+			- refresh rate: number of refreshes per second (Hz)
+			- pixel: single, indivisible point on the screen
 - Printer
-	- Output
-		- What you see is what you get 
+	- output
+		- What You See Is What You Get 
 		- main types
-			- Matrix
-			- Ink jet
-			- Thermal
-			- Laser
-	- Printing technologies
-		- Dot matrix
-			- Rare
-			- Ink ribbon is struck by needles
-		- Inkjet 
-			- Cheap
-			- Expensive to maintain
-			- Propels droplets of ink onto paper and plastic substrates
-				- Electrostatic
-				- Steam bubble
-				- Piezoelectric
-		- Laser
-			- Expensive
-			- Cheap to maintain
-			- [Functionality](https://en.wikipedia.org/wiki/Laser_printing)
-				- a laser beam is repetedly passes back and forth over a negatively-charged cylinder called a "drum" to define a differentially-charged image
-		- Heat
-			- Used for receipts
-			- Special paper
-				- Blackened by heat
-			- Non-permanent
+			- matrix
+			- ink jet
+			- thermal
+			- laser
+	- printing technologies
+		- dot matrix
+			- rare
+			- ink ribbon is struck by needles
+		- inkjet 
+			- cheap
+			- expensive to maintain
+			- propels droplets of ink onto paper and plastic substrates
+				- electrostatic
+				- steam bubble
+				- piezoelectric
+		- laser
+			- expensive
+			- cheap to maintain
+			- [functionality](https://en.wikipedia.org/wiki/Laser_printing)
+				- a laser beam is repeatedly passing back and forth over a negatively-charged cylinder called a "drum" to define a differentially-charged image
+		- heat
+			- used for receipts
+			- special paper
+				- blackened by heat
+			- non-permanent
 		- 3D 
-			- Heats up a plastic cable just enough to make it flow 
-	- Usage
-		- Dot matrix
-			- Very rare
-			- Post offices still using it
-		- Inkjet, laser
-			- Used everywhere, offices and homes
-		- Thermal
-			- Used in supermarkets for receipts
+			- heats up a plastic cable just enough to make it flow 
+	- usage
+		- fot matrix
+			- very rare
+			- post offices still using it
+		- inkjet, laser
+			- used everywhere, offices and homes
+		- thermal
+			- used in supermarkets for receipts
 		- 3D 
 			- DIY
-			- Research
-			- Production
+			- research
+			- production
 - Mouse
-	- Input (Pointer)
-		- Wired or Wireless
-		- Type
-			- Mechanical
-			- Optical
-		- Number of buttons
-		- Sensitivity (Dot Per Inch, DPI)
+	- input (pointer)
+		- wired or wireless
+		- type
+			- mechanical
+			- optical
+		- number of buttons
+		- sensitivity (Dot Per Inch, DPI)
 - Keyboard
-	- Input
-		- Number of keys
-		- Language
-		- Numerical pad
-		- Shift keys
-		- Ergonomics
+	- input
+		- number of keys
+		- language
+		- numerical pad
+		- shift keys
+		- ergonomics
 ---
 ### Hard Drives
 - Technologies
-	- Magnetic
+	- magnetic
 		- HDD (Hard Disk Drive)
-		- Circular magnetic disks
+		- circular magnetic disks
 		- read and write head moves radially on the disks
-		- Disk Structure:
-			- Tracker
-				- Concentric circles of different radius
-			- Cylinders
-				- Trackers arranged on top of each other
-			- Sectors
-				- Created by breaking down trackers
-			- Cluster
-				- Groups of sectors
-		- Characteristics:
-			- Capacity (B)
-			- Speed (RPM)
-			- Interface (SATA)
-	- Optical (-R; -RW)
+		- disk structure:
+			- tracker
+				- concentric circles of different radius
+			- cylinders
+				- trackers arranged on top of each other
+			- sectors
+				- created by breaking down trackers
+			- cluster
+				- groups of sectors
+		- characteristics:
+			- capacity (B)
+			- speed (RPM)
+			- interface (SATA)
+	- optical (-R; -RW)
 		- CD
 			- Compact Disc - 700 MB
 		- DVD 
 			- Digital Versatile Disc - 4.7 GB
 		- BD
 			- Blu-Ray Disc - 25 GB or 50 GB
-		- High storage density
-		- When reading, using a laser beam, the reflected light delivers the data
-		- When writing, small recesses are created on the disk
-	- Semiconductor 
+		- high storage density
+		- when reading, using a laser beam, the reflected light delivers the data
+		- when writing, small recesses are created on the disk
+	- semiconductor 
 		- SSD (Solid State Drive)
-		- Bits are stored with transistors
-		- Works like RAM, but data is not lost when the computer is off
+		- bits are stored with transistors
+		- works like RAM, but data is not lost when the computer is off
 - Installation, operational problems and preventing them
-	- Installation
-		- Connecting it to the pc though connectors like usb or SATA
-	- Problems
-		- Moving  parts can wear down, vibrations can cause damage
-	- Repair
-		- Sector lock
+	- installation
+		- connecting it to the PC though connectors like USB or SATA
+	- problems
+		- moving  parts can wear down, vibrations can cause damage
+	- repair
+		- sector lock
 ---
 ### Maintenance, cleaning, 
 - Cleaning
-	- Air cooling sucks in dust
-		- Cleaning with compressed air
+	- air cooling sucks in dust
+		- cleaning with compressed air
 - Maintenance
-	- Software
-		- Sector locking
-		- Defragmentation
-	- Care
-		- Using compatible tools
-	- Hardware
-		- Replacing or repairing the faulty component
-	- Transportation
-		- With care and attention, and boxed with cushioning 
+	- software
+		- sector locking
+		- defragmentation
+	- care
+		- using compatible tools
+	- hardware
+		- replacing or repairing the faulty component
+	- transportation
+		- with care and attention, and boxed with cushioning 
 ---
 ### Conditions of safe use
-- Suitable Power supply
-- Compatibility
-- Proper cooling
-- Adequate airspace
-- Overcurrent protection
-- Checking all component's compatibility before assembly
+- suitable power supply
+- compatibility
+- proper cooling
+- adequate airspace
+- overcurrent protection
+- checking all component's compatibility before assembly
 ---
 ### Grouping networks by extent
 - PAN (Personal Area Network)
 - LAN (Local Area Network)
 - MAN (Metropolitan Area Network)
 - WAN (Wide Area Network)
-	- Internet
+	- internet
 ---
 ### Network models, topologies
 - ### Network models (hierarchy)
-	- Client - Server
-		- Servers provide services to clients
-	- Host - terminal
+	- client - server
+		- servers provide services to clients
+	- host - terminal
 		- The host performs all tasks, the terminal just issues them
-	- Peer-to-Peer
-		- All machines are servers and workstations in one
+	- peer-to-peer
+		- all machines are servers and workstations in one
 - ### Network topologies
 	- Bus
-		- Each PC is connected to a single central cable
+		- each PC is connected to a single central cable
 	- Ring
-		- The transportation medium forms a circle
-		- Data packet travels around until it reaches the receiving PC
-		- No problem in the event of a single break
-		- No central unit
-		- Double ring equals higher reliability
+		- the transportation medium forms a circle
+		- data packet travels around until it reaches the receiving PC
+		- no problem in the event of a single break
+		- no central unit
+		- double ring equals higher reliability
 	- Star
-		- Central unit (HUB)
-			- Everything passes through it
-		- In the event of a line break only one machine is disconnected from the network
-		- Efficient but expensive
+		- central unit (HUB)
+			- everything passes through it
+		- in the event of a line break only one machine is disconnected from the network
+		- efficient but expensive
 	- Tree
-		- Each machine can only be reached on one route
-		- In case of a break the whole network can be interrupted
+		- each machine can only be reached on one route
+		- in case of a break the whole network can be interrupted
 ### Tools needed for creating a network
 - Server
-	- High performance, high capacity machines running continuously, providing services
+	- high performance, high capacity machines running continuously, providing services
 - Client
-	- Workstation, uses the network
+	- workstation, uses the network
 - Networking cards
 	- establishing connections between the data transmission medium and the workstation
 - Networking protocol
-	- Rules for data transmission
+	- rules for data transmission
 - Modem
-	- Telephone line connection
+	- telephone line connection
 - HUB
 	- distributor
 - Bridge
-	- Network connectors
-	- Only 1 between two networks
+	- network connectors
+	- only 1 between two networks
 - Router
-	- Traffic controller
-	- Routing
+	- traffic controller
+	- routing
 	- IP address allocator
 - Gateway
-	- A flexible network element that performs a conversion between two different networks
+	- a flexible network element that performs a conversion between two different networks
 - Coax cable
-	- Cable based networks, the data transmission medium
-	- Copper wire + shielding (Noise canceling)
+	- cable based networks, the data transmission medium
+	- copper wire + shielding (Noise canceling)
 - UTP (Unshielded Twisted Pair)
 - Wi-Fi (WLAN)
-	- Wireless communication
+	- wireless communication
 - Switch
 	- enables data to flow between connected devices

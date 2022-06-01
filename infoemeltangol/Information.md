@@ -153,7 +153,7 @@
 ##### Mental and physical dangers of the use of devices
 - most affected areas
 	- eyes, ears, spine, shoulders, wrists, fingers, legs
-	- both physical and nevous system effects are signifficant
+	- both physical and nervous system effects are signifficant
 - cause - effects
 	- too much use - addiction (games, erotic content, etc.)
 	- improper posture - physical problems
