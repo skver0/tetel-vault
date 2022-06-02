@@ -82,7 +82,7 @@
 - 403 Forbidden
 	- no access rights (identify as authorized, reload)
 - 404 Not Found 
-	- requested material not found (check url, retry)
+	- requested material not found (check URL, retry)
 - 500 Internal Server Error
 	- server error (reload)
 - 501 Not Implemented 
@@ -129,7 +129,7 @@
 	- sending, receiving
 	- archiving
 	- spam filtering
-	- multiple address managment
+	- multiple address management
 	- other
 		- contact list
 		- groups

@@ -68,8 +68,8 @@ In 1949, Claude Shannon and Warren Weaver published their communication model, w
 		- background noises
 ---
 ### Code, as the device of information broadcasting
-- code: The form of information that the encoder creates, which conforms to the channel standard, and which is interpretable by the decoder.
-- information: Information carried by a set of signals that represents new knowledge for a system. Its unit is 1 bit. 1 byte = 8 bits, the conversion from here on is 1024: KiB, MiB, GiB, TiB, PiB or the more commonly used 1000 conversion: KB (kilobyte), MB (megabyte), GB (gigabyte), TB (terabyte), PB (petabyte), EB (exabyte).
+- Code: The form of information that the encoder creates, which conforms to the channel standard, and which is interpretable by the decoder.
+- Information: Information carried by a set of signals that represents new knowledge for a system. Its unit is 1 bit. 1 byte = 8 bits, the conversion from here on is 1024: KiB, MiB, GiB, TiB, PiB or the more commonly used 1000 conversion: KB (kilobyte), MB (megabyte), GB (gigabyte), TB (terabyte), PB (petabyte), EB (exabyte).
 ---
 ### Examples of channels
 - signaling system for the transmission of electronic signals
@@ -122,8 +122,8 @@ Nowadays, you have to reach into your pocket for your phone and just search for 
 Without the development of communication tools, the modern world as we know it today would not exist. The emergence of the internet and its widespread use has also triggered changes within society. 
 Today, anyone can find sites on the internet that match their interests, read portals, online newspapers and blogs, forums where they can talk to people with similar interests, express themselves, anywhere in the world.
 The essence of Web 2.0 is interactivity, the emergence of social portals, the fact that the user also contributes to the content: commenting, writing articles (e.g. Wikipedia, Blogger, WordPress), sharing files (e.g. Facebook), images (Google Photos), videos (YouTube), their own writings, documents. 
-With the spread of the Internet, it is now possible to watch movies on the computer, listen to music, and thousands of other ways to have fun, work, or even express yourself in the comfort of your home. Communication technologies such as the telephone, email, fax, communication programs and chatting have changed the way we meet people and how we socialize.The possibilities are almost endless. Also, the concept of virtual profile was born, the idea that anyone could impersonate anyone. 
-Today we are so virtually invested, that we couldn't even imagine a world without our phones, computers, easy communications, easy spacial orientation using maps, like google, or apple maps etc.
+With the spread of the Internet, it is now possible to watch movies on the computer, listen to music, and thousands of other ways to have fun, work, or even express yourself in the comfort of your home. Communication technologies such as the telephone, email, fax, communication programs and chatting have changed the way we meet people and how we socialize. The possibilities are almost endless. Also, the concept of virtual profile was born, the idea that anyone could impersonate anyone. 
+Today we are so virtually invested, that we couldn't even imagine a world without our phones, computers, easy communications, easy spacial orientation using maps, like google, or Apple Maps etc.
 
 --- 
 ### The electronic forms of information searching

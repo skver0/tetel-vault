@@ -12,9 +12,9 @@
 - a CPU has to have 
 	- Control Unit (CU)
 	- Arithmetical and Logical Unit (ALU)
-	- register Block
+	- register block
 	- flash Memory - for caching
-	- mathematical Coprocessor
+	- mathematical coprocessor
 - memory
 - storage
 - peripherals (I/O)
@@ -37,7 +37,7 @@
 		- connectivity (I/O -> controlled by the I/O controller)
 			- extends the capabilities of the host machine 
 			- are optional in nature
-			- General external connections(e.g. USB)
+			- general external connections(e.g. USB)
 			- i.e.: printer, keyboard, mouse, headphones, monitor and a lot more
 	- **CPU**
 		- control unit - controls the data coming in and out of the CPU
@@ -197,7 +197,7 @@
 		- 3D 
 			- heats up a plastic cable just enough to make it flow 
 	- usage
-		- fot matrix
+		- dot matrix
 			- very rare
 			- post offices still using it
 		- inkjet, laser
@@ -265,7 +265,7 @@
 	- repair
 		- sector lock
 ---
-### Maintenance, cleaning, 
+### Maintenance, cleaning 
 - Cleaning
 	- air cooling sucks in dust
 		- cleaning with compressed air
