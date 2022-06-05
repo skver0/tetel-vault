@@ -1,0 +1,103 @@
+# Az ipari forradalmak hullámai és a gyáripar kezdetei
+---
+### Az ipari forradalom előzményei Angliában
+- 18. századi mezőgazdasági fejlődés alapozta meg
+	- vetésforgó kialakulása
+		- elegendő élelmet biztosított
+	- növekedik a népesség emiatt a piac is
+- céheket háttérbe szorították a manufaktúrák, bérmunkásokat alkalmaztak
+	- bekerítések
+		-  olcsó munkaerő ált rendelkezésre
+- gyarmati piacok bővülése, népességnövekedés fokozta a keresletet
+- tőkés viszonyok, szabadversenyes kapitalizmus
+	- szabadabban lehetett vállalkozást indítani, befektetőket találni
+	- vállalkozók kötöttségek nélkül versenyezhettek
+- textilipar a húzóágazat
+	- viszonylag egyszerű technológia nem igényelt túl sok tőkét
+	- jelentős hazai kereslet
+- egyszerű mechanikus gépek kifejlesztése
+	- John Kay - szövőgép
+		- fonaléhség
+---
+### A gőzgép és a gyáripar megjelenése
+- szén használat
+	- erdők pusztulása
+		- kellett valamilyen erőforrás
+	- Angliában előnyös területi adottságok
+		- felszínközeli szénkészlet
+- James Watt, a gőzgép tökéletesítése
+	- 1769
+	- gőzzel hajtott dugattyú egyenes vonalú mozgását forgó mozgássá alakította
+		- alkalmas volt textiliparra jellemző egyszerű, mechanikus mozgatásra
+		- alkalmazni lehetett esztergagépek meghajtásánál
+		- késöbb az ipar minden területén munkába állították
+- nehézipar fejlődése
+	- szén az acélgyártáshoz, a kohászatban is felhasználható volt
+- gözgép elterjedése
+	- segíŧette a nagyobb termelési egységek kialakulását
+	- több munkás, nagyobb mennyiségű termék
+	- gépekkel termelő nagyüzemek, gyárak
+- gyárakban nővekedő munkáslétszám, rossz körülmények
+	- munkások érdekvédelmére szervezetek alakultak
+		- céljuk a méltányosabb munkafeltételek kiharcolása
+		- rövidebb munkaidő
+		- magasabb bér
+		- fizetett szabadság
+---
+### Közlekedés forradalma
+- gőzgépet a közlekedésben is föllehetett használni
+	- 1807 fultoni lapátkerekes gőzhajó
+- közlekedés igazi forradalmát a vasút hozta meg
+	- szárazföldön is lehetővé tette a nagy tömegű áru olcsó és gyors szállítását
+		- első vasút
+			- 1825
+			- Stockton-Darlington
+	- vasút gyorsan húzóágazattá vált
+		- újabb nyersanyag forrásokat tett gazdaságosan elérhetővé
+		- újabb területekre biztosította az áru eljutását
+			- növelte a piacot
+		- óriási nyersanyagigénye megrendelést biztosított
+			- bányászat
+			- kohászat
+			- gépgyártás
+			-> felgyorsította a nehézipar fejlődését
+---
+### A második ipari forradalom
+- 19. század második felében új lendület
+	- óriásira növekedtek az üzemméretek
+	- egyre több tudós és kutatóintézet dolgozott a fejlesztéseken
+	- hatalmas tőkét biztosítottak ezekre a célokra
+- monopóliumok kialakulása
+	- méretgazdaságosság
+		- nagyobb piaci szereplők jobban érvényesültek
+		- vállalatok összefogtak, akár össze is olvadtak
+		- monopóliumok korlátozták a versenyt
+	- szabadversenyes kapitalizmust felváltotta a monopolkapitalizmus (mi a redvás halál ez egyáltalán, agyvérzést kapok ezektől a hulladék szakszavaktól)
+- az elsődleges energiahordozó még mindig a szén
+	- új energiahordozó, kőolaj
+- belső égésű motor
+	- Otto, Daimler, Benz
+	- motor porlasztót Bánki Donát és Csonka János alkotta meg
+- gőzgépet tökélesítették
+	- 100km/óra sebességgel haladó vonat
+	- ocánt átszelő gőzhajók
+- létrejött és nagyipari méretűvé vált az autógyártás
+	- Ford valósitotta meg a futószalagos termelést
+	- T-modell, Galamb József tervezése
+- Wright fivérek 1903-ban első repülőgép
+	- kormányozható léghajó (Zeppelin) volt a másik lehetőség
+- elektromosság alkalmazása
+	- izzólámpával megoldották a világítás kérdését (Edison)
+		- fonográf, film is köthető Edison nevéhez
+	- áram hatékony használatát a transzformátor tette lehetővé
+		- ipari alkalmazásra alkalmas transzformátort a Ganz gyár mérnökei fejlesztették ki
+			- Déry Miksa, Bláthy Ottó, Zipernovszky Károly
+- Forradalmasodott a távközlés
+	- telefon, Bell
+	- drót nélküli távíró, Marconi
+		- Morse már a század elején megalkotta a távíróját
+	- telefonközpont, Puskás tivadar
+- vegyipar fejlődése
+	- kőolaj vegyészet (petrolkémia)
+	- nitrogénvegyészet legfontosabb eredménye a dinamit (Nobel)
+		- bányászatban és a hadiiparban is tudták alkalmazni

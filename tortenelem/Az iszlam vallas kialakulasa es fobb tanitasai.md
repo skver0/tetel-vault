@@ -1,0 +1,57 @@
+# Az iszlám vallás kialakulása és főbb tanításai
+---
+### Az iszlám vallás kialakulása
+- Arab-félsziget száraz, sivatagos vidékén az ókorban nomád beduin törzsek éltek
+	- nem alakítottak ki egységes államot
+- térség jelentősége
+	- Tömjénút (kereskedelmi útvonal)
+	- kereskedővárosai
+		- Mekka, Medina
+- környék vallása politeizmus volt
+	- Mekkában a Kába szentélyben örzőtt Fekete Kő ősi pogány kultusza
+- Mohamed Mekkában élt, tevehajcsár volt, késöbb kereskedő
+- új hit igazságai, parancsai, melyeket Allah nyilvánított ki Mohamed számára Gabriel arkanygal útján (610)
+	- végitélet
+	- egyetlen isten, Allah hatalma
+	- elítélte a kapzsi kereskedőket, az uzsorát
+	- elesettek gyámolítása
+	- az egység gondolata, közös hit fontosabb a vérségi leszármazásnál
+- szegények támogatták, de gazdag kereskedők elkergették Mekkából 622-ben
+- Mohamed kivonulása, hidzsra
+	- iszlám időszámítás kezdete
+- kiegyezett késöbb a mekkaiakkal
+	- Fekete Kő tiszteletének előírása pedig még hasznot is hozott
+---
+### Főbb tanításai
+- az iszlám szó Istennek (Allah) való teljes meghódolást, engedelmességet jelent
+- szent könyve a Korán
+	- Mohamed tanítványai jegyezték le a halála után
+	- szigorú monoteizmus
+	- kereszténységnél egyszerűbb istenkép
+		- nincs szentháromság
+		- viszont Jézust elismerik prófétaként
+- öt alappillére/parancsolata
+	- Allahban, az egyetlen istenben és prófétájában, Mohammedben való hit
+	- Napi ötszöri ima, Mekka felé, elötte rituális mosakodás
+	- Ramadán, havi böjt
+	- kötelező szegények támogatása, alamizsnálkodás
+	- életben egyszer zarándoklat a szent városba
+		- Mekkába a Fekete Kőhöz
+- további szabályok
+	- sertéshús és szeszes italok tilalma
+	- engedélyezett többnejűség
+	- kötelező hit terjesztése
+		- szent háború, dzsihád
+			- akik elestek azonnal a Paradicsomba kerülnek
+- nincs rendszerbe szervezett teológiája, körülírt egyházszervezete
+	- papság szerepe nem olyan kiemelkedő mint a keresztényésg esetében
+- pap (imám) nem közvetít isten és ember között, csak vezeti az imát
+- szövegek elméleti értelmezését az ulemák végzik
+- a vallás az élet minden területét szabályozza
+	- állam alappillére
+	- Mohamed utódai, kalifák, egyben világi és vallási vezetők
+	- nincsenek külön világi törvények, az ügyeket a Korán alapján a kádik döntik el
+	- iszlám két fő ága, a kalifai hatalom öröklődése szerint jött létre
+		- Szunnita, többség
+		- Síita, kisebbség
+---

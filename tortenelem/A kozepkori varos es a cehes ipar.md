@@ -1,0 +1,102 @@
+# A középkori város és a céhes ipar
+---
+### A középkori városok kialakulása
+- technikai fejlesztések
+	- háromnyomásos gazdálkodás
+	- nehézeke
+	- szűgyhám
+	- vizimalmok
+		- mezőgazdasági fellendülés Nyugat-Európában
+			- népességnövekedés
+				- kelet felé induló telepesek/hospesek
+			- kialakul az árutermelés és a pénzgazdaság
+			- ismét megjelennek a kereskedést és árutermelést folytató városok
+- jó közlekedési adottságú, stratégiai fekvésű helyeken alakultak ki
+	- korábbi római városok helyén
+	- királyi, püspöki vagy fölesúri székhelyek környékén
+	- kereskedelmi csomópontoknál
+		- kikőtők, révátkelőhelyek
+- földesúrral szemben a kereskedők illetve az iparosok kommunákat (érdekvédelmi közösségeket) hoztak létre, hűbéreseivel szemben álló királyra is támaszkodhattak
+- király támogásával általában fegyveres harc nélkül is kikényszeríthették a függetlenségüket, önkormányzatuk elismerését
+---
+### A városi kiváltságok, társadalom és intéményrendszerük
+- alapvetően a középkori város jogi fogalom, nem népességszám, gazdasági szerep alapozta, hanem kizárólag az oklevéllel elismert kiváltság
+- kikerült a feudális joghatóság alól
+	- jobbágyok -> szabad városi polgárok
+- városi kiváltságok
+	- önálló bíró vagy polgármester választás
+	- egyházi vezető választása
+	- falépítési jog
+		- védhetővé teszi a várost
+	- adózás egy évben egyszer, egy összegben, csak a királynak
+	- vásártartás
+	- árumegállítás
+- városi társadalom
+	- szabad városi polgárság
+		- jogállása félig nemes félig jobbágy
+	- hierarchikus
+		- patríciusok - gazdag kereskedők
+		- iparosok - céhmesterek
+		- nép (plebs) - céhlegények, inasok, beköltöző jobbágyok
+- városi intézményrendszer
+	- élén a polgármester vagy bíró
+	- munkáját a tanácsadó testület segíti
+		- városi tanács
+			- legazdagabb városi patríciusok és iparoscéhek képviselői
+---
+### A céhes ipar
+- növekvő kereskedelem -> árutermelés igénye
+- céh
+	- iparosok érdekvédelmi szervezete
+- szakmánként, városonként szerveződő csoportok
+	- kovács, takács, szabócéhek
+- minőség a cél
+	- termelés korlátozva van
+		- szűk volt a piac
+		- szűk fizetőképes kereslet
+- munkafolyamatot egy jól képzett mester végzi
+	- egyedi, művészi minőségű termékek előállítása
+- céhmesterséget tanulók
+	- először inas, majd céhlegény
+	- mesterré válás
+		- tanulmányút más városok céheihez
+		- mestermunka elkészítése
+- céh társadalma
+	- hierarchikus
+	- teljes jogú tagok, mesterek
+	- inasok, legények, kiszolgáltatott helyzetben
+- céhen kívüli iparosokkal (konktárokkal) szemben szigorú fellépés
+	- nem tartották be a céh szabályait
+	- konkurenciát jelentettek és többnyire gyengébb minőségen termeltek
+	- ki alakul a verseny
+- közösségi feladatok
+	- szegényházak üzemelteteése
+	- város védelme
+---
+### Kereskedelem
+- fajtái
+	- helyi
+		- város, uradalmi központ és a környező vidék között
+	- távolsági
+		- értékes luxuscikkeket, nyersanyagokat szállítottak sokszoros pénzért
+	- közvetítő
+		- ha a termék és a rá irányuló kereslet nem találkozik közvetlenül
+		- pl. Velence közvetítésével jutnak el a keleti temékek a nyugat-európai városokba
+- kereskedelmi utak
+	- tengeren, folyón
+		- egyszerűbb, olcsóbb, nagyobb mennyiséget lehetett szállítani
+	- szárazföldön, zarándokutak mentén
+		- biztonságosabb
+- levantei kereskedelem (Földközi-tenger keleti medencéjében)
+	- Keleti fűszerek, luxuscikkek
+	- Arab közvetítéssel Indiáig, Selyemúton Kináig
+	- főbb szereplők
+		- Bizánc
+		- olasz városállamok
+			- Velence, Genova, Pisa
+- Hanza kereskedelem (Balti és Északi-tenger)
+	- Hamburg, Lübeck, Amszterdam
+	- keletről nyersanyagok
+	- nyugatról iparcikkek
+- nagy tengeri útvonalak között szárazföldi kereskedelem
+	- központja Champagne
