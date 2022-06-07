@@ -1,3 +1,5 @@
+# LAN Hálózati eszközök
+---
 ### Típusok
 - aktív, passzív
 

@@ -17,5 +17,5 @@
 - [ ] [[|16. Hálózati címek]]
 - [x] [[szakmaiinfo/Halozatok csoportositasa|17. Hálózatok csoportosítása]]
 - [x] [[szakmaiinfo/Halozati modellek|18. Hálózati modellek]]
-- [ ] [[|19. LAN hálózati eszközök]]
-- [ ] [[|20. Vezetéknélküli hálózat beállítása]]
+- [x] [[szakmaiinfo/LAN halozati eszkozok|19. LAN hálózati eszközök]]
+- [x] [[szakmaiinfo/Vezetek nelkuli halozat beallitasa|20. Vezetéknélküli hálózat beállítása]]

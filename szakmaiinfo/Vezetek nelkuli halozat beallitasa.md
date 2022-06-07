@@ -1,3 +1,5 @@
+# Vezeték nélküli hálózat beállítása
+---
 Mi kell hozzá:
 - **internet kapcsolat és modem:** 	ISP-től van általában de a modem gyakran csak opcionális. A kábeles és DSL kapcsolat a leggyakoribb.
 	- DSL: digital subscriber line (általában telefontársaságok)
