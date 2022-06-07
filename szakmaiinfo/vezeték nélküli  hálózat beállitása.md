@@ -27,4 +27,4 @@ Mi kell hozzá:
 - wifi biztonságossá tétele
 	- állitsa át az alapértelmezett nevet, és jelszót
 - Hogyan lehet csatlakozni wifire
-	- bruh momento.
+	- bruh momento
