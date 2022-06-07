@@ -1,0 +1,77 @@
+# Petőfi tájleíró versei 
+---
+### Életrajz
+- 1823 (Kiskőrös) - 1849 (Segesvárnál eltűnt)
+	- apja: Petrovics István
+	- anyja: Hrúz Mária
+-  iskolái
+	- Kecskeméti elemi
+	- Sárszentlőrinci algimnázium
+	- Aszódi gimnázium
+	- Selmecbányai gimnázium
+	- Pápai kollégium
+- 1839 - katonának áll
+	- 1841 - felmentik
+- vándorszínész
+	- kevés színészi társulatban
+	- szegények
+- 1842 - első verse
+	- Borozó
+- Pesti Divatlapnál segédszerkeztő
+- 1847 - elveszi Szendrey Júliát
+	- nászúton megírja a Szeptember végént
+- 1848 március 15 - a forradalom legnagyobb alakja
+- indult a Szabadszállási képviselőválasztáson, de nem szavazták meg
+	- az apostolt ez inspirálja 
+- 1848 októberétől - Bem József seregében szolgál
+--- 
+### A Tisza
+- 1847 - Pest
+- egy régi élményére tekint vissza
+- múlt időben van írva
+- Tisza kétarcúsága jeleníti meg
+- 15 strófa áll
+- tájrazzal kezdődik
+- nyári este, Tisza partján
+- <i>(Ott, hol a kis Túr siet beléje / Mint a gyermek anyja kebelére)</i>
+	- hasonlat
+- Tisza jellemzése 2-3. versszakon keresztül
+- 4. versszaktól a Tisza-parti táj leírása
+	- először a közeli dolgokat veszi szemügyre(víztükör, a föveny)
+	- aztán a távoliakat(erdő, a bércek)
+	- leírása egyszerű
+	- hasonlat, megszemélyesítés
+	- a hangokat is leírja 
+		- csend, madárfütty
+	- a táj csendes és mozdulatlan 
+		- majd megjelenik a túlpartopn a pór menyecske
+			- egyetlen emberalak
+			- tekintetük találkozik
+			- elfut, majd távozása után nagyobb a csend
+- lírai realizmus
+	- mértanú pontosságú tájleírás
+	- a költő a tájjal kapcsolataos érzéseit is érzékelteti
+		- Petőfinek ez volt az elsődleges, a táj csak ürügy
+- <i>Lelkem édes, mély mámorba szédült / A természet örök szépségétül.</i>
+	- visszaadja a felemelő élményt
+	- a költő hangulata is boldog
+	- Petőfi csodálja a természet szépségét
+- az élmény múlt idejű, a költő a jelen időben szólal meg:
+> _Oh természet, oh dicső természet!_
+_Mely nyelv merne versenyezni véled?_  
+_Mily nagy vagy te! mentül inkább hallgatsz,_  
+_Annál többet, annál szebbet mondasz._
+- lelkesen dícséri a természetet
+	- megelevenedik az emlék
+	- klasszicista ódákra emlékeztet
+	- a természet hallgatásának kifejezőerejével egyetlen emberi nyelv sem tudná felvenni a versenyt
+	- a költő, a szavak embere dícséri a hallgatást és a csöndet
+- 1-11. versszak tájleírásáait a 12. strófától narratív rész követi
+	- Petőfi visszatér a tanyára
+	- barátai rosszakat mondanak a folyóról
+	- Petőfi nem érti
+- drámai befejezés
+	- pár nap múlva a költő arra riad fel, hogy harangoznak az árvíz miatt
+- romantikus vonás a versben az ellentét
+	- a nyugodt Tisza vs az örjöngő, elmebeteg Tisza között
+- az utolsó strófában a vers társadalmi mondanivalóval telítődik: a megáradt, zúgva-bőgve tomboló Tisza képe az erejére ráébredő, fölkelő, szabadságáért fegyvert ragadó nép jelképe lesz

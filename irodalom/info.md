@@ -1,5 +1,5 @@
 #### Irodalom
-- [ ] [[|1. A táj megjelenítése Petőfi Sándor költészetében]]
+- [x] [[irodalom/Petofi tajleiro versei|1. A táj megjelenítése Petőfi Sándor költészetében]]
 - [ ] [[|2. Arany János balladái]]
 - [ ] [[|3. Ady Endre: Léda-versek]]
 - [ ] [[|4. Babits Mihály: Jónás könyve]]

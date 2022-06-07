@@ -1,4 +1,4 @@
-# Vezeték nélküli hálózat beállítása
+# Vezetéknélküli hálózat beállítása
 ---
 Mi kell hozzá:
 - **internet kapcsolat és modem:** 	ISP-től van általában de a modem gyakran csak opcionális. A kábeles és DSL kapcsolat a leggyakoribb.
@@ -28,5 +28,3 @@ Mi kell hozzá:
 	- ha 5ghz-n gyenge a jel 2.4ghz-re átállitva lehet jobb lesz
 - wifi biztonságossá tétele
 	- állitsa át az alapértelmezett nevet, és jelszót
-- Hogyan lehet csatlakozni wifire
-	- bruh momento
