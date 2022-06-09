@@ -5,7 +5,7 @@
 - [ ] [[|4. Az ellenforradalmi rendszer konszolidációjának lépései]]
 - [x] [[tortenelem/A kozepkori varos es a cehes ipar|5. A középkori város és a céhes ipar]]
 - [x] [[tortenelem/A XVIII szazadi magyar tarsadalom demografiai es etnikai valtozasai|6. A XVIII. századi magyar társadalom demográfiai és etnikai változásai]]
-- [ ] [[|7. A Kádár-korszak mindennapjai]]
+- [x] [[tortenelem/A Kadarkorszak mindennapjai|7. A Kádár-korszak mindennapjai]]
 - [x] [[tortenelem/Geza fejedelemsege es Szent Istvan allamszervezo tevekenysege|8. Géza fejedelemsége és Szent István államszervező tevékenysége]]
 - [x] [[tortenelem/Hunyadi Matyas uralkodasa|9. Hunyadi Mátyás uralkodása]]
 - [x] [[tortenelem/A reformkor fobb kerdesei es kepviseloi|10. A reformkor főbb kérdései és képviselői]]
