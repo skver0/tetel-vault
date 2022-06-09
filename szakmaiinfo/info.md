@@ -14,7 +14,7 @@
 - [ ] [[|13. Tesztelés és hibakeresés]]
 - [x] [[szakmaiinfo/Adatbaziskezeles alapfogalmai|14. Adatbáziskezelés alapfogalmai]]
 - [x] [[szakmaiinfo/Atviteli kozegek|15. Átviteli közegek]]
-- [ ] [[|16. Hálózati címek]]
+- [x] [[szakmaiinfo/halozati cimek|16. Hálózati címek]]
 - [x] [[szakmaiinfo/Halozatok csoportositasa|17. Hálózatok csoportosítása]]
 - [x] [[szakmaiinfo/Halozati modellek|18. Hálózati modellek]]
 - [x] [[szakmaiinfo/LAN halozati eszkozok|19. LAN hálózati eszközök]]
