@@ -7,7 +7,7 @@
 - [x] [[szakmaiinfo/Rosszindulatu szoftverek|6. Rosszindulatú szoftverek]]
 - [x] [[szakmaiinfo/Hattertarak tipusai és formazasa|7. Háttértárak formázása]]
 - [x] [[szakmaiinfo/Felhasznaloi fiokok kezelese|8. Felhasználói fiókok kezelése]]
-- [x] [[szakmaiinfo/Nyomtato uzembe helyezese, karbantartasa|9. Nyomtató üzembe helyezése, karbantartása]]
+- [x] [[Nyomtato uzembe helyezese es karbantartasa|9. Nyomtató üzembe helyezése, karbantartása]]
 - [ ] [[szakmaiinfo/BIOS beallitasok|10. BIOS beállítások]]
 - [ ] [[|11. Adattípusok csoportosítása]]
 - [ ] [[|12. Vezérlési szerkezetek]]
