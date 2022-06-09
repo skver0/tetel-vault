@@ -10,7 +10,7 @@
 - [x] [[Nyomtato uzembe helyezese es karbantartasa|9. Nyomtató üzembe helyezése, karbantartása]]
 - [x] [[szakmaiinfo/BIOS beallitasok|10. BIOS beállítások]]
 - [x] [[Adattipusok csoportositasa|11. Adattípusok csoportosítása]]
-- [ ] [[|12. Vezérlési szerkezetek]]
+- [x] [[Vezerlesi szerkezetek|12. Vezérlési szerkezetek]]
 - [ ] [[|13. Tesztelés és hibakeresés]]
 - [x] [[szakmaiinfo/Adatbaziskezeles alapfogalmai|14. Adatbáziskezelés alapfogalmai]]
 - [x] [[szakmaiinfo/Atviteli kozegek|15. Átviteli közegek]]
