@@ -6,7 +6,7 @@
 - [x] [[szakmaiinfo/Allomanytipusok|5. Állománytípusok]]
 - [x] [[szakmaiinfo/Rosszindulatu szoftverek|6. Rosszindulatú szoftverek]]
 - [x] [[szakmaiinfo/Hattertarak tipusai és formazasa|7. Háttértárak formázása]]
-- [ ] [[felhasznaloi fiokok kezelese (win 10)|8. Felhasználói fiókok kezelése]]
+- [x] [[felhasznaloi fiokok kezelese (win 10)|8. Felhasználói fiókok kezelése]]
 - [ ] [[|9. Nyomtató üzembe helyezése, karbantartása]]
 - [ ] [[szakmaiinfo/BIOS beallitasok|10. BIOS beállítások]]
 - [ ] [[|11. Adattípusok csoportosítása]]
