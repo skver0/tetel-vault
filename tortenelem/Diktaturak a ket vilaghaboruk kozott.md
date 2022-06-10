@@ -1,7 +1,7 @@
 # Diktatúrák a két világháborúk között
 ### Náci németország
 ##### Kialakulása 
-- A versailles-i békekonferencia után németországban, zűrzavar, és köztársasági válság volt jellemző. Az I. vh sokkhatása alól nehezen tért magához az ország. Komoly gazdasági, anyagi, és társadalmi károk érték az országot.
+- A versailles-i békekonferencia után németországban zűrzavar, és köztársasági válság volt jellemző. Az I. vh. sokkhatása alól nehezen tért magához az ország. Komoly gazdasági, anyagi, és társadalmi károk érték az országot.
 - A jóvátételfizetés kötelezettsége, a régiókat vesztett nyersanyag, élelmiszerhiány és munkaerőhiány jellemezte. Hadsereg létszáma erősen korlátozva volt.
 - Hitler korábbi puccskísérlete miatt 8 havi börtönt kapott, amiben megirta a Mein Kampf könyvét.
 - Közben elkezdődött az ország konszolidációja és gazdasági stabilitása
@@ -14,7 +14,7 @@
 - Első tartópillére a megfélemlítés volt
 	- ellenfelek koncentrációs táborba 
 	- GESTAPO politikai, társadalmat felügyelő rendőrség
-- Teljes, és mély állami propaganda, náci sikerekről, nulla információ idegen forrásokból
+- Teljes, és mély állami propaganda náci sikerekről, nulla információ idegen forrásokból
 - faji diszkriminációk
 	- zsidók, feketék, romák stb.
 - náci eszmék, és német összetartozás hirdetése 
@@ -52,11 +52,13 @@
 - szvasztika
 ---
 ### Szovjet-orosz kommunizmus
+##### Ideológia alapja
+- marxizmus (leninnél és sztálinnál is átalakitva)
 ##### Kialakulása
 - 1917-re oroszország kilép az I. vh-ból mivel az orosz társadalom nem birta tovább a háború terheit és polgárháborús helyzet alakul ki.
 - még 17-ben kettő polgári forradalom is lezajlik, egyik a cárság megszüntetését hozza magával a másik a cárság megszűnése utáni gyenge ideiglenes kormány puccsolása a bolsevikok által
-- évekig húzódik a véres polgárháború az ellenforradalmi katonai erők ellen, de végül a Lenin vöröshadserege győzedelmeskedik.
-- 1922-re fejeződött be a polgárháborús időszak
+- évekig húzódik a véres polgárháború az ellenforradalmi katonai erők ellen, de végül a Lenin vöröshadserege győzedelmeskedik. 
+- 1922-re fejeződött be a polgárháborús időszak (fehér-vörös polgárháborúk)
 ##### Rendszer
 - hadikommunizmus: minden élelem és hadifegyver stb. a vörös hadseregnek ellátására ment elsősorban. ennek a polgárháború közben volt szerepe főként. Az állandó háborúskodás miatt kellett felállítani
 	- 1921-ben lett törölve a hadikommunizmus a polgárháború befejésekor
@@ -71,9 +73,9 @@
 - egyenrangúságon alapul
 ##### Sztálin megvalósítása
 - 1924-ben meghal Lenin, és helyére belső harcok után Sztálin kerül
-- Sztálini diktatúra kegyetlenségen, és terroro alapszik
-- Az összes ellenfelét vagy megöleti, gulágra küldi, vagy száműzeti. (tisztogatások)
-- személyi kultuszt alakít fonsots lesz, tetteit csak dicsőíeni lehet, képe minden lakásban ott kellett lennie.
+- Sztálini diktatúra kegyetlenségen, és terroron alapszik
+- Az összes ellenfelét vagy megöleti, gulágra küldi vagy száműzeti. (tisztogatások)
+- személyi kultuszt kialakul, tetteit csak dicsőíteni lehet, képe minden lakásban ott kellett lennie, beszédei után állandó taps
 - titkosrendőrséget vezet be, a másként gondolkodók felkutatására
 - Gulag-ot létrehozza, ahova a megbizhatatlan, és a rendszer elleni embereket, halálra dolgoztatta.
 ##### Sztálin gazdaságpolitikája
@@ -82,3 +84,5 @@
 - erőltetett volt az iparosítás.
 - termelőszövetkezeteket alakít ki, és erőszakkal beléptette a parasztokat
 - kötelező beszolgáltatás van.
+##### Vallás
+- nem volt engedélyezve, korlátozott volt.
