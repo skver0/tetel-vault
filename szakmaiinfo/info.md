@@ -11,7 +11,7 @@
 - [x] [[szakmaiinfo/BIOS beallitasok|10. BIOS beállítások]]
 - [x] [[Adattipusok csoportositasa|11. Adattípusok csoportosítása]]
 - [x] [[Vezerlesi szerkezetek|12. Vezérlési szerkezetek]]
-- [ ] [[|13. Tesztelés és hibakeresés]]
+- [x] [[Teszteles es hibakereses|13. Tesztelés és hibakeresés]]
 - [x] [[szakmaiinfo/Adatbaziskezeles alapfogalmai|14. Adatbáziskezelés alapfogalmai]]
 - [x] [[szakmaiinfo/Atviteli kozegek|15. Átviteli közegek]]
 - [x] [[szakmaiinfo/Halozati cimek|16. Hálózati címek]]
