@@ -17,5 +17,5 @@
 - [ ] [[|16. Magyarország háborúba lépése és részvétele a második világháborúban]]
 - [ ] [[|17. A hidegháború]]
 - [x] [[tortenelem/Az iszlam vallas kialakulasa es fobb tanitasai|18. Az iszlám vallás kialakulása és főbb tanításai]]
-- [ ] [[Diktaturak a ket vilaghaboruk kozott|19. Diktatúrák a két világháború között]]
+- [x] [[Diktaturak a ket vilaghaboruk kozott|19. Diktatúrák a két világháború között]]
 - [x] [[tortenelem/Az Europai Unio alapelvei intezmenyei es mukodese|20. Az Európai Unió alapelvei, intézményei és működése]]
