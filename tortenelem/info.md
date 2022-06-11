@@ -13,7 +13,7 @@
 - [x] [[tortenelem/A dualista allam A kiegyezes tartalma es ertekelese|12. A dualista állam. A kiegyezés tartalma és értékelése]]
 - [x] [[tortenelem/Az 1956os forradalom es szabadsagharc kitoresenek okai es fobb esemenyei|13. Az 1956-os forradalom és szabadságharc kitörésének okai és főbb eseményei]]
 - [x] [[tortenelem/A tatarjaras|14. A tatárjárás]]
-- [ ] [[tortenelem/Az elso vilaghaboru es a vilaghaborut lezaro versailles-i bekerendszer|15. Az első világháború és a világháborút lezáró versailles-i békerendszer]]
+- [x] [[tortenelem/Az elso vilaghaboru es a vilaghaborut lezaro versailles-i bekerendszer|15. Az első világháború és a világháborút lezáró versailles-i békerendszer]]
 - [ ] [[|16. Magyarország háborúba lépése és részvétele a második világháborúban]]
 - [ ] [[|17. A hidegháború]]
 - [x] [[tortenelem/Az iszlam vallas kialakulasa es fobb tanitasai|18. Az iszlám vallás kialakulása és főbb tanításai]]

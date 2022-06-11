@@ -18,7 +18,7 @@
 	- flottaépítési versengés Anglia és Németország között
 ---
 ### Az első világháború kirobbanása
-- Egy boszniai hadgyakorlaton egy szerb nacionalista diák lelőtte a Monarchia trónörökösét Ferenc Ferdinándot. A már eddig is feszülő kedélyek mellett ezután főleg német nyomásra Monarchia hadat üzent. és a szövetségek szerződése alapján mindkét oldal a másik oldalnak is hadatüzentek. Kezdete az első világháborúnak: 1914 július 28.
+- Egy boszniai hadgyakorlaton egy szerb nacionalista lelőtte a Monarchia trónörökösét Ferenc Ferdinándot. A már eddig is feszülő kedélyek mellett ezután főleg német nyomásra Monarchia hadat üzent. és a szövetségek szerződései alapján mindkét oldal a másik oldalnak is hadatüzentek. Kezdete az első világháborúnak: 1914 július 28.
 ---
 ### Főbb frontok
 Az első világháborúban öt front alakult meg
@@ -35,12 +35,16 @@ Az első világháborúban öt front alakult meg
 ### A világháború menete
 ##### 1914-es év
 - Nyugati front: 
-	- A német támadás villámháborús tervel indult, lerohanták Belgiumot, majd a Marne-folyónál a franciákkal állóháború alakult ki - mégsem sikerült a villámterv.
-	- Első tengeri ütközetet végül angol flotta nyerte
+	- A német támadás Schlieffen-féle villámháborús tervel indult, lerohanták Belgiumot, majd a Marne-folyónál a franciákkal állóháború alakult ki - mégsem sikerült a villámterv.
+	- A németek megpróbálták betolni a frontot La Manche kikötőig, de kudarcba fulladt
+	- Első tengeri ütközet lezajlott, amit végül angol flotta nyeri
 - Keleti front: 
-	- A német villámháborús terv azzal számolt hogy a keleti front még nem kezdődik el, vagy ha igen akkor a Monarchia helytáll. Ez viszont nem így lett mivel oroszország gyorsan mozgosított, és támadást inditott Kelet-poroszországban, ahol végül a németeknek kellett megállítani az előre tolást.
+	- A német villámháborús terv azzal számolt hogy a keleti front még nem kezdődik el, vagy ha igen akkor a Monarchia helytáll. Ez viszont nem így lett mivel oroszország gyorsan mozgosított, és támadást inditott Kelet-poroszországban, ahol végül a németeknek kellett megállítani az előre tolást. 
+	- Oroszország támadást inditott még Galiciában is a Monarchia ellen.
 - Déli front:
-	-  A Monarchia Magyarország és Bosznia felől támadták Szerbiát, és elfoglalták Belgrádot, de a galíciai harcok miatt a szerb ellentámadás visszaszorítást hozott magával Monarchia ellen.
+	-  A Monarchia Magyarország és Bosznia felől támadták Szerbiát, és elfoglalták Belgrádot, de az oroszok galíciai támadásai miatt, Monarchiának osztania kellett haderejét, ami miatt a szerb ellentámadás visszaszorítást hozott magával Monarchia ellen.
+- Bekapcsolódott az Oszmán birodalom is a központi hatalmak oldalára, ezzel megnyílt a Mezopotámiai frontvonal is
+- Afrikában is folytan a harcok, főkként Angolok és Németek egymással. Legtöbbet Angolok nyerték, de Tanzániában németek nyertek
 ##### 1915-ös, 16-os év
 - villámháborúból állóháború lett az összes fronton
 - Nyugati front: állóháború folytatódott, németek elöszőr használnak harci gázokat (klórgáz)
@@ -52,15 +56,15 @@ Az első világháborúban öt front alakult meg
 	 - (1916) Románia átáll az antant oldalára, amikoris Anglia megígéri Erdélyt.
 	- (1916) Román csapatok betörnek Erdélybe, viszont a megerősödött német bolgár csapatok és bukarestig foglalták el romániát. 
 - Déli front: 
-	- (1915) Olaszország belép az a háborúba az antant oldaln, és Isonzó folyónál harcok kezdődnek
 	- ()1915 Bulgária is belép, és szerbek ellen offenzívába indul
 	- (1916) Déli front: Isonzói csaták folytatótak
+- (1915) Olaszország belép a háborúba az antant oldalán, és Isonzó folyónál harcok kezdődnek, és ezzel megnyílt az Olaszfront is.
 ##### A háború elhúzódása
-- át kellett álni az államoknak a haditermelésre (kezdtek kifogyni)
+- át kellett állni az államoknak a haditermelésre (kezdtek kifogyni)
 - harcoló férfiak miatt munkaerőhiány alakult ki
 - nők kezdtek gyárakban munkaerőt pótolni
-- gazdasági problémák, pl: infláció - nem volt már fedezet ezért "money printing machine go brrr" volt gyakori jopár országban
-- társadalmi problémák alakultak ki a húzódo gazdasági alulteljesítés, és veszteségek miatt
+- gazdasági problémák, pl: infláció - nem volt már fedezet ezért a pénz nyomtatás gyakori volt <sub>(money printing machine go brrr)</sub>
+- társadalmi problémák alakultak ki a húzódo gazdasági alúlteljesítés, és veszteségek miatt
 ##### 1917-es, 18-as év
 - Nyugati front:
 	- (1917) németek korlátlan tengerháborút hirdetnek, azaz minden ellenségesnek vélt hajót figyelmeztetés nélkül támadnak. 
@@ -84,10 +88,11 @@ Az első világháborúban öt front alakult meg
 - Oroszország forradalmosodott, bolsevikok elutasították az addigi nemzetközi politikai rendszert
 - Birodalmak szétestek (Monarchia, Oszmán birodalom) - új tagállamok jöttek létre
 - körülbelül 15-23 millió halott 
+- háború vége kb 1918 (nem mindegyik ország ugyanakkor írta alá a fegyverszünetet)
 ---
 ### Békekonferencia (1919-1920)
 - négy nagy: Anglia, Franciaország, USA, Olaszország
-- kis győztesek: Csehszlovákia, Lengyelország, Románia, Szerb-Horvát_Szlovén Királyság, Görögország
+- kis győztesek: Csehszlovákia, Lengyelország, Románia, Szerb-Horvát-Szlovén Királyság, Görögország
 - nem jelent meg Szovjet-oroszország (a németekkel hamarabbi megállapodás miatt)
 - A vesztes államokat nem hívták meg
 - A veszteseknek:
