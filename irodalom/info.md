@@ -14,7 +14,7 @@
 - [ ] [[|13. Bodor Ádám novellái]]
 - [ ] [[|14. Az ókori görög eposzok]]
 - [ ] [[|15. Puskin: Anyegin]]
-- [ ] [[|16. A realizmus, egy választott mű]]
+- [x] [[irodalom/A realizmus egy valasztott mu|16. A realizmus, egy választott mű]]
 - [x] [[irodalom/Az okori gorog szinhaz es drama|17. Az ókori görög színház és dráma]]
 - [ ] [[|18. Shakespeare és a reneszánsz színház]]
 - [ ] [[|19. A Biblia]]
