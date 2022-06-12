@@ -12,7 +12,7 @@
 - [ ] [[|11. Alaktan és szótan]]
 - [ ] [[|12. A mondat fogalma és típusai]]
 - [ ] [[|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
-- [ ] [[|14. A szövegkohézió, a témaháló és a cím]]
+- [x] [[A szovegkohezio a temahalo es a cim|14. A szövegkohézió, a témaháló és a cím]]
 - [x] [[Az intertextualitas|15. Az intertextualitás]]
 - [x] [[Az elektronikus media hagyomanyos es uj kozlesmodjai|16. Az elektronikus média hagyományos és új közlésmódjai]]
 - [x] [[A beszed felepitese|17. A beszéd felépítése]]
