@@ -17,5 +17,5 @@
 - [x] [[irodalom/A realizmus egy valasztott mu|16. A realizmus, egy választott mű]]
 - [x] [[irodalom/Az okori gorog szinhaz es drama|17. Az ókori görög színház és dráma]]
 - [ ] [[|18. Shakespeare és a reneszánsz színház]]
-- [ ] [[|19. A Biblia]]
-- [ ] [[irodalom/Egressy Gabor|20. Egressy Gábor]]
+- [x] [[irodalom/A biblia|19. A Biblia]]
+- [x] [[irodalom/Egressy Gabor|20. Egressy Gábor]]
