@@ -11,7 +11,7 @@
 - [ ] [[|10. Az információs társadalom hatása a nyelvhasználatra]]
 - [ ] [[|11. Alaktan és szótan]]
 - [ ] [[|12. A mondat fogalma és típusai]]
-- [x] [[|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
+- [x] [[A szoveg a szovegosszefugges és a beszedhelyzet|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
 - [x] [[A szovegkohezio a temahalo es a cim|14. A szövegkohézió, a témaháló és a cím]]
 - [x] [[Az intertextualitas|15. Az intertextualitás]]
 - [x] [[Az elektronikus media hagyomanyos es uj kozlesmodjai|16. Az elektronikus média hagyományos és új közlésmódjai]]
