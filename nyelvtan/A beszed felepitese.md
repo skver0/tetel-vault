@@ -67,3 +67,4 @@ tudunk mindent megköszönni. (3x ugyan az a lényeg lett elmondva)
 - pl.: Halálnak halálával halsz
 ##### Humor
 - nevetést vált ki a hallgatóságból. Megtöri a jeget
+---

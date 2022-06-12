@@ -14,7 +14,7 @@
 - [ ] [[|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
 - [ ] [[|14. A szövegkohézió, a témaháló és a cím]]
 - [ ] [[|15. Az intertextualitás]]
-- [ ] [[|16. Az elektronikus média hagyományos és új közlésmódjai]]
+- [x] [[nyelvtan/az elektronikus media hagyomanyos es uj kozlesmodjai|16. Az elektronikus média hagyományos és új közlésmódjai]]
 - [x] [[A beszed felepitese|17. A beszéd felépítése]]
 - [x] [[nyelvtan/Az osszefoglalas funkcioja es tipusai|18. Az összefoglalás funkciója és típusai]]
 - [ ] [[|19. A szójelentés]]
