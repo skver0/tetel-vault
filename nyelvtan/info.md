@@ -2,7 +2,7 @@
 - [x] [[nyelvtan/A kommunikacios folyamat tenyezoi es funkcioi|1. A kommunikációs folyamat tényezői és funkciói]]
 - [x] [[Az emberi kommunikacio nem nyelvi jelei és kifejezoeszkozei|2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei]]
 - [x] [[nyelvtan/Tajekoztatas es velemenykozles megkulonboztetese a tomegkommunikacioban|3. Tájékoztatás és véleményközlés megkülönböztetése a tömegkommunikációban]]
-- [ ] [[|4. A tömegkommunikáció jellemzői és funkciói]]
+- [x] [[nyelvtan/A tomegkommunikacio jellemzoi es funkcioi|4. A tömegkommunikáció jellemzői és funkciói]]
 - [x] [[nyelvtan/A magyar nyelvtortenetenek fo korszakai|5. A magyar nyelv történetének fő korszakai]]
 - [x] [[nyelvtan/A nyelvtortenet forrasai|6. A nyelvtörténet forrásai]]
 - [x] [[nyelvtan/A nyelvujitas|7. A nyelvújítás]]
