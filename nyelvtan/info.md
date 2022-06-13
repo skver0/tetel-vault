@@ -7,7 +7,7 @@
 - [x] [[nyelvtan/A nyelvtortenet forrasai|6. A nyelvtörténet forrásai]]
 - [x] [[nyelvtan/A nyelvujitas|7. A nyelvújítás]]
 - [x] [[nyelvtan/A nyelv mint jelrendszer|8. A nyelv mint jelrendszer]]
-- [ ] [[|9. A nyelv társadalmi tagolódása]]
+- [x] [[nyelvtan/A nyelv tarsadalmi tagolodasa|9. A nyelv társadalmi tagolódása]]
 - [ ] [[|10. Az információs társadalom hatása a nyelvhasználatra]]
 - [x] [[Alaktan es szotan|11. Alaktan és szótan]]
 - [x] [[A mondat fogalma es tipusai|12. A mondat fogalma és típusai]]
