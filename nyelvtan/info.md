@@ -9,7 +9,7 @@
 - [x] [[nyelvtan/A nyelv mint jelrendszer|8. A nyelv mint jelrendszer]]
 - [ ] [[|9. A nyelv társadalmi tagolódása]]
 - [ ] [[|10. Az információs társadalom hatása a nyelvhasználatra]]
-- [ ] [[|11. Alaktan és szótan]]
+- [x] [[Alaktan es szotan|11. Alaktan és szótan]]
 - [x] [[A mondat fogalma es tipusai|12. A mondat fogalma és típusai]]
 - [x] [[A szoveg a szovegosszefugges és a beszedhelyzet|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
 - [x] [[A szovegkohezio a temahalo es a cim|14. A szövegkohézió, a témaháló és a cím]]
