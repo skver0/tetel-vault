@@ -1,6 +1,6 @@
 #### Nyelvtan
 - [x] [[nyelvtan/A kommunikacios folyamat tenyezoi es funkcioi|1. A kommunikációs folyamat tényezői és funkciói]]
-- [ ] [[|2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei]]
+- [x] [[Az emberi kommunikacio nem nyelvi jelei és kifejezoeszkozei|2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei]]
 - [ ] [[|3. Tájékoztatás és véleményközlés megkülönböztetése a tömegkommunikációban]]
 - [ ] [[|4. A tömegkommunikáció jellemzői és funkciói]]
 - [x] [[nyelvtan/A magyar nyelvtortenetenek fo korszakai|5. A magyar nyelv történetének fő korszakai]]
@@ -11,7 +11,7 @@
 - [ ] [[|10. Az információs társadalom hatása a nyelvhasználatra]]
 - [ ] [[|11. Alaktan és szótan]]
 - [ ] [[|12. A mondat fogalma és típusai]]
-- [ ] [[|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
+- [x] [[A szoveg a szovegosszefugges és a beszedhelyzet|13. Szöveg, szövegösszefüggés, beszédhelyzet]]
 - [x] [[A szovegkohezio a temahalo es a cim|14. A szövegkohézió, a témaháló és a cím]]
 - [x] [[Az intertextualitas|15. Az intertextualitás]]
 - [x] [[Az elektronikus media hagyomanyos es uj kozlesmodjai|16. Az elektronikus média hagyományos és új közlésmódjai]]

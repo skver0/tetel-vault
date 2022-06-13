@@ -75,3 +75,44 @@ _Annál többet, annál szebbet mondasz._
 - romantikus vonás a versben az ellentét
 	- a nyugodt Tisza vs az örjöngő, elmebeteg Tisza között
 - az utolsó strófában a vers társadalmi mondanivalóval telítődik: a megáradt, zúgva-bőgve tomboló Tisza képe az erejére ráébredő, fölkelő, szabadságáért fegyvert ragadó nép jelképe lesz
+---
+### Alföld
+- 1844 - Pest
+- jellemzői
+	- tájleírása hiteles, pontos, részletes
+	- nem a helyszínen írja le, visszaemlékezve írja le
+	- szabadság jelképe
+	- romantikus ihletésűek, érzelmi töltésűek
+	- a perspektíva kezelésének, szűkítésének és a tágításnak mestere
+- tájleíró kötlemény
+	- nem csak természetábrázolás
+		- kifejezi a tájhoz való viszonyát, érzéseit, politikai nézeteit
+	- alapvetően epikai
+		- a tájhoz való viszonya lírizálja az epikumot
+- hangulata kedves
+- stílusa realista
+	- pontosan hitelesen ábrázolja a tájat
+- rónaság, alföld magasztalása
+	- először a magyar irodalomban
+	- itt született, az haza iránti szeretet
+- témája
+	- egy új tájeszmény, a síkság éltetése a vadregényes hegyvidéki tájjal szemben
+- a vers középpontjában a költő áll
+- kifejezőeszközök
+	- metafora
+	- megszemélyítés
+	- ismétlés
+	- alliteráció
+	- hangok
+	- mozgások
+- motívumok
+	- alföld
+	- kárpátok
+	- duna-tisza köze
+	- sas
+- beszédhelyzet
+	- visszatekintő, mivel a vers pesten keletkezett
+		- emlékezetből írta el
+- időben és térben lineárisan halad
+	- a költő előbb tágítja a látókört, majd fokozatosan szűkíti egyetlen ponttá, végül a horizont legtávolabbi széléig lendítit
+		- aldöld végtelen illúzióját kelti
