@@ -1,6 +1,6 @@
 #### Nyelvtan
 - [x] [[nyelvtan/A kommunikacios folyamat tenyezoi es funkcioi|1. A kommunikációs folyamat tényezői és funkciói]]
-- [ ] [[|2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei]]
+- [x] [[Az emberi kommunikacio nem nyelvi jelei és kifejezoeszkozei|2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei]]
 - [ ] [[|3. Tájékoztatás és véleményközlés megkülönböztetése a tömegkommunikációban]]
 - [ ] [[|4. A tömegkommunikáció jellemzői és funkciói]]
 - [x] [[nyelvtan/A magyar nyelvtortenetenek fo korszakai|5. A magyar nyelv történetének fő korszakai]]
