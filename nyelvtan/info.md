@@ -17,5 +17,5 @@
 - [x] [[Az elektronikus media hagyomanyos es uj kozlesmodjai|16. Az elektronikus média hagyományos és új közlésmódjai]]
 - [x] [[A beszed felepitese|17. A beszéd felépítése]]
 - [x] [[nyelvtan/Az osszefoglalas funkcioja es tipusai|18. Az összefoglalás funkciója és típusai]]
-- [ ] [[|19. A szójelentés]]
+- [x] [[nyelvtan/A szojelentes|19. A szójelentés]]
 - [x] [[nyelvtan/Az egyszerubb szokepek |20. Az egyszerűbb szóképek: hasonlat, metafora, metonímia]]
