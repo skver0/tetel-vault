@@ -51,3 +51,36 @@
 ---
 ### Mai legújabb digilektusok
 - rövidítések, szleng, speciális karakterek használata, csupa kisbetű, ékezetnélküli írás, stb.
+---
+### Egyéb
+Amikről lehet még beszélni:
+- rövidítések megjelenése
+	- mennyire aktulális az SMS-es rövidítések (*@lek &rarr; szeretlek) - ugye ez a mi korosztályunknak már nem érinti
+	- [SMS-es rövidítések listája](https://www.telefonguru.hu/sms_roviditesek)
+-  helyesírás figyelmen kívül hagyása, ékezetek és vesszők kihagyása
+	-  milyen hatással van ez a nyelvükre, mennyire rontja el a nyelvhasználatot
+	-  hiába írásos formában vannak az okoseszközös szövegek, mégis szóbelinek számítanak
+-  képi világ:
+	-  emojik, gif-ek, képek használata &rarr; írásban nehéz átadni az érzelmeket, ezekkel ezt könnyítjük meg
+---
+### Feladat Janus Pannonius: A Pannon GSM dicsérete
+Így néz ki a vers alapból:
+
+edig digitália ^GYn tRm&ek csak a tLFonos &or;vLek,  
+de most, hogy a panon GSM is ontja a mobiltLFono@t,  
+NgM is sok&larr; <csül&rarr; már, a no>a is büsz@ le7 rám.  
+szLMM 1 &larr;diCSb, SMSeim% hírS e ^d.  
+
+És így kéne felolvasni:
+
+Eddig Digitália földjén termettek csak a telefonos levelek,  
+de most, hogy a Pannon GSM is ontja a mobiltelefonokat,  
+engem is sokra becsülnek már, a Nokia is büszke lehet rám.  
+Szellemem egyre dicsõbb, sms-eimrõl híres e föld.  
+
+  
+
+[Eredetei szöveg](http://anyanyelvapolo.hu/edes-anyanyelvunk-pdf/ea-2012-XXXIV-1.pdf) (5. oldalon)
+
+
+	
