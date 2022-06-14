@@ -1,8 +1,8 @@
 # Kosztolányi Dezső: Édes Anna
 ---
 ### Életrajz
-- 1885 Szabadka - 1936 ínyrák
-- Szabadkán jér elemibe
+- 1885 Szabadkán - 1936 ínyrákban halt meg
+- Szabadkán jár elemibe
 - szülei
 	- apja: Kosztolányi Árpád
 		- helyi gimi igazgatója
@@ -18,7 +18,7 @@
 	- Budapesti Naplónál
 		- Ady helyére felveszik
 		- 1907 első kötete: *Négy fak között*
-			- sikeres, de Adyy bírálta
+			- sikeres, de Ady bírálta
 		- 1910 második *A szegény kisgyermek panaszai*
 - család
 	- 1913 elveszi Harmos Ilonát
@@ -42,7 +42,7 @@
 - szereplők:
 	- Vizy házaspár
 		- itt szolgál Anna
-		- felszinesség, üresség -> mások előtt eljátszák, hogy minden rendben
+		- felszínesség, üresség -> mások előtt eljátszák, hogy minden rendben
 			- gyermekük halála után elhidegülnek
 			- Vizy Kornél félrelép, csak a karrierjével foglalkozik
 		- feleség 4 fal között, magányos
