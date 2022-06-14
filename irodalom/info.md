@@ -3,7 +3,7 @@
 - [x] [[irodalom/Arany Janos balladai|2. Arany János balladái]]
 - [x] [[irodalom/Ady Endre leda-versek|3. Ady Endre: Léda-versek]]
 - [x] [[irodalom/Babits Mihaly Jonas konyve|4. Babits Mihály: Jónás könyve]]
-- [ ] [[|5. Kosztolányi Dezső: Édes Anna]]
+- [x] [[irodalom/Kosztolanyi Dezso Edes Anna|5. Kosztolányi Dezső: Édes Anna]]
 - [ ] [[|6. József Attila kései versei ]]
 - [ ] [[|7. Csokonai Vitéz Mihály és a szentimentalizmus]]
 - [ ] [[|8. Berzsenyi Dániel elégiái]]
