@@ -1,5 +1,6 @@
 # A mondat fogalma és típusai
 ### Mi a mondat
+- **Egy kerek egész gondolatot fejez ki**
 - Gondolatot együttesen kifejező szavak, vagy azok összessége. 
 - Mondat, azaz „amit kimondtak”, tehát egy gondolat, amelyet egy személy közölt. 
 - A mondat bármilyen gondolatot kifejezhet. 
@@ -16,14 +17,16 @@
 - óhajtó - vágyást fejt ki, jellemzően feltételes módba használva (!)
 - felszólító - kérés, biztatás, parancsót fejez ki (!)
 ##### Szerkezet szempontjából
-- tagolt - az alanyi állítmány felismerhető benne
-	- egyszerű - csak tőmondat (alany állítmány)
-	- bővített mondat - összetett
-		- alárendelő
-		- mellérendelő
-- tagolatlan - pl.: rajta! vagy Igen.
----
-### Mondattípusfajták
+- **Egyszerű**
+	- **tagolt** - felismerhető az alany + állítmány benne
+		- **tőmondat** - csak alany + állítmány
+		- **bővített** - jelzős, határozós mondat
+	- **tagolatlan**  - pl.: rajta! vagy Igen.
+- **Összetett**
+	- **szerves**
+		- **alárendelő**
+		- **mellérendelő** - a tagmondatok között tartalmi-logika összefüggés
+	- **szervetlen** - van tagolatlan tagmondata
 ---
 ### Feladat
 **Örkény: Szakmai önérzetből példák a mondattípusokra**
