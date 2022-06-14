@@ -18,4 +18,4 @@
 - [x] [[A beszed felepitese|17. A beszéd felépítése]]
 - [x] [[nyelvtan/Az osszefoglalas funkcioja es tipusai|18. Az összefoglalás funkciója és típusai]]
 - [x] [[nyelvtan/A szojelentes|19. A szójelentés]]
-- [x] [[Az egyszerubb szokepek|20. Az egyszerűbb szóképek: hasonlat, metafora, metonímia]]
+- [x] [[nyelvtan/Az egyszerubb szokepek|20. Az egyszerűbb szóképek: hasonlat, metafora, metonímia]]
