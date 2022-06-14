@@ -19,3 +19,6 @@ Nyelvi szintek:
 - hangok: jelelemek / fonémák
 
 A nyelv társadalmi jelenség, egy közösség alkotása, olyan társadalmilag elfogadott jel- és szabályrendszer amely alapja az egyes emberi beszédtevékenységnek. A nyelv mint jelrendszer elemek és szábályok együtteseként értelmezhető. Az elemek és szabályok szintekbe rendeződnek, minden szint csak alatta lévő szint elemiből építkezhet (hierarchikus).
+***
+### Feladat
+**Megadott szövegből példák a nyelvi lépcsőre**

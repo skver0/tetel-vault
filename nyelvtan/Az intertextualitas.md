@@ -13,6 +13,7 @@
 - mottóval (pl.: irodalmi szöveg elején álló, más szerzőtől való idézet)
 - paródiával
 Az intertextualitás nem csak irodalomban de a mindennapokban is jelen van pl.: szállóigékben, közmondásokban, közhelyeken, idézeteken, lábjegyzetekben stb.
-
 ---
-
+### Feladat
+**Honnan származik az alábbi két szöveg**
+(Márai Sándor: Halotti beszéd és egy internetes szöveg)

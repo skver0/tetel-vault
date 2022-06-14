@@ -48,3 +48,5 @@
 - rövid bevezetés
 - globális kohézió eszköze
 ---
+### Feladat
+**A megadott szövegrészlet kohéziója, kulcsszavak, mi lehetett a szöveg eredeti címe**

@@ -68,3 +68,5 @@ tudunk mindent megköszönni. (3x ugyan az a lényeg lett elmondva)
 ##### Humor
 - nevetést vált ki a hallgatóságból. Megtöri a jeget
 ---
+### Feladat
+**Milyen retorikai eszközökkel növeli a szónok a meggyőzőerejét**

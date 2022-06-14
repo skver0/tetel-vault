@@ -1,0 +1,62 @@
+# Kosztolányi Dezső: Édes Anna
+---
+### Életrajz
+- 1885 Szabadkán - 1936 ínyrákban halt meg
+- Szabadkán jár elemibe
+- szülei
+	- apja: Kosztolányi Árpád
+		- helyi gimi igazgatója
+		- konfliktusok
+	- anyja: Brenner Eulália
+- 1903 budapesti bölcsészkar magyar-német szak
+	- Négyesi László stílusgyakorlataira jár
+		- itt ismeri meg Babitsot és Juhász Gyulát
+	- nem végzi el
+	- bécsi egyetemet sem fejezi be
+		- itt ismeri meg Freud tanait
+- újságíró lesz
+	- Budapesti Naplónál
+		- Ady helyére felveszik
+		- 1907 első kötete: *Négy fak között*
+			- sikeres, de Ady bírálta
+		- 1910 második *A szegény kisgyermek panaszai*
+- család
+	- 1913 elveszi Harmos Ilonát
+		- színésznő, novelláit Görög Ilona néven jeleníti meg
+	- 1915 fiúk születik
+		- Ádám
+	- késői szerelem
+		- Radákovich Mária
+			- *Szeptemberi áhitat*
+---
+### Édes Anna
+- téma ihletője
+	- Kosztolányi felesége + korabeli újságcikk (cseléd megöli gazdáit)
+		- téma: cseládlány mindennapjairól, megszégyenítéséről, kettős gyilkosság
+- kerete
+	- helyszín: Budapest
+	- idő: Tanácsköztársaság bukása után
+- fő kérdése: Anna motivációja a gyilkosságra
+	- Anna érzelmi reakción keresztül mutatja be a történetet
+		- öntudatlan, nem tud kommunikálni
+- szereplők:
+	- Vizy házaspár
+		- itt szolgál Anna
+		- felszínesség, üresség -> mások előtt eljátszák, hogy minden rendben
+			- gyermekük halála után elhidegülnek
+			- Vizy Kornél félrelép, csak a karrierjével foglalkozik
+		- feleség 4 fal között, magányos
+			- máson való uralkodással tölti be az űrt
+			- érzelmi zsarolás
+			- Anna = magántulajdon
+	- Jancsi (unokaöcs)
+		- ideiglenes lakó 
+		- külsőségek fontosak neki
+		- rokonszenv Annával
+			- fordított érzelmi fokozatsorrend 
+				- összejönnek -> elhidegülnek
+	- Moviszter
+		- rezonőr -> Kosztolányi értékrendjét képviseli
+		- részvétet érez a megszégyenített emberek iránt
+			- nézetei miatt idegen ebben a tásaságban
+			- végén szerinte az embertelenség nagyobb bűn, mint a gyilkosság

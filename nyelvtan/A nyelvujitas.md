@@ -25,3 +25,6 @@ Nyelvújítási harc két tábora
 - 1795 Debreceni Grammatika, az első teljes magyar nyelvtan
 - Kazincy tudatosan kirobbantotta azt a háborút amelyben annak kellett eldőlnie hogy a magyar nyelv fejlesztése a nyelvőrzés vagy a nyelvújítás elvei alapján történjen.
 - 1808 Magyar régiségek és ritkaságok, erősen támadta az ortológusokat 1813 Modolat (Kazincy), 1815 Felelet a Mondolatra (Kölcsey)
+***
+### Feladat
+**Nyelvújítás jelentősége és értékelése, szóképzésre példák**

@@ -17,3 +17,6 @@ Egy tartalmi kivonatban röviden, általában 300 és 900 szó közötti terjede
 
 ##### Tömörítés
 A tömörítés hasonló a tartalmi kivonathoz, itt is a szöveget kell összefoglalni kisebb terjedelemben, azonban a szövegtömörítés esetében az írásmű szövegének részleteit használjuk fel.
+***
+### Feladat
+**Reflektáljon, hogy mi a véleménye a gondolattérképről**

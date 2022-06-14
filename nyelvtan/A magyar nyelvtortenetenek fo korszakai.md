@@ -25,3 +25,6 @@ A felvilágosodástól a trianoni békeszerződés megkötéséig tartott, ekkor
 Trianontól a napjainkig, a magyar nyelvközösség szétszakadásával kezdődik. A Magyarországon kívül beszélt nyelvváltozatok megerősödnek.
 ***
 A finnugor elmélet szerint a magyar nyelv mintegy 3000 éve vált önállóvá, régebben az összes mai szláv és újlatin nyelvnél.
+***
+### Feladat
+**Ómagyor korba tartozik-e**
