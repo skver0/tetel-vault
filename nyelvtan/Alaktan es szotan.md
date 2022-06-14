@@ -35,3 +35,5 @@
 - ehez biza tudni kell a képzőket, a személyi időket, ragokat, jeleket. sad
 - pl.: pl.: barátságomat --> barát(szótő) + ság (főnév képző) + om (E/1 birtokos személyjel) + at (tárgyrag)
 ---
+### Feladat
+**Aláhúzott szavakat felbontani morfémákra**

@@ -43,3 +43,6 @@ Részei:
 - Hangulatfestő szavak
     - Példa: cammong, bandukol, pipogya
 
+***
+### Feladat
+**Azonos alakú vagy többjelentésű szavak kigyűjtése egy versből (Páskándi Géza)**

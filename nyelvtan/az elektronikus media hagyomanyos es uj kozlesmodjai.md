@@ -17,3 +17,5 @@
 ##### műfajok
 - zenei, irodalmi
 ---
+### Feladat
+**Világítson rá a két "műfaj" hagyományos közlésformához képesti újdonságaira (vlog és flashmob)**

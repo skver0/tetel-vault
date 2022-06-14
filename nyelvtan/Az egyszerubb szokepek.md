@@ -62,4 +62,5 @@
 - amíg a metafora hasonlóságon alapuló szavak helyettesítése, addig a metonímia a szomszédságon alapulö szavak társítása
 - amíg metafora használatákor a szó jelentése átkerül a metafórikus szóba (hófehér = olyan fehér mint a hó), addig a meg metonímiában egyetlen tulajdonság sem változik, csak helyetessíti az eredeti szót (pl: korsó = korsó sör)
 ---
-
+### Feladat
+**Megadott szövegekben milyen szóképek jelennek meg**

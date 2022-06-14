@@ -32,3 +32,6 @@ Meg kell tartanunk a kommunikációs helyzetnek megfelelő távolságot a beszé
 ##### Külső megjelenés, emblémák
 Öltözködés, ápoltság, higénia, hajviselet, külső megjelenés is hordozhat üzenetet (pl. emo, punk, elegáns vagy szakadt ruhák, stb.).
 **Emblémák:** Jelentéssel bíró tárgyak, eszközök a kommunikációs folyamatban (pl. ékszerek, testékszerek, jegygyűrű, tetoválás, jelvények, felirat a pólón, napszemüveg, cigaretta, stb.). Ezek mind elárulnak dolgokat rólunk, a gondolkodásunkról.
+***
+### Feladat
+**Nonverbális jelek kigyűjtése a kapott szövegből**

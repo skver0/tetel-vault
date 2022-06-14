@@ -62,3 +62,6 @@ Olvasó véleménye, hozzászólása, tanácskérése a lapban olvasottakkal kap
 
 ##### Kritika
 Egy műalkotásnak a bemutatására készült értékelő leírás. Tárgya lehet irodalmi, színházi, zenei, képzőművészeti alkotás, stb. Egy egyszerű bemutatástól a tudományosan alátámasztott információt ír le. 
+***
+### Feladat
+**Tájékoztatás és véleményközlés közt a különbség, megadott szövegek melyibe tartoznak**

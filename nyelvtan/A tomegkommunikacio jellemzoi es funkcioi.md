@@ -48,6 +48,9 @@ Olvasd el a [[Tajekoztatas es velemenykozles megkulonboztetese a tomegkommunikac
 - szándékos hiánykeltés
 - beetetés
 ---
+### Feladat
+**Közszolgálati és kereskedelmi TV közti különbség**
+***
 ### Feladatokhoz egy kis segíség
 **Kereskedelmi televízió**: a televíziós műsorszolgáltatás két hagyományos modelljének egyike: a kereskedelmi csatornák magántulajdonban működő üzleti vállalkozások, amelyek a műsoridő egy részének kiárusításával. Elsősorban a hirdetőktől befolyó reklám jövedelemből tartják fenn magukat. A kereskedelmi csatornák egy része gyakorlatilag ingyenesen fogható (RTL,TV2) más részük azonban kódolt adásokat szolgáltat, és az előfizetési díjakból fedezi a működéséhez szükséges költségeket, esetenként akár a hirdetések teljes kizárásával (HBO).
 

@@ -25,3 +25,5 @@
 ---
 ### Mondattípusfajták
 ---
+### Feladat
+**Örkény: Szakmai önérzetből példák a mondattípusokra**

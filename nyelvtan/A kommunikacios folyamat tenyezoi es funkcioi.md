@@ -20,4 +20,6 @@ Minden feladó küld üzenetet a címzettnek, majd a címzett értelmezi, és ha
 - Kétirányú (beszélgető és hallgató szerepcseréje)
 ***
 ### B Feladat a lapon
+**Köszöntse édesanyját szóban, tanárát levélben névnap alkalmából.**
+
 Mindkettő lehet kétirányú de írásban ha nem kapunk választ akkor egyírányú, a csatorna ugye szóban a levegő és közvetlen, ellenben a papíros formánál ahol a papír a csatorna és közvetett hiszen nincsenek egy időben se egyhelyen.

@@ -23,3 +23,6 @@ Csoportnyelvek (szociolektusok)
 - argó (tolvajnyelv)
 
 A csoportnyelvek elsősorban szó- és kifejezéskészletükben térnek el az irodalmi is a köznyelvtől.
+***
+### Feladat
+**Megadott szövegek, melyik milyen rétegbe tartozik**

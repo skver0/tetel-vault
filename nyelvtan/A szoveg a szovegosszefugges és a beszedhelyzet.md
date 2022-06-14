@@ -19,3 +19,5 @@
 ### Hogyan befolyásolja a "szövegösszefüggés" a szöveg jelentését, értelmezését
 - Ha egy szöveg témája kacsák, és a szöveg közepén elkezd az író beszélni kocsifékekről, az zavart kelthet, hogy az miért van ott, és potenciálisan megváltoztatja az értelmezést.
 ---
+### Feladat
+**Milyen beszédhelyzet hangozhattak el a megadott mondatok**
