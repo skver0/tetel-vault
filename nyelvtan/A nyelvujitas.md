@@ -4,6 +4,9 @@ A nyelvfejlesztés egyik fajtája, amelynek során tudatos és tömeges változt
 
 Nyelvújításunk szorosan kapcsolódik a politikához, kezdettől fogva a feudalizmus elleni harc egyik formája volt. 1844-i országgyűlésen lett államnyelv a magyar.
 ***
+### Fogalma, célja
+A nyelvújítás a **nyelv életébe való tudatos beavatkozás** volt, legfontosabb programjai a **magyar nyelv Európai szintre emelése**, esztétikusabbá tétele, illetve az igényes nyelvhasználat elterjesztése.
+***
 ### Nyelvújítás politikai okai
 "Minden nemzet a maga nyelvén lett tudós, de idegenen sohasem!", Ágis tragédiájával indítottal el Bessenyei György a mozgalmat. A kor vezéregyénisége Kazincy Ferenc aki széphalmi otthonát tette a mozgalom központjává.
 
@@ -28,3 +31,19 @@ Nyelvújítási harc két tábora
 ***
 ### Feladat
 **Nyelvújítás jelentősége és értékelése, szóképzésre példák**
+##### Nyelvújítás
+- **ortológus nézet** &rarr; a hagyományokon alapuló nyelvművelés
+- **neológus nézet** &rarr; a nyelv tudatos művelése
+	- sok kritika érte őket, az erőletett szavak miatt pl. gőzpöfögészeti tovalöködönc, fiahordó górugrány (kenguru)
+- összeségében végül mégis nekik lett igazuk, hiszen a magyar nyelv borzasztó állapotban volt a 18. század vége felé és mindenképp kellett a tudatos, szervező beavatkozás
+##### Szóalkotás módok
+- **szóképzés**
+- **szóösszetétel**
+	- szemüveg
+- **szóelvonás**
+	- iparkodik &rarr; ipar
+- **szóösszerántás**
+	- levegő ég &rarr; lég 
+	- cső orr &rarr; csőr
+	- csatorna alagút &rarr; csalagút
+	- (lényegében a szóössztétel és a szóelvonás kombinálva)
