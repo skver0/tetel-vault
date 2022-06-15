@@ -5,7 +5,7 @@
 - [x] [[irodalom/Babits Mihaly Jonas konyve|4. Babits Mihály: Jónás könyve]]
 - [x] [[irodalom/Kosztolanyi Dezso Edes Anna|5. Kosztolányi Dezső: Édes Anna]]
 - [x] [[irodalom/Jozsef Attila kesei versei|6. József Attila kései versei]]
-- [ ] [[|7. Csokonai Vitéz Mihály és a szentimentalizmus]]
+- [x] [[irodalom/Csokonai Vitez Mihaly és a szentimentalizmus|7. Csokonai Vitéz Mihály és a szentimentalizmus]]
 - [ ] [[|8. Berzsenyi Dániel elégiái]]
 - [ ] [[|9. Vörösmarty : Gondolatok a könyvtárban]]
 - [x] [[irodalom/Mikszath Kalman novellai|10. Mikszáth Kálmán novellái]]

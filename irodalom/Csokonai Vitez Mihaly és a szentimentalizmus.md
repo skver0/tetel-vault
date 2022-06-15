@@ -1,0 +1,114 @@
+# Csokonai Vitéz Mihály és a szentimentalizmus
+---
+### Életrajz
+- 1773 Debrecen - 1805 Debrecen
+- szülei
+	- apja: Csokonai Vitéz József
+		- borbélyos, sebészorvos
+		- jó megélhetés
+		- fiatalon meghal
+		- halála után a család elszegényedik
+	- anyja: Diószegi Sára
+		- kifőzdét üzemel
+- 1780 Debreceni Református Kollégium
+	- térség kulturális központja
+	- korán kiemelkedik társai közül
+		- jó memória, nyelvtehetség
+	- olvaskört hoz létre diáktársaival
+		- önképzőkör
+		- megtanul olaszul, latinul, franciául, németül és görögül
+- beiratkozik a Főiskolai karra gimi után
+- 1794 gimnáziumi osztályt kap
+	- irodalmat, költészetet tanít
+	- tapasztalati úton tanít -> kollégái rossz szemmel nézik
+- Martinovics-féle társaság kivégzését végignézi (tilos volt)
+	- egyre több konfliktus
+	- megvonták tőle a tanítás jogát
+- Sárospataki Református Kollégiumba jogi kar
+	- otthagyja
+- 1796 Pozsonyi diétán részt vesz (OGY)
+	- mecénást keres
+	- Diétai Magyar Múzsa folyóiratot megjelenteti
+		- 11 szám jelenik meg
+		- nem fizettek elő elgen
+- Komáromba megy 
+	- gazdag kereskedőváros
+	- itt ismeri meg Vajda Juliannát
+		- Lilla-ként van említve verseiben
+		- nagy szerelem
+		- gazdag kereskedő lánya -> Csokonai túl szegény hozzá
+- állást kell keresnie
+	- keszthelyen nem kap állást [Georgikonban](https://hu.wikipedia.org/wiki/Georgikon)
+	- Csurgói gimiben helyettesítő tanár lesz
+		- mire megkapja az állást Lillát férhez adják
+			- összeomlik
+				- *A Reményhez*
+		- fordít, tankönyveket ír, jegyzeteket készít
+		- Somogy oktatását fel akarja lendíteni
+- hazatér Debrecenbe
+	- irásait rendezgeti
+	- leég a háza
+	- eltávolodik az emberektől
+- 1804 Rhédei Lajosné temetése
+	- Nagyváradra utazik, tüdőgyulladást kap
+- 1805 otthonában meghal
+---
+### A tihanyi Ekhóhoz
+- 1803
+- *Lilla-dalok*
+- címe megszemélyesítés
+- címe megszemélyesítés
+	- kis betűvel visszhangot jelent
+	- nagy betűvel a visszhang nimfája
+		- görög mitológia
+		- a klasszicista hagyományokat követve segítő istennőnek szólítja meg
+- Tihanyi-félsziget talán a visszhangjárol a legismertebb
+- a visszhang szerepe, hogy egyetértsen a költővel, megerősítse gondolatait
+	- kontrasztja a visszhangtalanságnak, amely a költő panaszait az emberi világban fogadta
+	- nem ekhós versnek készült, hanem egy adott dallamra
+- ütemhangsúlyos verselésű
+	- bonyolult strófaszerkezet
+- az első négy sorban keresztrímek, a további négyben páros rím
+- monológ, amit a lírai én a füredi partról intéz a visszhanghoz
+	- emellett egy élethelyzet leírása is
+- műfaja elégia vagy elégiko-óda
+	- inkább elégikus (fájdalmas, panaszos, szomorú)
+		- hosszabb költemény, melyben a költő visszatekint a saját életére -> szentimentalizmus
+- tartalmilag három részre osztható
+	- 1. strófa 
+		- jelenetszerűen leírja a költő élethelyzetét
+	- 2. - 6. strófa
+		- költő fájdalmalmának, magányának okait beszéli el
+	- 7. - 10. strófa 
+	- büszkén visszavonolú bölcs, remeteségben megnyúvást kereső költő
+---
+### A Reményhez
+- 1803 (kiadás éve, ezt tudjuk csak)
+- *Lilla-kötet* (1805) záró verse
+- ezzel zárja a szerelmi költeményeket
+- itt hal ki a rokokó a verseiből
+- kettős hatást ad a versben a mélyebb tartalom és a rokokó könnyed külső formájával
+	- stíluszintézis (lényegében különböző stílusok megjelenése egy versen belül)
+		- gazdag rokokó képekben
+		- népiesség jegyei is megjelennek
+		- elsősorban klasszicista
+			- a megszemélyesített Remény allegorikus alakként, egy istennő képében jelenik meg, aki kegyetlenül játszik az emberekkel
+			- a formai mívesség és játékosság mögött ott van a klasszicista fegyelme
+- a cím megszemélyesítés
+	- a remény egyfajta hangulat, bizakodás, úgy érezzük lehetőségünk van valamire
+	- megszólítja a reményt, de nem alakul ki párbeszéd
+		- fájdalmas monológ
+- nem csupán a lírai én veszteségéről szól, hanem az emeberi életről is
+	- minden boldogságot csalódás követ
+	- alapérzés a reménytelenség 
+- szerkezete átgondolt, logikus és kiszámolt
+	- az 1. és a 4. versszak tartalmilag, érzelmileg párhuzamba állítható
+	- a 2. és 3. versszak viszont hangulatilag, képileg éles ellentétben áll egymással
+	- keretes szerekezet
+		- első és utolsó strófában is megszólitja a Reményt
+- témája a remény feladása
+	- egyetlen veszteség: Lilla elvesztése
+- műfaja elégia, de tartották ódának, dalnak is
+	- témája, hangulata elégikus, formai jegyei viszont ódára hasonlítanak
+	- kevert műfaj
+- hangvétele ódai, helyenként himnikus
