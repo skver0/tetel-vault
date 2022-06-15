@@ -1,0 +1,100 @@
+# József Attila kései versei
+---
+### Életrajz
+- 1905 Budapest - 1937 Balatonszárszó
+- szülei
+	- apja: József Áron 
+		- szappanfőző
+		- elhagyja a családot
+			- Amerikába akar menni
+			- Rmániában telepedik le
+	- anyja: Pőcze Borbála (Mama)
+		- 3 gyerekről gondoskodik (Etus, Jolán, Attila)
+		- szobákat béreltek -> folyamatos költözés
+		- mosó- és takarítónő
+		- anyai szeretet
+- 1910 Etussal ketten az Országos Gyermekvédő Ligához kerülnek
+	- Öcsödre kerül egy parasztcsaládhoz
+		- kétkezi munkát végez ott
+		- nem fogadják el a nevét
+- 1914 vita Etussal
+	- első öngyilkossági kísérlet
+	- visszakerülnek a Mamához
+		- kiderül, hogy rákos a Mama
+- 1918 Tanácsköztársaság
+	- Makai Ödön -> Jolánnak udvarol
+- 1919 meghal a Mama
+	- Etus és Attila gyámja Makai Ödön lesz
+		- Ödön finanszírozza Attila tanulmányait
+- 1920 Makón jár gimnáziumbe
+	- első kötete: *Szépség koldusa* (1922)
+- 17 évesen elhagyja a gimit
+	- Makai megvonja az anyagi támogatást
+	- 1922-25 barátjai támogatják (Espersit János)
+	- nélkülözés
+	- Lázadó Krisztus verse miatt fogházba rakják istenkáromlásért
+- magántanulóként elvégzi a középiskolát
+- 1924 Szegedi Egyetemre beiratkozik magyar-francia szakra
+	- Szeged című lapban jelenik meg a *Tiszta szívvel*
+	- Horger Antal professzort felháborítja -> eltanácsolja
+		- *Születésnapomra* -> "eltanácsolt az egyetem / fura / ura"
+- Bécsi Egyetemre beiratkozik
+	- itt ismeri meg Kassák Lajost, Lukács Györgyöt, Balázs Bélát, Hatvany Lajost, Ignotust
+- Párizsi Sorbonnera jár
+	- Villont tanulmányozza
+- 1927 Budapesten bölcsészkaron magyar-francia szakra jár
+- 1928 megismeri Vágó Máriát
+	- kölcsönös szerelem
+	- Márta apja polgári állást szerez Attillának: francia-magyar levelező
+		- nem megy neki a monotonitás -> idegösszeomlás
+	- Márta Londonban ösztöndíjat kap -> vége a szerelemnek
+- 1929 megjelenik a *Nincsen apám se anyám* kötet
+	- csatlakozik a Kommunista Párthoz 
+		- irodalmi előadások
+- 1930 - 36 Szántó Judit az élettársa
+	- *Döntsd a tőkét, ne siránkozz, Külvárosi éj* kötetek
+		- *Szocialisták* verse miatt eljárás ellene
+- korszak vezető irodalomjárjaival rossz kapcsolat
+	- Babits -> Baumgarten-díjat nem adja oda (mert politikailag el van kötelezedve)
+	- Móricz
+	- Tamási Áron
+- bírósági tárgyalás: szemérem elleni vétség
+- kiábrándul a Kommunista Pártból
+	- szocdem felé, majd a Polgári Radikális felé nyit
+- diagnosztizálják skizofréniával
+	- hangulatingadozás
+	- Gyömrői Edithez jár pszichoanalízisre
+		- Attila beleszeret
+- 1937 dr. Kozmuta Flóra kezeli -> Illyés Gyula menyasszonya
+	- Attila beleszeret
+- 1937 Balatonszárszón öngyilkos lesz (én is)
+---
+### Létösszegző vers
+Jellegzetes lírai verstípus, amely a művész saját egyéniségfejlődésének értelmezésére és értékelésére tesz kísérletet. Együtt jár a múlt és a jelen összehasonlításával, az időszembesítéssel, nemegyszer az önmegszólítással.
+***
+### Kész a leltár
+- 1936, kései verse, *Nagyon fáj* kötet
+- létösszegző vers
+- halálba futó szálak
+- születéssel kezdődik és ott ér véget, ahol az élet is
+- parafrázis az első sor
+	- Szenczi Molnár Albert által fordított _90. zsoltár_ 
+- E/1, csak a cím és az utolsó sor tér el
+- igeidő csak az utolsó sorban vált át múltbül jelenbe, majd vissza
+- második sorban végez a leltározással, mert nincsen semmije
+- kezdődő életlt halálos betegségként kezeli
+- halálba trokollik
+---
+### Karóval jöttél...
+- tél -> toposz, elmúlás
+- idősík: múlt, jelen, feltételes jövő
+	- múlt: gyermekkor
+	- jelen: bezártság
+	- jövő: "örülj, ha jut tüzifára"
+- "Hét Torony" = börtön
+	- Egri csillagok utalás
+- utolsó versszak: bezártság érzés, vigasztalás
+- sok kérdő mondat
+	- felnőtt férfi szólítja meg a gyermeket -> költői kérdés
+- elégikus és ironikus hangnem
+- létösszegzés
