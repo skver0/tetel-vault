@@ -1,0 +1,61 @@
+# Vörösmarty: Gondolatok a könyvtárban
+---
+### Életrajz
+- 1800 Pusztanyék - 1855 Pest
+- szülei
+	- apja: idősebbik Vörösmarty Mihály
+		- gazdatiszt
+	- anyja: Csáthy Anna
+		- mindketten katolikusok
+- elszegényedett nemesek
+	- kilenc gyerek miatt
+- apja hét éves korában beadja egy evangélikus iskolába
+- 1817 Perczel családhoz kerül tanítóként
+	- elvégez egy két éves filozófiai tanfolyamot
+- 1816-25 között több lírai verset is ír
+- 1821-22 szerelem Perczel Adéllal
+	- áthidalhatatlan volt a társadalmi különbség
+- 1820 ügyvédi vizsga
+- 1825 Zalán futása
+	- nagy siker
+- 1827 szegénység éri
+	- barátai segítették 
+	- megszerezte a Tudományos Gyűjtemény szerkesztői állását
+- 1832-36-os országgyűlés felosztására írta a Szózatot
+- elveszi feleségül Csajághy Laurát
+- '40-től egyre kevesebbet ír
+	- világosi vereség összetörte lelkileg
+- 1853 betegsége komolyabbra fordul
+---
+### Gondolatok a könyvtárban
+- 1844
+- filozofikus, gondolati költemény
+- monológ
+	- belső látomásait, küszködéseit, vívódásait megmutatja
+- nem tagolta strófákra, bekezdésekre osztotta
+- szerkezete retorikus, kérdések és válaszok szigorú, logikus rendére épül a vers
+	- 1-8. sor bevezető rész
+		- felveti a társadalom alapvető ellentmondását: milliók küszködnek és nyomorognak, míg néhány ezer kiváltságos ember jólétben él
+	- a második résza fő rész, három nagy kérdésből és válaszból áll
+		- az első kérdés, hogy minek van könyvtár, lett-e a világ a könyvek által erősebb
+		- a második, hogy megsemmitsítsék-e a könyveket, amiért nem segítették az emberek boldogulását, 40-106. sorig tart
+		- a harmadik a legáltalánosabb, "mi dolgunk a világon?" erre a válasz: "küzdeni erőnk szerint a legnemesebekért."
+	- a harmadik rész a befejző rész 114-122. sor
+		- itt a vers végén a költő küzdés módját határozza meg
+- tömör, tömény gondolatiság jellemzi a verset
+	- műfaja gondolati óda, de közel áll a rapszódiához is
+		- csapongó gondolatmeneet, szenvedélyes érzelmek
+- hangulatilag hullámzó, rapszodikus
+- romantikus mű, tartalmaz dinamizmust, [pátoszt](https://hu.wikipedia.org/wiki/P%C3%A1tosz), érzelmi telítettséget, képszerűséget
+- témája Vörösmarty töprengései, belső vívódásai
+- kifejezőeszközök:
+	- metafora (lom - könyv)
+	- ellentét
+	- megszólítás
+	- hasonlatok
+	- kérdések
+	- ismétlések
+- a retorrikai alakzatok és a túlzó romantikus költői képek a belső vívódást, csüggedést és bizakodás hullámzását jelenítik meg
+- alapmotívuma a könyvtár - a kultúra, civilizáció jelképe
+	- a könyv helyett többször a "lom" és  a "rongy" kifejezés áll
+		- értékminősítés

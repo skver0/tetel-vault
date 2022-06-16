@@ -7,7 +7,7 @@
 - [x] [[irodalom/Jozsef Attila kesei versei|6. József Attila kései versei]]
 - [x] [[irodalom/Csokonai Vitez Mihaly és a szentimentalizmus|7. Csokonai Vitéz Mihály és a szentimentalizmus]]
 - [x] [[irodalom/Berzsenyi Daniel elegiai|8. Berzsenyi Dániel elégiái]]
-- [ ] [[|9. Vörösmarty: Gondolatok a könyvtárban]]
+- [x] [[irodalom/Vorosmarty Gondolatok a konyvtarban|9. Vörösmarty: Gondolatok a könyvtárban]]
 - [x] [[irodalom/Mikszath Kalman novellai|10. Mikszáth Kálmán novellái]]
 - [x] [[irodalom/Moricz Zsigmond egy valasztott muve|11. Móricz Zsigmond egy választott műve]]
 - [ ] [[|12. Radnóti Miklós hitvesi költészete]]
