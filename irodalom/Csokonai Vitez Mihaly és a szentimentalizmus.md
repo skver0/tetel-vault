@@ -57,7 +57,6 @@
 - 1803
 - *Lilla-dalok*
 - címe megszemélyesítés
-- címe megszemélyesítés
 	- kis betűvel visszhangot jelent
 	- nagy betűvel a visszhang nimfája
 		- görög mitológia

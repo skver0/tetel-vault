@@ -1,0 +1,119 @@
+# Berzsenyi Dániel elégiái
+---
+### Életrajz
+- 1776 Hettye - 1836 Nikla
+- szülei
+	- apja: Berzsenyi Lajos
+		- jogot végzett
+		- földbirtokos
+		- elvonultan élt
+		- először erősödnie kell a gyereknek, utána tanulhat
+	- anyja: Thulmon Rozália
+		- halálával rosszabb lett a helyzet az apa és gyerek közt
+- 1788 soproni evangélikus líceum
+	- 7 évet volt itt
+	- 1793 megszökött
+	- 1795 félbeszakította diákpályáját
+		- nem szerzett érettségit
+	- sokat olvasott, beszélt latinul, németül
+	- mintaképe Horatius
+- 1799 elvette Dukai Takács Zsuzsannát 
+	- 1804 Niklára költöznek
+	- 4 gyerek
+- 1803 Kis János elküldte pár versét Kazinczynak
+	- lelkesedett értük
+	- sokáig leveleztek
+- 1810 Pesten járt
+	- találkozott Kazinczy barátaival
+		- kölcsönös idegenkedés
+- 1812 Bécsben volt egy hetet
+- 1813 első kötete
+- 1816 második kötete
+- sok gondja és baja volt
+	- családi nehézségek
+	- egészségi állapot ingatag volt
+- 1817 Kölcsey bírálta 
+	- kemény és igazságtalan
+	- háttérban Kazinczy állt
+		- teljes elhidegülés
+	- ezután elhallgatott
+		- nagyon keveset írt
+		- tudmányos munkálkodásba és esztétikai-irodalmi tanulmányokba kezdett
+			- igyekezett pótolni műveletlenségét
+- 1825 *Észrevételek Kölcsey recenziójára* műve
+	- Kölcsey klasszicista alapelveira kiefogásait a romantika nevében visszautasította
+- 1830 Akadémiai filozófiai osztályán tag
+	- 1833 poetai harmonistica
+---
+### A közelítő tél
+- 1804 és 08 között keletkezett
+- legsikeresebb elégiája
+- címe minőségjelzős kapcsolat
+	- eredeti címe "Az ősz" volt
+- értékpusztulás verse
+	- ideális és valós, múlt és jelen szembenállása
+- műfaja elégia, hangneme elégkus, komor
+- típusa idő- és értékszembesítú, illetve létösszegző vers
+- korstílus egyben klasszicista és romantikus
+	- klasszicizmus: kiegyensúlyozott, sorvégek egybeesnek a mondatok végével, sok görög szó, rímtelen, időmértékes verselés, piktura-szentencia (piktúra=leírás szentencia=bölcselkedés)
+	- romantika: életérzések, elégikusság, objektív, összekpacsoló képalkotás
+- témája a mulandóság
+- kifejezőeszközök
+	- metafora
+	- megszemélyesítés
+	- ellentét
+	- [szinesztézia](https://hu.wikipedia.org/wiki/Szineszt%C3%A9zia)
+- veszteségérzet 
+	- ellentétes színhatások
+	- szineztéziás képek("néma homály")
+	- hangutánzó, hangulatfestő szavak ("zörög", "lengedez", "borong")
+- fő motívum az ószi fák, amik a pusztulás szimbólumai
+	- toposz
+- 3 egységre bontható szerkezetileg
+	- 1-3. versszak
+		- az őszi táj képe, tájleírás
+		- a táj mebutatása negatívan történik
+			- a tagadó szerkezetek túlsúlya a természet egykori szépségének és gazdagságának hiányát nyomatékosítja
+		- ember nélküli természet képeit mutatja be
+			- szentimentalizmus
+	- 4. versszak
+		- filozófiai csúcspont, lírai elmélkedés
+		- itt ér véget a negatív képsor
+		- megjelenik az első összegzés
+	- 5-6. versszak
+		- a beszélő egyéni sorsa a téma, saját mulandósága
+		- időszembesítő, értékszembesítő gesztusok
+		- életének tavaszában jár, de elfogja a sejtelem, hogy nem tart sokáig
+	- mindhárom egység hangulati ereszkedést mutat
+---
+### Levéltöredékek barátnémhoz
+- 1806 
+- műfaja elégia
+- létösszegző költemény
+- klasszicista stílus, romantikus stílusjegyekkel
+- témája a lelki magány
+	- megkapó szépségét a bánat érzélketése adja
+- kifejezőeszközök
+	- metafora
+	- megszemélyesítés
+	- párhuzam
+	- jelkép
+- beszédhelyzete megfelel az episztolával
+	-  lírai én közvetlen, tegező
+	- ez a 3. versszakban változik, tehát nem igazi episztola
+- a cím műfajkijeleölő, utal a szövegre
+	- megtévesztő, mert episztolát ígér, de elégia a vers
+	- azt állítja hogy a vers töredékes, de nemaz, mert egy tökéletesen zárt alkotás
+- 2 egységre bontható szerkezetileg
+	- 1-4. versszak 
+		- a szüreti est lefestése
+		- episztola műfajának megfelelő beszédhelyzet megalkotása
+		- epikus, életképszerű elemek
+		- 3. versszaktól a beszédhelyzet önmagára fordul
+			- külső történések helyett belső lélekállapot kerül a központba
+	- 5. versszak
+		- összegző rész, az eddig megjelnített magányos, melankólikus lelkiállapotot elvonatkoztatja a konkrét helyzetről
+		- eltolja a 2. versszakban megjelölt pontos időtől
+		- létösszegzéssé emeli a lírai ént
+	- 6. versszak
+		- visszautal a vers korábbi motívumaira
