@@ -11,7 +11,7 @@
 - [x] [[irodalom/Mikszath Kalman novellai|10. Mikszáth Kálmán novellái]]
 - [x] [[irodalom/Moricz Zsigmond egy valasztott muve|11. Móricz Zsigmond egy választott műve]]
 - [x] [[irodalom/Radnoti hitvesi kolteszete|12. Radnóti Miklós hitvesi költészete]]
-- [ ] [[|13. Bodor Ádám novellái]]
+- [x] [[irodalom/Bodor Adam novellai|13. Bodor Ádám novellái]]
 - [x] [[irodalom/Okori gorog eposzok|14. Az ókori görög eposzok]]
 - [x] [[irodalom/Puskin Anyegin|15. Puskin: Anyegin]]
 - [x] [[irodalom/A realizmus egy valasztott mu|16. A realizmus, egy választott mű]]
