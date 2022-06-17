@@ -1,0 +1,90 @@
+# Radnóti hitvesi költészete
+---
+### Életrajz 
+- 1909 Budapest - 1944 Győr-Moson-Sopron megye
+- zsidú család
+	- eredeti neve Glatter Miklós
+		- Nemesradnót Miklósra akarja változtatni, de nem engedik
+	- születéskor meghal anyja és ikertestvére
+		- *ikrek hava*
+	- apját is korán elveszti
+		- árva lesz, kereskedő nagybátyja neveli
+- középiskolában kereskedelmet és textilipart tanul
+- Szegedi Egyetem magyar-francia szak
+	- Numerus Clausus miatt csak ide veszik fel
+		- Sík Sándor esztétikájára jár
+			- katolikus pap -> Radnóti áttér
+		- ezalatt folyamatosan publikál
+- 1930-40 között 5 kötete jelenik meg
+- 1936 elveszi Gyarmati Fannit
+	- nagy szerelem
+	- nem születik gyerek (nem akartak gyereket -> sok abortusz)
+- '30-as évek megkapja a Baumgarten-díjat
+- 1936 *Járkálj csak halálraítélt*
+	- önmagáról írta
+- 1939 Párizs, Sorbonne Egyetemre meghívják
+	- doktorál
+	- állást ajánlanak neki -> nem fogadja el -> hazatér(bruh)
+- 1940 első munkaszolgálat
+	- frontot árokásás
+- 1944 Szerbia, Bor-vidékre kerül munkatáborba
+	- felszámolják a tábort -> Németországba küldik őket
+		- Radnótit vonattal vinnék -> partizán robbantástól való félelem miatt elcseréli gyalogmenetre -> útközben lelövik
+		- 2 évvel később találják meg
+		- 1946 *Tajtékos éj* posztumusz kötet
+---
+### Szerelmi költészete
+- magyar irodalomban egyedülálló
+	- egyetlen hitves: Gyarmati Fanni
+---
+### Tétova óda
+- első szerelmes verse a *Tétova óda* 
+	- egyetlen képben egy összetett szerelmet próbál bemutatni
+	- címe oximoron
+		- óda műfaji sajátosságaiból nem lehet tétova
+	- kilép a tér és idó korlátaiból -> ars poetika végszó
+		- "_mert annyit érek én, amennyit ér a szó a versemben s mert ez addig izgat engem, míg csont marad belőlem és néhány hajcsomó_"
+	- ezután váltás és visszatér a tér időbe
+		- hétköznnapi vacsi -> idillikus környezetbe és hangulatba varázsol minket
+	- egyszerű dolgokhoz való kötődés Fanni miatt sokkal személyesebb és igazi vallomának hat, míg a színes és hangulatos bókok Fanni szépségét és kedvességét dícsérik
+	- személyes költői képek
+		- vibrálnak az érzések, gondolatok és boldog, mert vele él 
+	- A várakozás szépsége jelenik meg
+		- boldog, mert Fannira vár
+		- azonosak, lélekben egyek, egymásra vannak hangolva
+----
+### Hetedik ecloga
+- 1944
+- műfaja életkép, bár a címe eclogára utal
+	- az eclogák párbeszédesek
+- a költő a munkatáborban való valós helyzetét, álmait, képzelődéseit írja le
+	- mindvégig kettőség jellemzi
+		- valúság - álom
+		- tények - vágyak
+- szerkesztő elve a különböző valóságsíkok változtatása
+	- egyszer rideg valóságm másszor az álom jelenik meg, a tábor és az otthon képe váltja egymást, a jelen és a múlt mosódik össze
+	- egyetlen menekülő út a visszaemlékezés
+- hangulata nyomasztó, megdöbbentő a formai rendezettsége, a költő türelme, bölcsessége
+	- egy biztos: felesége után érzett örökkévaló ls olthatatlan szerelme
+- szürrealista vízó, szókincsét kettőség jellemzi
+	- a múlt szépítő, a jelen pedig durva 
+- költőieszközök:
+	- ellentét
+	- ismétlés
+	- megszemélyesítés
+	- leírások
+	- kérdések és válaszok váltják egymást
+- hexameteres verselés
+- szerkezet
+	- 1. versszak 
+		- a távollevő kedvest szólítja meg, a tábor vad világát és az álmukban szabaddá váló foglyokat, a bezártságot jeleníti meg
+	- 2. versszak 
+		- az otthon emlékeit idézi fel, a foglyok a valósából a képzeletbe, az emlékekbe menekülnek, amelyek a valósághoz képest idilliek
+	- 3. versszak
+		- ismét az „itt”, azaz a valóság nyomorúságát, a kiszolgáltatott, állatként élő emberek helyzetét írja le
+	- 4. versszak
+		- a beszélő vágyait jeleníti meg
+	- 5. versszak
+		- tények bemutatását folytatja
+	- 6. versszak
+		- egy újabb megszólítás, és szerelmi vallomás a költő felesége felé. A szörnyű valóságot csak az álmodozás, a múlhatatlan szerelem enyhíti
