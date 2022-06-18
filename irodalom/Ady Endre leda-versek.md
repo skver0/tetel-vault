@@ -14,7 +14,7 @@
 	- Debrecenben jogi tanulmányok
 		- nem végzi el
 		- itt lesz újságíró
-		- 1. verseskötete: Versek
+		- 1. verseskötete: *Versek*
 	- Nagyvárad
 		- Nagyváradi Napló szerkesztője
 			- ez alapozza meg ismertségét
@@ -44,9 +44,9 @@
 	- Budapesti Napló
 	- radikális liberális lap
 - 3 kötetben jelennek meg Léda varsek
-	- Új versek: Léda asszony zsoltárai
-	- Vér és arany: Léda asszony aranyszobra
-	- Az Illés szekerén: Léda ajkai között
+	- *Új versek*: Léda asszony zsoltárai
+	- *Vér és arany*: Léda asszony aranyszobra
+	- *Az Illés szekerén*: Léda ajkai között
 - megjelenik bennük
 	- tabu **erotika**
 	- vágy és taszítás kettőssége

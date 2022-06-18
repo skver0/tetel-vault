@@ -36,7 +36,7 @@
 - szerkezete retorikus, kérdések és válaszok szigorú, logikus rendére épül a vers
 	- 1-8. sor bevezető rész
 		- felveti a társadalom alapvető ellentmondását: milliók küszködnek és nyomorognak, míg néhány ezer kiváltságos ember jólétben él
-	- a második résza fő rész, három nagy kérdésből és válaszból áll
+	- a második rész a fő rész, három nagy kérdésből és válaszból áll
 		- az első kérdés, hogy minek van könyvtár, lett-e a világ a könyvek által erősebb
 		- a második, hogy megsemmitsítsék-e a könyveket, amiért nem segítették az emberek boldogulását, 40-106. sorig tart
 		- a harmadik a legáltalánosabb, "mi dolgunk a világon?" erre a válasz: "küzdeni erőnk szerint a legnemesebekért."

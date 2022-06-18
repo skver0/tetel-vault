@@ -2,7 +2,7 @@
 ---
 ### Életrajz 
 - 1909 Budapest - 1944 Győr-Moson-Sopron megye
-- zsidú család
+- zsidó család
 	- eredeti neve Glatter Miklós
 		- Nemesradnót Miklósra akarja változtatni, de nem engedik
 	- születéskor meghal anyja és ikertestvére
@@ -24,7 +24,7 @@
 	- önmagáról írta
 - 1939 Párizs, Sorbonne Egyetemre meghívják
 	- doktorál
-	- állást ajánlanak neki -> nem fogadja el -> hazatér(bruh)
+	- állást ajánlanak neki -> nem fogadja el -> hazatér
 - 1940 első munkaszolgálat
 	- frontot árokásás
 - 1944 Szerbia, Bor-vidékre kerül munkatáborba
@@ -55,19 +55,19 @@
 ----
 ### Hetedik ecloga
 - 1944
-- műfaja életkép, bár a címe eclogára utal
-	- az eclogák párbeszédesek
+- műfaja életkép, bár a címe [eklogára](https://hu.wikipedia.org/wiki/Ekloga) utal
+	- az eklogák párbeszédesek
 - a költő a munkatáborban való valós helyzetét, álmait, képzelődéseit írja le
 	- mindvégig kettőség jellemzi
 		- valúság - álom
 		- tények - vágyak
 - szerkesztő elve a különböző valóságsíkok változtatása
-	- egyszer rideg valóságm másszor az álom jelenik meg, a tábor és az otthon képe váltja egymást, a jelen és a múlt mosódik össze
+	- egyszer rideg valóság, másszor az álom jelenik meg, a tábor és az otthon képe váltja egymást, a jelen és a múlt mosódik össze
 	- egyetlen menekülő út a visszaemlékezés
 - hangulata nyomasztó, megdöbbentő a formai rendezettsége, a költő türelme, bölcsessége
-	- egy biztos: felesége után érzett örökkévaló ls olthatatlan szerelme
+	- egy biztos: felesége után érzett örökkévaló és olthatatlan szerelme
 - szürrealista vízó, szókincsét kettőség jellemzi
-	- a múlt szépítő, a jelen pedig durva 
+	- a múlt szép, tökéletes, a jelen pedig durva 
 - költőieszközök:
 	- ellentét
 	- ismétlés
@@ -77,7 +77,7 @@
 - hexameteres verselés
 - szerkezet
 	- 1. versszak 
-		- a távollevő kedvest szólítja meg, a tábor vad világát és az álmukban szabaddá váló foglyokat, a bezártságot jeleníti meg
+		- a távol lévő kedvest szólítja meg, a tábor vad világát és az álmukban szabaddá váló foglyokat, a bezártságot jeleníti meg
 	- 2. versszak 
 		- az otthon emlékeit idézi fel, a foglyok a valósából a képzeletbe, az emlékekbe menekülnek, amelyek a valósághoz képest idilliek
 	- 3. versszak

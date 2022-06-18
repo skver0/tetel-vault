@@ -10,7 +10,7 @@
 ### Eposzi kellékek
 - **múzsa segítségül hívása** - invokáció
 - **témamegjelölés** - propozíció
-- **isteni beavatkozás **- deus ex machina
+- **isteni beavatkozás**- deus ex machina
 - **dolgok közepébe vágás** - in medias res
 - **seregszámla** - enumeráció
 - **állandó jelző** - epiteton orlans

@@ -1,7 +1,7 @@
 # Petőfi tájleíró versei 
 ---
 ### Életrajz
-- 1823 (Kiskőrös) - 1849 (Segesvárnál eltűnt)
+- 1823 Kiskőrös - 1849 Segesvárnál eltűnt
 	- apja: Petrovics István
 	- anyja: Hrúz Mária
 -  iskolái
@@ -16,13 +16,13 @@
 	- kevés színészi társulatban
 	- szegények
 - 1842 - első verse
-	- Borozó
+	- *Borozó*
 - Pesti Divatlapnál segédszerkeztő
 - 1847 - elveszi Szendrey Júliát
 	- nászúton megírja a Szeptember végént
 - 1848 március 15 - a forradalom legnagyobb alakja
-- indult a Szabadszállási képviselőválasztáson, de nem szavazták meg
-	- az apostolt ez inspirálja 
+- indult a szabadszállási képviselőválasztáson, de nem szavazták meg
+	- az *Apostol*t ez inspirálja 
 - 1848 októberétől - Bem József seregében szolgál
 --- 
 ### A Tisza
@@ -30,19 +30,24 @@
 - egy régi élményére tekint vissza
 - múlt időben van írva
 - Tisza kétarcúsága jeleníti meg
-- 15 strófa áll
+- 15 strófából áll
 - tájrazzal kezdődik
 - nyári este, Tisza partján
 - <i>(Ott, hol a kis Túr siet beléje / Mint a gyermek anyja kebelére)</i>
 	- hasonlat
 - Tisza jellemzése 2-3. versszakon keresztül
 - 4. versszaktól a Tisza-parti táj leírása
-	- először a közeli dolgokat veszi szemügyre(víztükör, a föveny)
-	- aztán a távoliakat(erdő, a bércek)
+	- először a közeli dolgokat veszi szemügyre
+		- víztükör,
+		- a föveny
+	- aztán a távoliakat
+		- erdő
+		- a bércek
 	- leírása egyszerű
 	- hasonlat, megszemélyesítés
 	- a hangokat is leírja 
-		- csend, madárfütty
+		- csend
+		- madárfütty
 	- a táj csendes és mozdulatlan 
 		- majd megjelenik a túlpartopn a pór menyecske
 			- egyetlen emberalak
@@ -73,7 +78,7 @@ _Annál többet, annál szebbet mondasz._
 - drámai befejezés
 	- pár nap múlva a költő arra riad fel, hogy harangoznak az árvíz miatt
 - romantikus vonás a versben az ellentét
-	- a nyugodt Tisza vs az örjöngő, elmebeteg Tisza között
+	- a nyugodt Tisza és az örjöngő, elmebeteg Tisza között
 - az utolsó strófában a vers társadalmi mondanivalóval telítődik: a megáradt, zúgva-bőgve tomboló Tisza képe az erejére ráébredő, fölkelő, szabadságáért fegyvert ragadó nép jelképe lesz
 ---
 ### Alföld
@@ -94,7 +99,7 @@ _Annál többet, annál szebbet mondasz._
 	- pontosan hitelesen ábrázolja a tájat
 - rónaság, alföld magasztalása
 	- először a magyar irodalomban
-	- itt született, az haza iránti szeretet
+	- itt született, a haza iránti szeretet
 - témája
 	- egy új tájeszmény, a síkság éltetése a vadregényes hegyvidéki tájjal szemben
 - a vers középpontjában a költő áll
@@ -111,8 +116,8 @@ _Annál többet, annál szebbet mondasz._
 	- duna-tisza köze
 	- sas
 - beszédhelyzet
-	- visszatekintő, mivel a vers pesten keletkezett
-		- emlékezetből írta el
+	- visszatekintő, mivel a vers Pesten keletkezett
+		- emlékezetből írta le
 - időben és térben lineárisan halad
 	- a költő előbb tágítja a látókört, majd fokozatosan szűkíti egyetlen ponttá, végül a horizont legtávolabbi széléig lendítit
-		- aldöld végtelen illúzióját kelti
+		- az alföld végtelen illúzióját kelti

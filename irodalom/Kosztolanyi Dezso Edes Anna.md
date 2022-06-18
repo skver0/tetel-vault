@@ -32,7 +32,7 @@
 ### Édes Anna
 - téma ihletője
 	- Kosztolányi felesége + korabeli újságcikk (cseléd megöli gazdáit)
-		- téma: cseládlány mindennapjairól, megszégyenítéséről, kettős gyilkosság
+		- téma: cselédlány mindennapjairól, megszégyenítéséről, kettős gyilkosság
 - kerete
 	- helyszín: Budapest
 	- idő: Tanácsköztársaság bukása után

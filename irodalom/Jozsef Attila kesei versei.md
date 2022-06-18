@@ -7,7 +7,7 @@
 		- szappanfőző
 		- elhagyja a családot
 			- Amerikába akar menni
-			- Rmániában telepedik le
+			- R`*`mániában telepedik le
 	- anyja: Pőcze Borbála (Mama)
 		- 3 gyerekről gondoskodik (Etus, Jolán, Attila)
 		- szobákat béreltek -> folyamatos költözés
@@ -26,13 +26,13 @@
 - 1919 meghal a Mama
 	- Etus és Attila gyámja Makai Ödön lesz
 		- Ödön finanszírozza Attila tanulmányait
-- 1920 Makón jár gimnáziumbe
+- 1920 Makón jár gimnáziumba
 	- első kötete: *Szépség koldusa* (1922)
 - 17 évesen elhagyja a gimit
 	- Makai megvonja az anyagi támogatást
 	- 1922-25 barátjai támogatják (Espersit János)
 	- nélkülözés
-	- Lázadó Krisztus verse miatt fogházba rakják istenkáromlásért
+	- *Lázadó Krisztus* verse miatt fogházba rakják istenkáromlásért
 - magántanulóként elvégzi a középiskolát
 - 1924 Szegedi Egyetemre beiratkozik magyar-francia szakra
 	- Szeged című lapban jelenik meg a *Tiszta szívvel*
@@ -80,10 +80,10 @@ Jellegzetes lírai verstípus, amely a művész saját egyéniségfejlődéséne
 - parafrázis az első sor
 	- Szenczi Molnár Albert által fordított _90. zsoltár_ 
 - E/1, csak a cím és az utolsó sor tér el
-- igeidő csak az utolsó sorban vált át múltbül jelenbe, majd vissza
+- igeidő csak az utolsó sorban vált át múltból jelenbe, majd vissza
 - második sorban végez a leltározással, mert nincsen semmije
-- kezdődő életlt halálos betegségként kezeli
-- halálba trokollik
+- kezdődő életlóét halálos betegségként kezeli
+- halálba torkollik
 ---
 ### Karóval jöttél...
 - tél -> toposz, elmúlás

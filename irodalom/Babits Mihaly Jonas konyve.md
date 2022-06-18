@@ -16,7 +16,7 @@
 - 1911 Újpesten tanár
 	- második kötete: *Herceg, hátha megjön a tél is*
 - Rákospalotán lakott, Bristol kávéház
-- lefordítja Dante: Isteni színjátékát
+- lefordítja Dante: *Isteni színjáték*át
 	- fasiszta olasz állam kitünteni: San Remo-díj
 		- problémás a halála után
 - 1914 - 18 
@@ -36,7 +36,7 @@
 		- feltétel: politikai el nem köteleződés -> konfliktus József Attilával
 - 1929 Móriczcal szerkeszti a Nyugatot
 	- 1933 népi - urbánus vita
-	- Móricz Kelet Népét írja innentől
+		- Móricz Kelet Népét írja innentől
 	- 1941-ig szertkeszti Babits
 - 1930-as években gégerák
 	- műtét
@@ -50,7 +50,7 @@
 ### Jónás könyve 
 - 1938
 - forrás
-	- Károlyi Gáspár 1590-es Bibliafordítása (12 prőféta könyve)
+	- Károlyi Gáspár 1590-es Bibliafordítása (12 próféta könyve)
 - 4 részes elbeszélő költemény: bibliai Jónás-történet
 	- valójában Babits szellemi önéletrajza
 		- mi a szerepe a világban
@@ -67,4 +67,4 @@
 		- igazság követése ne csapjon át szélsőséges igazságtalanságba
 - mű kérdése: mit tehet a költő a kor barbár erőinek ellenében?
 	- válasz az Úr szava: "A szó tiéd, a fegyver az enyém. / Te csak prédikálj, én cselekszem"
-	- emberiség iránti felelőssége mellet tesz hitet 
+	- emberiség iránti felelőssége mellett tesz hitet 

@@ -7,7 +7,7 @@
 		- borbélyos, sebészorvos
 		- jó megélhetés
 		- fiatalon meghal
-		- halála után a család elszegényedik
+		- halála után a család elszegényedik a család
 	- anyja: Diószegi Sára
 		- kifőzdét üzemel
 - 1780 Debreceni Református Kollégium
@@ -30,7 +30,7 @@
 	- mecénást keres
 	- Diétai Magyar Múzsa folyóiratot megjelenteti
 		- 11 szám jelenik meg
-		- nem fizettek elő elgen
+		- nem fizettek elő elegen
 - Komáromba megy 
 	- gazdag kereskedőváros
 	- itt ismeri meg Vajda Juliannát
@@ -38,7 +38,7 @@
 		- nagy szerelem
 		- gazdag kereskedő lánya -> Csokonai túl szegény hozzá
 - állást kell keresnie
-	- keszthelyen nem kap állást [Georgikonban](https://hu.wikipedia.org/wiki/Georgikon)
+	- keszthelyen nem kap állást a [Georgikonban](https://hu.wikipedia.org/wiki/Georgikon)
 	- Csurgói gimiben helyettesítő tanár lesz
 		- mire megkapja az állást Lillát férhez adják
 			- összeomlik
@@ -76,9 +76,9 @@
 - tartalmilag három részre osztható
 	- 1. strófa 
 		- jelenetszerűen leírja a költő élethelyzetét
-	- 2. - 6. strófa
+	- 2 - 6. strófa
 		- költő fájdalmalmának, magányának okait beszéli el
-	- 7. - 10. strófa 
+	- 7 - 10. strófa 
 	- büszkén visszavonolú bölcs, remeteségben megnyúvást kereső költő
 ---
 ### A Reményhez
@@ -92,7 +92,7 @@
 		- népiesség jegyei is megjelennek
 		- elsősorban klasszicista
 			- a megszemélyesített Remény allegorikus alakként, egy istennő képében jelenik meg, aki kegyetlenül játszik az emberekkel
-			- a formai mívesség és játékosság mögött ott van a klasszicista fegyelme
+			- a formai mívesség és játékosság mögött ott van a klasszicizmus fegyelme
 - a cím megszemélyesítés
 	- a remény egyfajta hangulat, bizakodás, úgy érezzük lehetőségünk van valamire
 	- megszólítja a reményt, de nem alakul ki párbeszéd

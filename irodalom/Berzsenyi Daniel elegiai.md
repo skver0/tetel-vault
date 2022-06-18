@@ -31,7 +31,7 @@
 - 1816 második kötete
 - sok gondja és baja volt
 	- családi nehézségek
-	- egészségi állapot ingatag volt
+	- egészségi állapota ingatag volt
 - 1817 Kölcsey bírálta 
 	- kemény és igazságtalan
 	- háttérban Kazinczy állt
@@ -41,7 +41,7 @@
 		- tudmányos munkálkodásba és esztétikai-irodalmi tanulmányokba kezdett
 			- igyekezett pótolni műveletlenségét
 - 1825 *Észrevételek Kölcsey recenziójára* műve
-	- Kölcsey klasszicista alapelveira kiefogásait a romantika nevében visszautasította
+	- Kölcsey klasszicista alapelveira kifogásait a romantika nevében visszautasította
 - 1830 Akadémiai filozófiai osztályán tag
 	- 1833 poetai harmonistica
 ---
@@ -67,12 +67,12 @@
 	- ellentétes színhatások
 	- szineztéziás képek("néma homály")
 	- hangutánzó, hangulatfestő szavak ("zörög", "lengedez", "borong")
-- fő motívum az ószi fák, amik a pusztulás szimbólumai
+- fő motívum az őszi fák, amik a pusztulás szimbólumai
 	- toposz
 - 3 egységre bontható szerkezetileg
 	- 1-3. versszak
 		- az őszi táj képe, tájleírás
-		- a táj mebutatása negatívan történik
+		- a táj bemutatása negatívan történik
 			- a tagadó szerkezetek túlsúlya a természet egykori szépségének és gazdagságának hiányát nyomatékosítja
 		- ember nélküli természet képeit mutatja be
 			- szentimentalizmus
@@ -101,9 +101,9 @@
 - beszédhelyzete megfelel az episztolával
 	-  lírai én közvetlen, tegező
 	- ez a 3. versszakban változik, tehát nem igazi episztola
-- a cím műfajkijeleölő, utal a szövegre
+- a cím műfajkijelölő, utal a szövegre
 	- megtévesztő, mert episztolát ígér, de elégia a vers
-	- azt állítja hogy a vers töredékes, de nemaz, mert egy tökéletesen zárt alkotás
+	- azt állítja hogy a vers töredékes, de nem az, mert egy tökéletesen zárt alkotás
 - 2 egységre bontható szerkezetileg
 	- 1-4. versszak 
 		- a szüreti est lefestése
