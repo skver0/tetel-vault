@@ -11,13 +11,13 @@
 	
 - Repeater (jelismétlő): - a jel erősitése a feladata.
 
-- Bridge(híd): mac cim alapján engedi át a forgalmat hálózaton belül
+- Bridge(híd): MAC cim alapján engedi át a forgalmat hálózaton belül
 
 - Hálózati kártya: - half duplex, full duplex, hálózatokkal való kommunikáció a feladata, ez kártyától függően lehet vezetékes meg vezetéknélküli.
 
 - Router: - vezetékes, vezetéknélküli
-	- IP alapján engedi át a forgalmat általában, ip cimet maszkot, dns-t oszt. némelyik tud médiát szűrni (pl 18+ os tartalom).
-	- router fajták: SOHO (small office, home office), vállalat/nagyválllati, szolgáltatói (A.K.A Isp (internet service provider)) 
+	- IP alapján engedi át a forgalmat általában, IP cimet maszkot, DNS-t oszt. némelyik tud médiát szűrni (pl 18+ os tartalom).
+	- router fajták: SOHO (small office, home office), vállalat/nagyválllati, szolgáltatói (A.K.A ISP (Internet Service Provider)) 
 	
 - protokollok: 
 	- TCP/IP (OSPF, RIP, EIGRP stb)

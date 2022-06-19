@@ -1,14 +1,14 @@
 # Tesztelés és hibakeresés
 ### A teszt meghatározása
-- szoftverfejlesztésben a tesztelés a programkód tesztelését jelent. Önmagában a tesztelés nem elegendő egy minőségi munkához, viszont ahoz elengedhetetlen. A célja a egy rendszer hibáinak, vagy hiánnyoságainak feltárása.
+- szoftverfejlesztésben a tesztelés a programkód tesztelését jelent. Önmagában a tesztelés nem elegendő egy minőségi munkához, viszont ahhoz elengedhetetlen. A célja egy rendszer hibáinak, vagy hiánnyoságainak feltárása.
 ---
 ### A tesztelés típusai
-- pozitív tesztelés: lényege hogy megerősítse, hogy a kifeljesztett termék a szándékoknak megfelelően működik-e.
+- pozitív tesztelés: lényege, hogy megerősítse, hogy a kifeljesztett termék a szándékoknak megfelelően működik-e.
 - negativ tesztelés: lényege hogy biztosítsa a termék megbízhatóságát, biztonságát még akkor is ha váratlan inputokat illesztenek a termékbe.
 ---
 ### A Tesztelés szükségességei:
 - Műszaki eset: ha nehéz megjósólni a rendszer viselkedését az összetevőiből, ezek a hibák eszközi meghibásodásokhoz vezethetnek.
-- Üzleti eset: ha a hibákat nem a fejlesztési szakaszban veszik észre, hanem amikormár az ügyfelek használják a terméket. Ami kellemetlen, és ronthatja a hírnevét a cégnek. 
+- Üzleti eset: ha a hibákat nem a fejlesztési szakaszban veszik észre, hanem amikor már az ügyfelek használják a terméket. Ami kellemetlen, és ronthatja a hírnevét a cégnek. 
 - Szakmai eset: ha a termék megtervezése nehéz, és kihivást jelent
 ---
 ### A hibakeresés meghatározása

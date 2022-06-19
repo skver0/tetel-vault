@@ -27,14 +27,14 @@ Olyan elektronikus eszköz, amely képes adatok tárolására, visszakereséés�
 			- légmentesen lezárt 
 			- egy tengelyen több fémlemez
 	4. optikai
-		- az optikai tárak optikai elven működnekj
+		- az optikai tárak optikai elven működnek
 			- lézerfényt használnak
 			- a működési felületre eső fénynyaláb visszaverődik vagy szétszóródik
 		- CD-fajtái
 			- CD-ROM
 				- csak olvasható
 			- CD-R
-				- csak egy írható lemez
+				- csak egyszer írható lemez
 			- CD-RW
 				- újraírható lemez
 			- max kapacitás: 700 MB

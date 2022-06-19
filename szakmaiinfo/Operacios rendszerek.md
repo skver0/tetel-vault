@@ -41,7 +41,7 @@ Egy számítógép az operációs rendszert bekapcsoláskor a BIOS indítja el, 
 		- több beviteli eszköz használható
 			- egér, billentyűzet
 		- legtöbbször egy nyíl alakú jelenik meg amivel rá lehet vinni a képernyőn található objektumokra és valamelyik egér kattintásával lehet parancsot kiadni a rendszernek
-		- előnye hogy könnyebb használni viszon a nagyobb a programkód és a memória használata miatt lasabb mint egy szöveges felület
+		- előnye hogy könnyebb használni, viszont a nagyobb a programkód és a memória használata miatt lassabb, mint egy szöveges felület
 - felhasználók száma alapján
 	- lényege hogy képes-e a rendszer az operációs rendszer megkülönböztetni két felhasználót egymástól
 	- singleuser (egyfelhasználós)

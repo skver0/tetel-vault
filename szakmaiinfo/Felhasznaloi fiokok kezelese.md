@@ -10,8 +10,8 @@
 ---
 ### Fiók fajták
 - offline/helyi fiók
-- online/ microsoft fiókhoz kötött 
-- quest/vendég fiók
+- online/microsoft fiókhoz kötött 
+- guest/vendég fiók
 ----
 ### Privilégium szintek
 - rendszergazdai (mindent tud csinálni, kivétel ha al rendszergazda) 
@@ -21,7 +21,7 @@
 ### Helyi felhasználói fiók létrehozása (offline)
 1. start > gépház > fiókok > más felhasználók
 2. más új személy felvétele-re katt
-3. válassza a "nem ismerem  a személy bejelentkezési adatait" gombra, majd a következő lapon a "Microsoft-fiókkal nem rendelkező felhasználó hozzáadása elemet".
+3. válassza a "nem ismerem a személy bejelentkezési adatait" gombra, majd a következő lapon a "Microsoft-fiókkal nem rendelkező felhasználó hozzáadása elemet".
 4. Adjon meg egy felhasználónevet, jelszót, jelszó-emlékeztetőt, vagy válasszon ki biztonsági kérdéseket, és válassza a **Tovább** elemet.
 - online módnál egy microsoft fiókkat kell bejentkezni, olyankor sok mindent be lehet állítani, például a megvásárolt windows kulcsot is hozzá lehet rendelni a microsoft fiókhoz. profilképtől kezdve, becenévig, telefonszámig minden megadható, könyebbség szempontból.
 ---

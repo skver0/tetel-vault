@@ -1,6 +1,6 @@
 # Hálózati címek
 ### IPv cím fajták
-- Ipv4 és mostani modernebb Ipv6
+- IPv4 és mostani modernebb IPv6
 ---
 ### IPv4 címek
 - A hálózaton a számítógépeket egy egyedi cím, az IP cím azonosítja.
@@ -32,7 +32,6 @@ Minden hálózatban az első cím, a hálózat címe, a legutolsó pedig szórá
 - Az IPv6-ban unicast, multicast és anycast címek vannak
 - Az unicast cím egy állomás egy interface-ét jelöli, a multicast és anycast címek számos interfaceket jelölnek (többnyire különböző állomásokon)
 - a multi és anycast-nél a feladott csomag mindegyik interface-re meg fog érkezni,  a unicast-nál pedig csak az egyik interface-re
-- Az anycast címek szintaktikailag megkülönböztethetetlenek az unicast címektől, ez úgy működik, hogy egyszerre több állomásnak is kiosztjuk ugyanazt a címet, erről mindegyik állomásnak tudnia kell, ezeket aztán a router-ek terjeszteni fogják.
 - Az anycast címek szintaktikailag megkülönböztethetetlenek az unicast címektől, ez úgy működik, hogy egyszerre több állomásnak is kiosztjuk ugyanazt a címet, erről mindegyik állomásnak tudnia kell, ezeket aztán a router-ek terjeszteni fogják.
 - A következő előre definiált multicast címek léteznek:
 	1.  Minden állomás (az állomáson belül: FF01::1, a link-en FF02::1)

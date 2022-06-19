@@ -1,7 +1,7 @@
 # Vezérlési szerkezetek
 ### Fajtái
-- While - elöltesztelő - Elöszőr kiértékeli a feltételt amely művelet egy boolean értéket ad vissza, amennyiben ez egy igaz érték, a végrehajtó blokkban lévő utasítások ismétlődően lefutnak amíg nem vált át hamisra a feltétel.
-- Do-While - hátultesztelős ciklus - A feltételt a ciklus végrehajtása után értékeli ki, tehát egyszer biztosan lefog futni a végrahjtó blokkban lévő utasítások
+- While - elöltesztelő - Elöszőr kiértékeli a feltételt, amely egy boolean értéket ad vissza, amennyiben ez egy igaz érték, a végrehajtó blokkban lévő utasítások ismétlődően lefutnak amíg nem vált át hamisra a feltétel.
+- Do-While - hátultesztelős ciklus - A feltételt a ciklus végrehajtása után értékeli ki, tehát egyszer biztosan le fog futni a végrahajtó blokkban lévő utasítások
 - For - számláló ciklus - szintaxis: for (inicializálás, feltétel, növekmény) {utasítások}
 	- inicializálás - kezdőérték
 	- feltétel - meghatározza meddig kell futnia a ciklusnak 
@@ -17,8 +17,6 @@
 	- egy egész szám értéke alapján akarunk végrehajtani utasításokat
 	- kiértékeli a kifejezést és lefuttatja a megfelelő case utasítást
 	- minden case értéknek egyedinek kell lennie, és a vizsgált értékek csak konstansok lehetnek
-	- minden case értéknek egyedinek kell lennie, és a vizsgált értékek csak konstansok lehetnek
-	- Break utasítás megszakítja az épp bezáródó switch utasítást, és a vezérlés szála a switch-blokk utáni első utasításhoz kerül
 	- Break utasítás megszakítja az épp bezáródó switch utasítást, és a vezérlés szála a switch-blokk utáni első utasításhoz kerül
 	- Szintaxis: 
 		switch ( int ) {
