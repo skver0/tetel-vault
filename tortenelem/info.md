@@ -19,5 +19,6 @@
 - [x] [[tortenelem/Az iszlam vallas kialakulasa es fobb tanitasai|18. Az iszlám vallás kialakulása és főbb tanításai]]
 - [x] [[Diktaturak a ket vilaghaboruk kozott|19. Diktatúrák a két világháború között]]
 - [x] [[tortenelem/Az Europai Unio alapelvei intezmenyei es mukodese|20. Az Európai Unió alapelvei, intézményei és működése]]
-- [ ] [[tortenelem/2.4 A kozepkori uradalom es mezogazdasag, a huberiseg es a jobbagysag jellemzoi|2.4 A középkori uradalom és mezőgazdaság, hűbériség és a jobbágyság]]
-- [x]  [[tortenelem/2.2 A korai kapitalista gazdasag kialakulasa es jellemzoi|2.2 A korai kapitalista gazdaság kialakulása és jellemzői]]
+- [x] [[tortenelem/2.4 A kozepkori uradalom es mezogazdasag, a huberiseg es a jobbagysag jellemzoi|2.4 A középkori uradalom és mezőgazdaság, hűbériség és a jobbágyság]]
+- [x]  [[2.2 A korai kapitalista gazdasag kialakulasa es jellemzoi|2.2 A korai kapitalista gazdaság kialakulása és jellemzői]]
+- [x] [[tortenelem/2.9 A reformkor fobb kerdesei es kepviseloi|A reformkor főbb kérdései és képviselői]]
